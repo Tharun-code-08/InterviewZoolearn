@@ -18,17 +18,21 @@ import CareerPath from './pages/CareerPath';
 import CareerCategory from './pages/CareerCategory';
 import Scopes from './pages/Scopes';
 import ScopeCategory from './pages/ScopeCategory';
+import About from './pages/About';
+import TaxonomyTree from './pages/TaxonomyTree';
+import LivingWorld from './pages/LivingWorld';
+import KingdomAnimalia from './pages/KingdomAnimalia';
 
 export default function App() {
   return (
     <Layout>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/about" element={<Placeholder title="About" />} />
-        <Route path="/taxonomy-tree" element={<Placeholder title="Taxonomy Tree" />} />
-        <Route path="/living-world" element={<Placeholder title="The Living World" />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/taxonomy-tree" element={<TaxonomyTree />} />
+        <Route path="/living-world" element={<LivingWorld />} />
         <Route path="/basic-features-of-classification" element={<BasicFeatures />} />
-        <Route path="/kingdom-animalia" element={<Placeholder title="Kingdom Animalia" />} />
+        <Route path="/kingdom-animalia" element={<KingdomAnimalia />} />
         <Route path="/horse-evolution" element={<HorseEvolution />} />
         <Route path="/evolution" element={<UnderConstruction />} />
         <Route path="/anatomy" element={<Patterns />} />
