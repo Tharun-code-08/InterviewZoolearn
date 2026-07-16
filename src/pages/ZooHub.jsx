@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import PhylumSection from '../components/PhylumSection';
+import Logo from '../components/Logo';
 import { PHYLUM_META } from '../data/phylumMeta';
 
 export default function ZooHub() {
@@ -12,11 +13,7 @@ export default function ZooHub() {
         <div className="zoohub-banner-content">
           <div className="scroll-reveal">
             <div className="zoohub-banner-center">
-              <img
-                alt="ZooLearn Logo"
-                className="zoohub-banner-logo"
-                src="https://res.cloudinary.com/duibfmcw1/image/upload/v1765947727/logopng_2_webaac.png"
-              />
+              <Logo className="zoohub-banner-logo" size={72} />
               <h1 className="zoohub-banner-brand">ZooHub</h1>
             </div>
           </div>
