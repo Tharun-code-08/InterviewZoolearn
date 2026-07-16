@@ -1,0 +1,582 @@
+{
+  "sycon": {
+    "id": 1,
+    "slug": "sycon",
+    "name": "Sycon",
+    "scientificName": "Scypha sponge",
+    "description": "Sycon is a simple marine sponge. It shows syconoid canal system. Commonly used as a poriferan example.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767671742/sycon_kzvnrx.png",
+    "3d": "https://sketchfab.com/3d-models/sycon-hyper-realistic-73b8c10c24444f0d9176edb4aeafde60/embed",
+    "introduction": [
+      "Sycon lives in shallow marine waters.",
+      "It is sessile and filter-feeding.",
+      "Important for understanding sponge organization."
+    ],
+    "features": [
+      "Level of Organisation: Cellular level",
+      "Germ layer: Diploblastic (cellular grade)",
+      "Body symmetry: Asymmetrical",
+      "Coelom: Acoelomate",
+      "Body plan: Cell aggregate body plan",
+      "Digestion type: Intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water canal system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton (calcareous spicules)",
+      "Nervous system: Absent",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Small cylindrical body",
+      "Central spongocoel",
+      "Numerous ostia",
+      "White in colour"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Porifera",
+      "Class: Calcarea",
+      "Order: Leucosolenida",
+      "Family: Sycettidae",
+      "Genus: Sycon"
+    ],
+    "ecology": [
+      "Filter feeder",
+      "Cleans seawater",
+      "Part of marine benthos"
+    ],
+    "economy": [
+      "Teaching specimen",
+      "Research importance",
+      "Indicator of clean water"
+    ]
+  },
+  "leucosolenia": {
+    "id": 2,
+    "slug": "leucosolenia",
+    "name": "Leucosolenia",
+    "scientificName": "White tubular sponge",
+    "description": "Leucosolenia is a primitive sponge. It shows asconoid canal system. Marine and colonial.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767671721/Leucosolenia_lyznns.png",
+    "3d": "",
+    "introduction": [
+      "Leucosolenia inhabits shallow seas.",
+      "Sessile and filter-feeding.",
+      "Represents simplest sponge structure."
+    ],
+    "features": [
+      "Level of Organisation: Cellular level",
+      "Germ layer: Diploblastic (cellular grade)",
+      "Body symmetry: Asymmetrical",
+      "Coelom: Acoelomate",
+      "Body plan: Cell aggregate body plan",
+      "Digestion type: Intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water canal system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton (calcareous spicules)",
+      "Nervous system: Absent",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Small tubular body",
+      "Thin body wall",
+      "Terminal osculum",
+      "White and transparent"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Porifera",
+      "Class: Calcarea",
+      "Order: Leucosolenida",
+      "Family: Leucosoleniidae",
+      "Genus: Leucosolenia"
+    ],
+    "ecology": [
+      "Filter feeder",
+      "Maintains water quality",
+      "Part of reef microfauna"
+    ],
+    "economy": [
+      "Academic importance",
+      "Evolutionary studies",
+      "Teaching model"
+    ]
+  },
+  "grantia": {
+    "id": 3,
+    "slug": "grantia",
+    "name": "Grantia",
+    "scientificName": "Grant’s sponge",
+    "description": "Grantia is a syconoid sponge. Body wall is folded. Marine and solitary.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767671622/Grantia_oxhw07.png",
+    "3d": "",
+    "introduction": [
+      "Grantia lives attached to rocks.",
+      "Sessile and filter-feeding.",
+      "Commonly studied in zoology."
+    ],
+    "features": [
+      "Level of Organisation: Cellular level",
+      "Germ layer: Diploblastic (cellular grade)",
+      "Body symmetry: Asymmetrical",
+      "Coelom: Acoelomate",
+      "Body plan: Cell aggregate body plan",
+      "Digestion type: Intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water canal system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton (calcareous spicules)",
+      "Nervous system: Absent",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Vase-shaped body",
+      "Thick folded wall",
+      "Central osculum",
+      "White colour"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Porifera",
+      "Class: Calcarea",
+      "Order: Leucosolenida",
+      "Family: Sycettidae",
+      "Genus: Grantia"
+    ],
+    "ecology": [
+      "Filter feeding",
+      "Nutrient cycling",
+      "Marine ecosystem role"
+    ],
+    "economy": [
+      "Zoology practical specimen",
+      "Educational importance",
+      "Research use"
+    ]
+  },
+  "euplectella": {
+    "id": 4,
+    "slug": "euplectella",
+    "name": "Euplectella",
+    "scientificName": "Venus flower basket",
+    "description": "Euplectella is a deep-sea glass sponge. Skeleton is siliceous. Shows beautiful lattice structure.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767671687/Euplectella_zkbhq3.png",
+    "3d": "https://sketchfab.com/3d-models/sponge-euplectella-sp-910236f09fae4a0590475f27ade961fa/embed",
+    "introduction": [
+      "Euplectella lives in deep marine waters.",
+      "Sessile and filter-feeding.",
+      "Known for symbiotic shrimps."
+    ],
+    "features": [
+      "Level of Organisation: Cellular level",
+      "Germ layer: Diploblastic (cellular grade)",
+      "Body symmetry: Radial",
+      "Coelom: Acoelomate",
+      "Body plan: Cell aggregate body plan",
+      "Digestion type: Intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water canal system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton (siliceous spicules)",
+      "Nervous system: Absent",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Cylindrical glass-like body",
+      "Lattice skeleton",
+      "Transparent",
+      "Fixed to sea floor"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Porifera",
+      "Class: Hexactinellida",
+      "Order: Lyssacinosida",
+      "Family: Euplectellidae",
+      "Genus: Euplectella"
+    ],
+    "ecology": [
+      "Deep-sea filter feeder",
+      "Habitat for symbionts",
+      "Nutrient cycling"
+    ],
+    "economy": [
+      "Decorative value",
+      "Museum specimen",
+      "Scientific interest"
+    ]
+  },
+  "hyalonema": {
+    "id": 5,
+    "slug": "hyalonema",
+    "name": "Hyalonema",
+    "scientificName": "Glass rope sponge",
+    "description": "Hyalonema is a deep-sea sponge. It has long twisted spicules. Belongs to glass sponges.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767671709/Hyalonema_d6gda7.png",
+    "3d": "",
+    "introduction": [
+      "Hyalonema lives in deep oceans.",
+      "Sessile and filter-feeding.",
+      "Anchored by long spicules."
+    ],
+    "features": [
+      "Level of Organisation: Cellular level",
+      "Germ layer: Diploblastic (cellular grade)",
+      "Body symmetry: Radial",
+      "Coelom: Acoelomate",
+      "Body plan: Cell aggregate body plan",
+      "Digestion type: Intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water canal system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton (siliceous spicules)",
+      "Nervous system: Absent",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Long rope-like spicules",
+      "Vase-shaped body",
+      "Transparent skeleton",
+      "Deep-sea form"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Porifera",
+      "Class: Hexactinellida",
+      "Order: Amphidiscosida",
+      "Family: Hyalonematidae",
+      "Genus: Hyalonema"
+    ],
+    "ecology": [
+      "Deep-sea filtration",
+      "Habitat provider",
+      "Nutrient recycling"
+    ],
+    "economy": [
+      "Scientific collections",
+      "Research importance",
+      "Decorative interest"
+    ]
+  },
+  "spongilla": {
+    "id": 6,
+    "slug": "spongilla",
+    "name": "Spongilla",
+    "scientificName": "Freshwater sponge",
+    "description": "Spongilla is a freshwater sponge. Forms gemmules. Common in ponds and lakes.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767671733/Spongilla_ykscrw.png",
+    "3d": "",
+    "introduction": [
+      "Spongilla inhabits freshwater bodies.",
+      "Sessile and filter-feeding.",
+      "Survives adverse conditions using gemmules."
+    ],
+    "features": [
+      "Level of Organisation: Cellular level",
+      "Germ layer: Diploblastic (cellular grade)",
+      "Body symmetry: Asymmetrical",
+      "Coelom: Acoelomate",
+      "Body plan: Cell aggregate body plan",
+      "Digestion type: Intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water canal system",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton (siliceous spicules)",
+      "Nervous system: Absent",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Irregular mass",
+      "Green due to algae",
+      "Soft body",
+      "Gemmules present"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Porifera",
+      "Class: Demospongiae",
+      "Order: Spongillida",
+      "Family: Spongillidae",
+      "Genus: Spongilla"
+    ],
+    "ecology": [
+      "Filters freshwater",
+      "Provides habitat",
+      "Water quality indicator"
+    ],
+    "economy": [
+      "Educational use",
+      "Ecological monitoring",
+      "Research importance"
+    ]
+  },
+  "euspongia": {
+    "id": 7,
+    "slug": "euspongia",
+    "name": "Euspongia",
+    "scientificName": "Bath sponge",
+    "description": "Euspongia is a commercial sponge. Skeleton is spongin fibers. Used as natural sponge.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767671701/Euspongia_sckgkk.png",
+    "3d": "",
+    "introduction": [
+      "Euspongia lives in marine waters.",
+      "Sessile and filter-feeding.",
+      "Economically important sponge."
+    ],
+    "features": [
+      "Level of Organisation: Cellular level",
+      "Germ layer: Diploblastic (cellular grade)",
+      "Body symmetry: Asymmetrical",
+      "Coelom: Acoelomate",
+      "Body plan: Cell aggregate body plan",
+      "Digestion type: Intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water canal system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton (spongin fibres)",
+      "Nervous system: Absent",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Soft porous body",
+      "Brown colour",
+      "Elastic texture",
+      "No spicules"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Porifera",
+      "Class: Demospongiae",
+      "Order: Dictyoceratida",
+      "Family: Spongiidae",
+      "Genus: Euspongia"
+    ],
+    "ecology": [
+      "Marine filtration",
+      "Habitat formation",
+      "Nutrient cycling"
+    ],
+    "economy": [
+      "Bathing sponge",
+      "Commercial value",
+      "Cosmetic use"
+    ]
+  },
+  "cliona": {
+    "id": 8,
+    "slug": "cliona",
+    "name": "Cliona",
+    "scientificName": "Boring sponge",
+    "description": "Cliona is a coral-boring sponge. It bores into shells and corals. Causes bioerosion.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767671680/Cliona_mkq4gd.png",
+    "3d": "https://sketchfab.com/3d-models/esponja-incrustante-amarilla-cliona-viridis-2468bd4381cf4ab39dbe55a603c4b5da/embed",
+    "introduction": [
+      "Cliona lives in marine habitats.",
+      "Sessile and destructive.",
+      "Important in reef ecology."
+    ],
+    "features": [
+      "Level of Organisation: Cellular level",
+      "Germ layer: Diploblastic (cellular grade)",
+      "Body symmetry: Asymmetrical",
+      "Coelom: Acoelomate",
+      "Body plan: Cell aggregate body plan",
+      "Digestion type: Intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water canal system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton (siliceous spicules)",
+      "Nervous system: Absent",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Encrusting body",
+      "Bores into substrates",
+      "Yellow colour",
+      "Small openings"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Porifera",
+      "Class: Demospongiae",
+      "Order: Clionaida",
+      "Family: Clionaidae",
+      "Genus: Cliona"
+    ],
+    "ecology": [
+      "Bioerosion of reefs",
+      "Substrate modification",
+      "Reef dynamics"
+    ],
+    "economy": [
+      "Damages corals",
+      "Reef management concern",
+      "Ecological studies"
+    ]
+  },
+  "xestospongia": {
+    "id": 9,
+    "slug": "xestospongia",
+    "name": "Xestospongia",
+    "scientificName": "Giant barrel sponge",
+    "description": "Xestospongia is a large marine sponge. Also called redwood of the reef. Very long-lived sponge.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767671751/Xestospongia_pxgw30.png",
+    "3d": "https://sketchfab.com/3d-models/grosser-vasenschwamm-xestospongia-testudinaria-0e67b51f243645edbcaf94d73e6358f1/embed",
+    "introduction": [
+      "Xestospongia inhabits coral reefs.",
+      "Sessile and filter-feeding.",
+      "One of the largest sponges."
+    ],
+    "features": [
+      "Level of Organisation: Cellular level",
+      "Germ layer: Diploblastic (cellular grade)",
+      "Body symmetry: Asymmetrical",
+      "Coelom: Acoelomate",
+      "Body plan: Cell aggregate body plan",
+      "Digestion type: Intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water canal system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton (spongin + siliceous spicules)",
+      "Nervous system: Absent",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Large barrel-shaped body",
+      "Thick walls",
+      "Brown or reddish",
+      "Wide osculum"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Porifera",
+      "Class: Demospongiae",
+      "Order: Haplosclerida",
+      "Family: Petrosiidae",
+      "Genus: Xestospongia"
+    ],
+    "ecology": [
+      "Filters huge water volume",
+      "Reef habitat provider",
+      "Nutrient cycling"
+    ],
+    "economy": [
+      "Reef tourism interest",
+      "Research on longevity",
+      "Conservation importance"
+    ]
+  },
+  "chalina": {
+    "id": 10,
+    "slug": "chalina",
+    "name": "Chalina",
+    "scientificName": "Finger sponge",
+    "description": "Chalina is a branching marine sponge. Soft and flexible body. Common on coral reefs.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767671657/Chalina_ip1gvg.png",
+    "3d": "",
+    "introduction": [
+      "Chalina lives in shallow marine waters.",
+      "Sessile and filter-feeding.",
+      "Abundant reef sponge."
+    ],
+    "features": [
+      "Level of Organisation: Cellular level",
+      "Germ layer: Diploblastic (cellular grade)",
+      "Body symmetry: Asymmetrical",
+      "Coelom: Acoelomate",
+      "Body plan: Cell aggregate body plan",
+      "Digestion type: Intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water canal system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton (spongin fibres)",
+      "Nervous system: Absent",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Branching finger-like body",
+      "Soft and flexible",
+      "Blue or purple colour",
+      "Porous surface"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Porifera",
+      "Class: Demospongiae",
+      "Order: Haplosclerida",
+      "Family: Chalinidae",
+      "Genus: Chalina"
+    ],
+    "ecology": [
+      "Reef filtration",
+      "Shelter for organisms",
+      "Nutrient cycling"
+    ],
+    "economy": [
+      "Marine biodiversity value",
+      "Research importance",
+      "Reef conservation relevance"
+    ]
+  }
+}

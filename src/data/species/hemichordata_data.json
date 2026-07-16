@@ -1,0 +1,179 @@
+{
+  "balanoglossus": {
+    "id": 1,
+    "slug": "balanoglossus",
+    "name": "Balanoglossus",
+    "scientificName": "Acorn worm",
+    "description": "Balanoglossus is a marine, worm-like animal.\nIt lives buried in sand or mud.\nIt shows features linking invertebrates and chordates.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1769410292/balanoglossus_z0bacg.png",
+    "3d": "https://sketchfab.com/3d-models/balanoglossus-e6d37812f0cb4df69906cec02f1d3995/embed",
+    "introduction": [
+      "Balanoglossus is a free-living marine hemichordate.",
+      "It inhabits sandy and muddy sea shores.",
+      "It is important in understanding chordate evolution."
+    ],
+    "features": [
+      "Level of Organisation: Organ level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Enterocoelous coelom",
+      "Body plan: Tube within a tube body plan (Deuterostomous)",
+      "Digestion type: Complete (extracellular digestion)",
+      "Respiratory type: Gill slits and diffusion",
+      "Circulatory type: Present, open circulation, single",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Proboscis gland with glomerulus",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Diffuse nerve net with dorsal nerve cord",
+      "Metamerism: Absent (body divided into proboscis, collar, trunk)",
+      "Fertilization: External",
+      "Development type: Indirect (tornaria larva)",
+      "Body temperature: Poikilothermic, euryhaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Hemichordata",
+      "Class: Enteropneusta",
+      "Order: Enteropneusta",
+      "Family: Ptychoderidae",
+      "Genus: Balanoglossus",
+      "Species: —"
+    ],
+    "sizeStructure": [
+      "Worm-like soft body",
+      "Body divided into proboscis, collar, and trunk",
+      "Brownish or pale yellow colour",
+      "Numerous gill slits in trunk region"
+    ],
+    "ecology": [
+      "Burrows and aerates marine sediments",
+      "Feeds on detritus and microorganisms",
+      "Helps nutrient recycling in coastal areas"
+    ],
+    "economy": [
+      "Important in evolutionary biology",
+      "Used in embryological studies",
+      "Indicator of healthy marine sediments"
+    ]
+  },
+  "saccoglossus": {
+    "id": 2,
+    "slug": "saccoglossus",
+    "name": "Saccoglossus",
+    "scientificName": "Acorn worm",
+    "description": "Saccoglossus is a small marine acorn worm.\nIt lives in U-shaped burrows.\nIt shows basic chordate-like features.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1769410298/Saccoglossus_lr8wsu.png",
+    "3d": "",
+    "introduction": [
+      "Saccoglossus is a free-living hemichordate.",
+      "It inhabits sandy and muddy coastal regions.",
+      "It is important in evolutionary studies."
+    ],
+    "features": [
+      "Level of Organisation: Organ level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Enterocoelous coelom",
+      "Body plan: Tube within a tube body plan (Deuterostomous)",
+      "Digestion type: Complete (extracellular digestion)",
+      "Respiratory type: Gill slits and diffusion",
+      "Circulatory type: Present, open circulation, single",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Proboscis gland with glomerulus",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Diffuse nerve net with dorsal nerve cord",
+      "Metamerism: Absent (proboscis, collar, trunk present)",
+      "Fertilization: External",
+      "Development type: Indirect (tornaria larva)",
+      "Body temperature: Poikilothermic, euryhaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Hemichordata",
+      "Class: Enteropneusta",
+      "Order: Enteropneusta",
+      "Family: Harrimaniidae",
+      "Genus: Saccoglossus",
+      "Species: —"
+    ],
+    "sizeStructure": [
+      "Small soft cylindrical body",
+      "Three distinct body regions",
+      "Pale yellow to brown colour",
+      "Gill slits present in trunk"
+    ],
+    "ecology": [
+      "Aerates marine sediments",
+      "Feeds on organic matter",
+      "Contributes to nutrient cycling"
+    ],
+    "economy": [
+      "Used in evolutionary research",
+      "Helps study origin of chordates",
+      "Environmental indicator species"
+    ]
+  },
+  "ptychodera-flava": {
+    "id": 3,
+    "slug": "ptychodera-flava",
+    "name": "Ptychodera flava",
+    "scientificName": "Acorn worm",
+    "description": "Ptychodera flava is a large acorn worm.\nIt lives buried in marine sediments.\nIt clearly shows hemichordate characters.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1769410294/Ptychodera_flava_bjmhjz.png",
+    "3d": "",
+    "introduction": [
+      "Ptychodera flava is a free-living marine animal.",
+      "It inhabits shallow sandy and muddy shores.",
+      "It is important for studying chordate ancestry."
+    ],
+    "features": [
+      "Level of Organisation: Organ level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Enterocoelous coelom",
+      "Body plan: Tube within a tube body plan (Deuterostomous)",
+      "Digestion type: Complete (extracellular digestion)",
+      "Respiratory type: Gill slits and diffusion",
+      "Circulatory type: Present, open circulation, single",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Proboscis gland with glomerulus",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Diffuse nerve net with dorsal nerve cord",
+      "Metamerism: Absent (proboscis, collar, trunk present)",
+      "Fertilization: External",
+      "Development type: Indirect (tornaria larva)",
+      "Body temperature: Poikilothermic, euryhaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Hemichordata",
+      "Class: Enteropneusta",
+      "Order: Enteropneusta",
+      "Family: Ptychoderidae",
+      "Genus: Ptychodera",
+      "Species: Ptychodera flava"
+    ],
+    "sizeStructure": [
+      "Long worm-like body",
+      "Yellowish to light brown colour",
+      "Large proboscis for burrowing",
+      "Numerous gill slits in trunk"
+    ],
+    "ecology": [
+      "Mixes and aerates marine sediments",
+      "Feeds on detritus and microbes",
+      "Part of coastal benthic food web"
+    ],
+    "economy": [
+      "Model organism in evolution studies",
+      "Used in developmental biology",
+      "Helps understand origin of chordate traits"
+    ]
+  }
+}

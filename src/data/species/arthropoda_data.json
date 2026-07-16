@@ -1,0 +1,1919 @@
+{
+  "peripatus": {
+    "id": 1,
+    "slug": "peripatus",
+    "name": "Peripatus",
+    "scientificName": "Velvet worm",
+    "description": "A primitive, caterpillar-like terrestrial invertebrate known as a \"living fossil.\"",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060363/Peripatus_o09obg.png",
+    "3d": "https://sketchfab.com/3d-models/peripatus-f57315b9a34a495d98c875da60d72a69/embed",
+    "introduction": [
+      "It is a nocturnal, carnivorous animal found in damp places like crevices of rocks, bark, and leaf litter. It is famously known as a connecting link between Annelida and Arthropoda, exhibiting characters of both phyla."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level of organisation",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Coelomate (Hemocoel)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete (Extracellular digestion)",
+      "Respiratory type: Tracheal system (Tracheae open through diffused spiracles)",
+      "Circulatory type: Open type",
+      "Circulation system: Open (Haemolymph flows in sinuses)",
+      "Regulation of Osmosis: Osmoregulator (Weak, restricted to moist habitats)",
+      "Excretory organ: Nephridia (Segmentally arranged)",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton (Thin, non-chitinous cuticle)",
+      "Nervous system: Ladder-like nervous system (Primitive)",
+      "Metamerism: Superficial segmentation (Internal segmentation present)",
+      "Fertilization: Internal fertilization",
+      "Development type: Direct development (Mostly viviparous)",
+      "Body temperature: Poikilothermic"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Onychophora",
+      "Class: Onychophoridea",
+      "Order: Euonychophora",
+      "Family: Peripatidae",
+      "Genus: Peripatus"
+    ],
+    "sizeStructure": [
+      "Size: Small body ranging from 2 cm to 15 cm in length.",
+      "Shape: Worm-like, cylindrical, and caterpillar-like body with unjointed legs (lobopods).",
+      "Colour: Dark grey, brown, or reddish, matching the soil or leaf litter.",
+      "Special external features: Skin has a velvety texture due to numerous minute papillae; head bears a pair of antennae and oral papillae."
+    ],
+    "ecology": [
+      "Acts as a predator, feeding on small invertebrates like termites, beetles, and snails.",
+      "Serves as a prey for larger predators such as birds, lizards, and spiders.",
+      "Functions as an indicator of a healthy, moist forest ecosystem."
+    ],
+    "economy": [
+      "Scientific Importance: Vital evolutionary evidence as a connecting link between Annelida and Arthropoda.",
+      "Research: Studied for its unique projectile slime mechanism (bio-adhesives).",
+      "Biodiversity: Represents an ancient lineage unchanged for millions of years (Living Fossil)."
+    ]
+  },
+  "palaemon": {
+    "id": 2,
+    "slug": "palaemon",
+    "name": "Palaemon",
+    "scientificName": "Prawn / Freshwater Prawn",
+    "description": "A common crustacean found in freshwater and marine environments, widely studied as a type specimen for Arthropoda.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060541/Palaemon_zt97tj.png",
+    "3d": "https://sketchfab.com/3d-models/pacific-cleaner-shrimp-057bd6e0019b428dbe88443b79295fef/embed",
+    "introduction": [
+      "It is a nocturnal, bottom-dwelling omnivore inhabiting freshwater rivers, ponds, and streams (some species are marine). It is economically significant as a food source and ecologically vital as a scavenger."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level of organisation",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Coelomate (Haemocoel)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete (Extracellular digestion)",
+      "Respiratory type: Branchial respiration (Gills)",
+      "Circulatory type: Open type",
+      "Circulation system: Open (Haemolymph flows in sinuses)",
+      "Regulation of Osmosis: Osmoregulator (Maintained by Green glands)",
+      "Excretory organ: Antennary glands (Green glands)",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton (Chitinous cuticle)",
+      "Nervous system: Ganglionated double ventral nerve cord",
+      "Metamerism: Metamerically segmented (Heteronomous segmentation)",
+      "Fertilization: External fertilization",
+      "Development type: Indirect development (Larval stage: Zoea)",
+      "Body temperature: Poikilothermic"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Malacostraca",
+      "Order: Decapoda",
+      "Family: Palaemonidae",
+      "Genus: Palaemon"
+    ],
+    "sizeStructure": [
+      "Size: Varies by species, generally elongated, ranging from 2.5 cm to over 30 cm (e.g., P. malcolmsonii).",
+      "Shape: Spindle-shaped, bilaterally symmetrical body divided into cephalothorax and abdomen.",
+      "Colour: Usually pale blue or translucent white, turning orange-red when cooked.",
+      "Special external features: Body protected by a hard carapace with a serrated, saw-like rostrum extending forward; possesses 19 pairs of jointed appendages."
+    ],
+    "ecology": [
+      "Acts as a scavenger and omnivore, feeding on algae, decaying matter, and small insects.",
+      "Serves as a primary food source for larger aquatic predators like fish and water birds.",
+      "Helps in cleaning the water body by consuming organic debris and detritus."
+    ],
+    "economy": [
+      "Food Industry: A major source of protein, widely consumed globally as a delicacy.",
+      "Aquaculture: Extensively farmed in \"Prawn Culture\" industries due to high growth rates.",
+      "Economy: High commercial export value contributes significantly to the fisheries economy."
+    ]
+  },
+  "macrobrachium": {
+    "id": 3,
+    "slug": "macrobrachium",
+    "name": "Macrobrachium",
+    "scientificName": "Giant Freshwater Prawn / Scampi / River Prawn",
+    "description": "A genus of large freshwater crustaceans extensively farmed for food, commercially known as \"Scampi.\"",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060529/Macrobactrum_k5rdik.png",
+    "3d": "https://sketchfab.com/3d-models/cc0-flat-tailed-freshwater-shrimp-6c1ab9644b8342b8a47ace33a8391704/embed",
+    "introduction": [
+      "It inhabits freshwater rivers, lakes, and canals, though larvae often require brackish water. It is nocturnal, bottom-dwelling, and highly aggressive, known for its massive growth potential in aquaculture."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level of organisation",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Coelomate (Haemocoel)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete (Extracellular digestion)",
+      "Respiratory type: Branchial respiration (Gills)",
+      "Circulatory type: Open type",
+      "Circulation system: Open (Haemolymph flows in sinuses)",
+      "Regulation of Osmosis: Osmoregulator (Active ion transport)",
+      "Excretory organ: Antennary glands (Green glands)",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton (Hard, calcareous, and chitinous)",
+      "Nervous system: Ganglionated double ventral nerve cord",
+      "Metamerism: Metamerically segmented (Heteronomous)",
+      "Fertilization: External fertilization",
+      "Development type: Indirect development (Larval stage: Zoea)",
+      "Body temperature: Poikilothermic (Euryhaline during larval stages)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Malacostraca",
+      "Order: Decapoda",
+      "Family: Palaemonidae",
+      "Genus: Macrobrachium"
+    ],
+    "sizeStructure": [
+      "Size: Large-bodied, reaching 30 cm or more in species like M. rosenbergii.",
+      "Shape: Elongated, cylindrical body with a rigid cephalothorax and muscular abdomen.",
+      "Colour: Greenish-blue to brownish-grey; mature males often have deep blue claws.",
+      "Special external features: Characterized by extremely long, powerful second pair of walking legs (chelipeds) and a long, serrated rostrum."
+    ],
+    "ecology": [
+      "Dominant benthic predator and scavenger in freshwater ecosystems.",
+      "Controls populations of snails and aquatic insects.",
+      "Serves as a key food source for predatory fish, wetland birds, and otters."
+    ],
+    "economy": [
+      "Aquaculture: The primary species for freshwater prawn farming (Blue Revolution).",
+      "Food Industry: High-value export product marketed globally as Scampi.",
+      "Livelihood: Provides significant income for inland fish farmers in tropical regions."
+    ]
+  },
+  "cancer": {
+    "id": 4,
+    "slug": "cancer",
+    "name": "Cancer",
+    "scientificName": "True crab",
+    "description": "Marine, benthic crustacean found in shallow seas.\nActive scavenger and predator with economic importance.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060461/cancer_tvitw9.png",
+    "3d": "https://sketchfab.com/3d-models/brown-crab-ea2530430ab04fccbd75363203dfaec3/embed",
+    "introduction": [
+      "Marine, benthic crustacean found in shallow seas.",
+      "Active scavenger and predator with economic importance."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete digestion",
+      "Respiratory type: Branchial respiration",
+      "Circulatory type: Open circulatory system",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Green glands",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Paired ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect development",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Crustacea",
+      "Order: Decapoda",
+      "Family: Cancridae",
+      "Genus: Cancer"
+    ],
+    "sizeStructure": [
+      "Medium-sized body",
+      "Broad, dorsoventrally flattened body",
+      "Usually reddish-brown in colour",
+      "Strong chelae and short abdomen folded ventrally"
+    ],
+    "ecology": [
+      "Acts as scavenger in marine ecosystem",
+      "Controls benthic invertebrate population",
+      "Part of marine food web"
+    ],
+    "economy": [
+      "Edible seafood",
+      "Commercial fishery importance",
+      "Used in ecological studies"
+    ]
+  },
+  "lucifer": {
+    "id": 5,
+    "slug": "lucifer",
+    "name": "Lucifer",
+    "scientificName": "Ghost shrimp",
+    "description": "Marine planktonic crustacean found in open waters.\nKnown for transparency and reduced appendages.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060518/lucifer_tneeyj.png",
+    "3d": "",
+    "introduction": [
+      "Marine planktonic crustacean found in open waters.",
+      "Known for transparency and reduced appendages."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete digestion",
+      "Respiratory type: Branchial respiration",
+      "Circulatory type: Open circulatory system",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Green glands",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: External",
+      "Development type: Indirect development",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Crustacea",
+      "Order: Decapoda",
+      "Family: Luciferidae",
+      "Genus: Lucifer"
+    ],
+    "sizeStructure": [
+      "Small, slender body",
+      "Nearly transparent",
+      "Reduced thoracic appendages",
+      "Elongated abdomen"
+    ],
+    "ecology": [
+      "Planktonic food source for fishes",
+      "Part of marine plankton community",
+      "Transfers energy in pelagic food chains"
+    ],
+    "economy": [
+      "Used in plankton studies",
+      "Indicator of marine productivity",
+      "Ecological research importance"
+    ]
+  },
+  "eupagurus": {
+    "id": 6,
+    "slug": "eupagurus",
+    "name": "Eupagurus",
+    "scientificName": "Hermit crab",
+    "description": "Marine crustacean inhabiting gastropod shells.\nShows unique adaptive behaviour.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060501/euparugus_lbi0jb.png",
+    "3d": "https://sketchfab.com/3d-models/animated-hermit-crab-89c6e1f76498402d87f0c98717dda4b5/embed",
+    "introduction": [
+      "Marine crustacean inhabiting gastropod shells.",
+      "Shows unique adaptive behaviour."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete digestion",
+      "Respiratory type: Branchial respiration",
+      "Circulatory type: Open circulatory system",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Green glands",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect development",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Crustacea",
+      "Order: Decapoda",
+      "Family: Paguridae",
+      "Genus: Eupagurus"
+    ],
+    "sizeStructure": [
+      "Soft asymmetrical abdomen",
+      "Occupies empty shells",
+      "Well-developed chelae",
+      "Cephalothorax hardened"
+    ],
+    "ecology": [
+      "Scavenger in marine ecosystem",
+      "Shell recycling agent",
+      "Part of coastal food chains"
+    ],
+    "economy": [
+      "Used in behavioural studies",
+      "Ecological balance maintenance",
+      "Aquarium trade relevance"
+    ]
+  },
+  "daphnia": {
+    "id": 7,
+    "slug": "daphnia",
+    "name": "Daphnia",
+    "scientificName": "Water flea",
+    "description": "Freshwater planktonic crustacean.\nImportant in aquatic food chains.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060486/dafina_x1ngnw.png",
+    "3d": "https://sketchfab.com/3d-models/animated-daphnia-361a99c7afdd470d99fc1269ebf56044/embed",
+    "introduction": [
+      "Freshwater planktonic crustacean.",
+      "Important in aquatic food chains."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete digestion",
+      "Respiratory type: Cutaneous respiration",
+      "Circulatory type: Open circulatory system",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Antennal glands",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Simple ganglionic system",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Direct development",
+      "Body temperature: Poikilothermic (euryhaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Crustacea",
+      "Order: Cladocera",
+      "Family: Daphniidae",
+      "Genus: Daphnia"
+    ],
+    "sizeStructure": [
+      "Very small size",
+      "Laterally compressed body",
+      "Transparent carapace",
+      "Large second antennae"
+    ],
+    "ecology": [
+      "Primary consumer in freshwater",
+      "Controls algal population",
+      "Food for fishes"
+    ],
+    "economy": [
+      "Used in toxicity testing",
+      "Model organism in research",
+      "Water quality indicator"
+    ]
+  },
+  "cyclops": {
+    "id": 8,
+    "slug": "cyclops",
+    "name": "Cyclops",
+    "scientificName": "Copepod",
+    "description": "Freshwater planktonic crustacean.\nNamed due to single median eye.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060474/cyclops_h6keae.png",
+    "3d": "https://sketchfab.com/3d-models/cyclops-copepoda-50b973d3b0fe4af8ba8347e95cedae38/embed",
+    "introduction": [
+      "Freshwater planktonic crustacean.",
+      "Named due to single median eye."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete digestion",
+      "Respiratory type: Cutaneous respiration",
+      "Circulatory type: Type-I",
+      "Circulation system: Absent",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Antennal glands",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ganglionic",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect development",
+      "Body temperature: Poikilothermic (euryhaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Crustacea",
+      "Order: Copepoda",
+      "Family: Cyclopidae",
+      "Genus: Cyclops"
+    ],
+    "sizeStructure": [
+      "Small cylindrical body",
+      "Single median eye",
+      "Long antennae",
+      "Egg sacs in females"
+    ],
+    "ecology": [
+      "Part of freshwater plankton",
+      "Food for fishes",
+      "Controls micro-organisms"
+    ],
+    "economy": [
+      "Intermediate host of Dracunculus",
+      "Used in ecological studies",
+      "Water quality indicator"
+    ]
+  },
+  "astacus": {
+    "id": 9,
+    "slug": "astacus",
+    "name": "Astacus",
+    "scientificName": "Crayfish",
+    "description": "Freshwater decapod crustacean.\nLives in rivers and streams.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060445/astacus_ktbezp.png",
+    "3d": "https://sketchfab.com/3d-models/lobster-omar-c3d365ac8f074499b58b375dd21945de/embed",
+    "introduction": [
+      "Freshwater decapod crustacean.",
+      "Lives in rivers and streams."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete digestion",
+      "Respiratory type: Branchial respiration",
+      "Circulatory type: Open circulatory system",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Green glands",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Direct development",
+      "Body temperature: Poikilothermic (euryhaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Crustacea",
+      "Order: Decapoda",
+      "Family: Astacidae",
+      "Genus: Astacus"
+    ],
+    "sizeStructure": [
+      "Elongated body",
+      "Large chelae",
+      "Dark brown colour",
+      "Segmented abdomen"
+    ],
+    "ecology": [
+      "Omnivorous bottom dweller",
+      "Recycles organic matter",
+      "Part of freshwater food web"
+    ],
+    "economy": [
+      "Edible crustacean",
+      "Aquaculture importance",
+      "Research organism"
+    ]
+  },
+  "palinurus": {
+    "id": 10,
+    "slug": "palinurus",
+    "name": "Palinurus",
+    "scientificName": "Spiny lobster",
+    "description": "Marine crustacean found in rocky coasts.\nValued seafood species.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060556/palinurus_jc0k8t.png",
+    "3d": "https://sketchfab.com/3d-models/lobster-omar-c3d365ac8f074499b58b375dd21945de/embed",
+    "introduction": [
+      "Marine crustacean found in rocky coasts.",
+      "Valued seafood species."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete digestion",
+      "Respiratory type: Branchial respiration",
+      "Circulatory type: Open circulatory system",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Green glands",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: External",
+      "Development type: Indirect development",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Crustacea",
+      "Order: Decapoda",
+      "Family: Palinuridae",
+      "Genus: Palinurus"
+    ],
+    "sizeStructure": [
+      "Large elongated body",
+      "Spiny exoskeleton",
+      "Long antennae",
+      "Absence of large chelae"
+    ],
+    "ecology": [
+      "Benthic scavenger",
+      "Controls invertebrate population",
+      "Marine ecosystem balance"
+    ],
+    "economy": [
+      "Highly valued seafood",
+      "Commercial fisheries",
+      "Export importance"
+    ]
+  },
+  "bombyx-mori": {
+    "id": 11,
+    "slug": "bombyx-mori",
+    "name": "Bombyx mori",
+    "scientificName": "Mulberry silkworm",
+    "description": "Small moth species.\nLarva produces mulberry silk.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060662/bombyx_mori_nzio0j.png",
+    "3d": "https://sketchfab.com/3d-models/cc0-silk-moth-bombyx-mori-398a2e6804224c099db989f10f53bbe5/embed",
+    "introduction": [
+      "Terrestrial insect domesticated for silk production.",
+      "Economically important in sericulture."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (haemocoel)",
+      "Body plan: Tube within a tube (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Tracheal",
+      "Circulatory type: Open",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord with ganglia",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect (complete metamorphosis)",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Lepidoptera",
+      "Family: Bombycidae",
+      "Genus: Bombyx",
+      "Species: mori"
+    ],
+    "sizeStructure": [
+      "Medium sized moth",
+      "Soft white body",
+      "Wings covered with scales",
+      "Larva is caterpillar with silk glands"
+    ],
+    "ecology": [
+      "Primary consumer",
+      "Part of food chain",
+      "Pollination (adult stage)"
+    ],
+    "economy": [
+      "Source of mulberry silk",
+      "Used in sericulture",
+      "Employment generation",
+      "Scientific research organism"
+    ]
+  },
+  "lepisma-saccharina": {
+    "id": 12,
+    "slug": "lepisma-saccharina",
+    "name": "Lepisma saccharina",
+    "scientificName": "Silverfish",
+    "description": "Small wingless insect.\nFound in human dwellings.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768061543/lepsima-removebg-preview_frm809.png",
+    "3d": "https://sketchfab.com/3d-models/insect-silverfish-a0e0f0a1e8e94fb5ae505d4bd299d037/embed",
+    "introduction": [
+      "Terrestrial insect living in moist areas.",
+      "Feeds on starchy materials."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (haemocoel)",
+      "Body plan: Tube within a tube (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Tracheal",
+      "Circulatory type: Open",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Zygentoma",
+      "Family: Lepismatidae",
+      "Genus: Lepisma",
+      "Species: saccharina"
+    ],
+    "sizeStructure": [
+      "Small elongated body",
+      "Silvery scales",
+      "Wingless",
+      "Three caudal filaments"
+    ],
+    "ecology": [
+      "Decomposer",
+      "Recycles organic matter"
+    ],
+    "economy": [
+      "Damages books and paper",
+      "Household pest"
+    ]
+  },
+  "antheraea-mylitta": {
+    "id": 13,
+    "slug": "antheraea-mylitta",
+    "name": "Antheraea mylitta",
+    "scientificName": "Tropical tasar silkworm",
+    "description": "Wild silkworm found in tropical forests of India.\nProduces tasar silk of commercial importance.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060734/mylitta_fjo2ue.png",
+    "3d": "https://sketchfab.com/3d-models/cc0-oak-silkmoth-antheraea-yamamai-5e98803fdaa1419d82875213048d38a5/embed",
+    "introduction": [
+      "Wild silkworm found in tropical forests of India.",
+      "Produces tasar silk of commercial importance."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete digestion",
+      "Respiratory type: Tracheal respiration",
+      "Circulatory type: Open circulatory system",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ganglionic with ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect development",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Lepidoptera",
+      "Family: Saturniidae",
+      "Genus: Antheraea",
+      "Species: mylitta"
+    ],
+    "sizeStructure": [
+      "Large moth",
+      "Brown wings with eye spots",
+      "Hairy larva",
+      "Robust body"
+    ],
+    "ecology": [
+      "Herbivore on forest trees",
+      "Part of forest food chains",
+      "Supports biodiversity"
+    ],
+    "economy": [
+      "Produces tasar silk",
+      "Supports tribal livelihood",
+      "Silk industry importance"
+    ]
+  },
+  "antheraea-paphia": {
+    "id": 14,
+    "slug": "antheraea-paphia",
+    "name": "Antheraea paphia",
+    "scientificName": "Tropical tasar moth",
+    "description": "Wild silkworm distributed in Indian forests.\nClosely related to A. mylitta.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060749/paphia_holg0z.png",
+    "3d": "",
+    "introduction": [
+      "Wild silkworm distributed in Indian forests.",
+      "Closely related to A. mylitta."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete digestion",
+      "Respiratory type: Tracheal respiration",
+      "Circulatory type: Open circulatory system",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect development",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Lepidoptera",
+      "Family: Saturniidae",
+      "Genus: Antheraea",
+      "Species: paphia"
+    ],
+    "sizeStructure": [
+      "Large brown moth",
+      "Falcate forewings",
+      "Prominent eye spots",
+      "Strong cocoon"
+    ],
+    "ecology": [
+      "Forest herbivore",
+      "Food source for predators",
+      "Maintains forest balance"
+    ],
+    "economy": [
+      "Source of tasar silk",
+      "Used in sericulture",
+      "Economic importance"
+    ]
+  },
+  "antheraea-proylei": {
+    "id": 15,
+    "slug": "antheraea-proylei",
+    "name": "Antheraea proylei",
+    "scientificName": "Oak tasar silkworm",
+    "description": "Hybrid tasar silkworm reared on oak plants.\nAdapted to temperate regions.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060796/proylei_nicrvc.png",
+    "3d": "",
+    "introduction": [
+      "Hybrid tasar silkworm reared on oak plants.",
+      "Adapted to temperate regions."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete digestion",
+      "Respiratory type: Tracheal respiration",
+      "Circulatory type: Open circulatory system",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect development",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Lepidoptera",
+      "Family: Saturniidae",
+      "Genus: Antheraea",
+      "Species: proylei"
+    ],
+    "sizeStructure": [
+      "Medium to large moth",
+      "Brownish wings",
+      "Strong silk cocoon",
+      "Stout larva"
+    ],
+    "ecology": [
+      "Consumes oak foliage",
+      "Part of temperate ecosystem",
+      "Supports food web"
+    ],
+    "economy": [
+      "Produces oak tasar silk",
+      "Used in hill sericulture",
+      "Commercial silk value"
+    ]
+  },
+  "antheraea-assamensis": {
+    "id": 16,
+    "slug": "antheraea-assamensis",
+    "name": "Antheraea assamensis",
+    "scientificName": "Muga silkworm",
+    "description": "Endemic silkworm of Assam.\nProduces golden muga silk.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060656/assamensis_idnuf0.png",
+    "3d": "",
+    "introduction": [
+      "Endemic silkworm of Assam.",
+      "Produces golden muga silk."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete digestion",
+      "Respiratory type: Tracheal respiration",
+      "Circulatory type: Open circulatory system",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect development",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Lepidoptera",
+      "Family: Saturniidae",
+      "Genus: Antheraea",
+      "Species: assamensis"
+    ],
+    "sizeStructure": [
+      "Golden-yellow cocoon",
+      "Large moth",
+      "Brownish wings",
+      "Strong silk fibre"
+    ],
+    "ecology": [
+      "Herbivore on som and soalu plants",
+      "Part of regional ecosystem",
+      "Supports biodiversity"
+    ],
+    "economy": [
+      "Produces muga silk",
+      "Cultural importance of Assam",
+      "High economic value"
+    ]
+  },
+  "philosamia-ricini": {
+    "id": 17,
+    "slug": "philosamia-ricini",
+    "name": "Philosamia ricini",
+    "scientificName": "Eri silkmoth",
+    "description": "Domesticated silkmoth reared mainly in northeastern India.\nProduces eri silk, also called peace silk, of economic importance.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060771/philosamia_dq1rfb.png",
+    "3d": "",
+    "introduction": [
+      "Domesticated silkmoth reared mainly in northeastern India.",
+      "Produces eri silk, also called peace silk, of economic importance."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete digestion",
+      "Respiratory type: Tracheal respiration",
+      "Circulatory type: Open circulatory system",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ganglionic with ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect development",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Lepidoptera",
+      "Family: Saturniidae",
+      "Genus: Philosamia",
+      "Species: ricini"
+    ],
+    "sizeStructure": [
+      "Large, stout-bodied moth",
+      "Brownish wings with eye spots",
+      "Larva soft, cylindrical, and green",
+      "Cocoon white to cream coloured"
+    ],
+    "ecology": [
+      "Herbivore feeding mainly on castor leaves",
+      "Part of terrestrial food chains",
+      "Supports agro-ecosystem balance"
+    ],
+    "economy": [
+      "Produces eri silk",
+      "Important cottage and rural industry",
+      "Non-violent silk production with social value"
+    ]
+  },
+  "periplaneta-americana": {
+    "id": 18,
+    "slug": "periplaneta-americana",
+    "name": "Periplaneta americana",
+    "scientificName": "Cockroach",
+    "description": "Large brown insect.\nNocturnal scavenger.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060767/periplanta_jcvuxs.png",
+    "3d": "http://sketchfab.com/3d-models/american-cockroach-7c26fbd1de9443cf89b6f9f02ddcf015/embed",
+    "introduction": [
+      "Terrestrial insect found in human habitats.",
+      "Acts as a decomposer."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (haemocoel)",
+      "Body plan: Tube within a tube (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Tracheal",
+      "Circulatory type: Open",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic (euryhaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Blattodea",
+      "Family: Blattidae",
+      "Genus: Periplaneta",
+      "Species: americana"
+    ],
+    "sizeStructure": [
+      "Flattened body",
+      "Long antennae",
+      "Two pairs of wings",
+      "Running legs"
+    ],
+    "ecology": [
+      "Decomposer",
+      "Food chain member"
+    ],
+    "economy": [
+      "Household pest",
+      "Disease carrier"
+    ]
+  },
+  "apis-indica": {
+    "id": 19,
+    "slug": "apis-indica",
+    "name": "Apis indica",
+    "scientificName": "Indian honey bee",
+    "description": "Social insect.\nLives in colonies.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060650/apis_indica_chxnke.png",
+    "3d": "https://sketchfab.com/3d-models/western-honey-bee-worker-f454c34050774077890dd4708a11ae82/embed",
+    "introduction": [
+      "Terrestrial pollinating insect.",
+      "Important in agriculture."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (haemocoel)",
+      "Body plan: Tube within a tube (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Tracheal",
+      "Circulatory type: Open",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Hymenoptera",
+      "Family: Apidae",
+      "Genus: Apis",
+      "Species: indica"
+    ],
+    "sizeStructure": [
+      "Hairy body",
+      "Two pairs of wings",
+      "Stinging apparatus",
+      "Pollen baskets"
+    ],
+    "ecology": [
+      "Major pollinator",
+      "Maintains biodiversity"
+    ],
+    "economy": [
+      "Honey production",
+      "Wax production",
+      "Crop yield improvement"
+    ]
+  },
+  "musca-domestica": {
+    "id": 20,
+    "slug": "musca-domestica",
+    "name": "Musca domestica",
+    "scientificName": "Housefly",
+    "description": "Common synanthropic insect.\nFound near human habitations.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060719/musca_domestica_luivou.png",
+    "3d": "https://sketchfab.com/3d-models/housefly-musca-domestica-08d80ef4bc2d4ab3a57b5b3ff227856d/embed",
+    "introduction": [
+      "Terrestrial insect associated with waste and filth.",
+      "Acts as a mechanical disease carrier."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (haemocoel)",
+      "Body plan: Tube within a tube (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Tracheal",
+      "Circulatory type: Open",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect (complete metamorphosis)",
+      "Body temperature: Poikilothermic (euryhaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Diptera",
+      "Family: Muscidae",
+      "Genus: Musca",
+      "Species: domestica"
+    ],
+    "sizeStructure": [
+      "Small grey body",
+      "Single pair of wings",
+      "Large compound eyes",
+      "Sponging mouthparts"
+    ],
+    "ecology": [
+      "Decomposer associate",
+      "Food chain member"
+    ],
+    "economy": [
+      "Vector of diseases",
+      "Public health importance"
+    ]
+  },
+  "laccifer": {
+    "id": 21,
+    "slug": "laccifer",
+    "name": "Laccifer",
+    "scientificName": "Lac insect",
+    "description": "Small scale insect.\nProduces lac resin.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060684/laccifer_xkk7c2.png",
+    "3d": "",
+    "introduction": [
+      "Plant-parasitic insect found on trees.",
+      "Economically important for lac production."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (haemocoel)",
+      "Body plan: Tube within a tube (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Tracheal",
+      "Circulatory type: Open",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Hemiptera",
+      "Family: Kerriidae",
+      "Genus: Laccifer"
+    ],
+    "sizeStructure": [
+      "Minute soft body",
+      "Covered with resinous secretion",
+      "Sexual dimorphism present"
+    ],
+    "ecology": [
+      "Plant parasite",
+      "Part of forest ecosystem"
+    ],
+    "economy": [
+      "Source of lac",
+      "Used in varnish and polish",
+      "Industrial importance"
+    ]
+  },
+  "anopheles": {
+    "id": 22,
+    "slug": "anopheles",
+    "name": "Anopheles",
+    "scientificName": "Malaria mosquito",
+    "description": "Slender mosquito.\nFemale is blood-sucking.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060644/anopheles_buassy.png",
+    "3d": "https://sketchfab.com/3d-models/mosquito-vfx-d3d2216cddf54236bc4e138c3561c3b5/embed",
+    "introduction": [
+      "Freshwater breeding insect.",
+      "Vector of malaria."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (haemocoel)",
+      "Body plan: Tube within a tube (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Tracheal",
+      "Circulatory type: Open",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect (complete metamorphosis)",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Diptera",
+      "Family: Culicidae",
+      "Genus: Anopheles"
+    ],
+    "sizeStructure": [
+      "Long legs",
+      "Spotted wings",
+      "Body rests at angle"
+    ],
+    "ecology": [
+      "Food for fishes and frogs",
+      "Aquatic larval role"
+    ],
+    "economy": [
+      "Vector of malaria",
+      "Medical importance"
+    ]
+  },
+  "culex": {
+    "id": 23,
+    "slug": "culex",
+    "name": "Culex",
+    "scientificName": "Common mosquito",
+    "description": "Widely distributed mosquito.\nFemale feeds on blood.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060667/culex_yy4abh.png",
+    "3d": "https://sketchfab.com/3d-models/mosquito-fce3bbae949c4966a6cfd9d757deba9b/embed",
+    "introduction": [
+      "Breeds in stagnant water.",
+      "Vector of filariasis."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (haemocoel)",
+      "Body plan: Tube within a tube (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Tracheal",
+      "Circulatory type: Open",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Diptera",
+      "Family: Culicidae",
+      "Genus: Culex"
+    ],
+    "sizeStructure": [
+      "Brown body",
+      "Narrow wings",
+      "Horizontal resting position"
+    ],
+    "ecology": [
+      "Food chain member",
+      "Larval filter feeder"
+    ],
+    "economy": [
+      "Vector of filariasis",
+      "Public health concern"
+    ]
+  },
+  "aedes": {
+    "id": 24,
+    "slug": "aedes",
+    "name": "Aedes",
+    "scientificName": "Dengue mosquito",
+    "description": "Day-biting mosquito.\nHighly active flier.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060627/aedes_qq40th.png",
+    "3d": "https://sketchfab.com/3d-models/mosquito-animated-589fe44dda6a40659abf7f2518c8daf7/embed",
+    "introduction": [
+      "Breeds in clean water containers.",
+      "Vector of viral diseases."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (haemocoel)",
+      "Body plan: Tube within a tube (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Tracheal",
+      "Circulatory type: Open",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Diptera",
+      "Family: Culicidae",
+      "Genus: Aedes"
+    ],
+    "sizeStructure": [
+      "Black body",
+      "White bands on legs",
+      "Pointed abdomen"
+    ],
+    "ecology": [
+      "Food chain member",
+      "Aquatic larva"
+    ],
+    "economy": [
+      "Vector of dengue and chikungunya",
+      "Major medical importance"
+    ]
+  },
+  "xenopsylla": {
+    "id": 25,
+    "slug": "xenopsylla",
+    "name": "Xenopsylla",
+    "scientificName": "Rat flea",
+    "description": "Wingless ectoparasite.\nLives on rodents.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060804/xenopsylla_tkxxlm.png",
+    "3d": "https://sketchfab.com/3d-models/flea-4130a25724d74783908d5653f915d7ae/embed",
+    "introduction": [
+      "Parasitic insect of rats.",
+      "Vector of plague."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (haemocoel)",
+      "Body plan: Tube within a tube (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Tracheal",
+      "Circulatory type: Open",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Siphonaptera",
+      "Family: Pulicidae",
+      "Genus: Xenopsylla"
+    ],
+    "sizeStructure": [
+      "Laterally compressed body",
+      "Strong jumping legs",
+      "Wingless"
+    ],
+    "ecology": [
+      "Ectoparasite",
+      "Disease transmission link"
+    ],
+    "economy": [
+      "Vector of plague",
+      "Public health importance"
+    ]
+  },
+  "glossina": {
+    "id": 26,
+    "slug": "glossina",
+    "name": "Glossina",
+    "scientificName": "Tsetse fly",
+    "description": "Blood-sucking fly.\nRestricted to Africa.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060674/glossina_qf3duk.png",
+    "3d": "https://sketchfab.com/3d-models/tsetse-fly-textured-263750e5a9c54c56a77d63ac06f2f317/embed",
+    "introduction": [
+      "Terrestrial parasitic insect.",
+      "Vector of sleeping sickness."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (haemocoel)",
+      "Body plan: Tube within a tube (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Tracheal",
+      "Circulatory type: Open",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Diptera",
+      "Family: Glossinidae",
+      "Genus: Glossina"
+    ],
+    "sizeStructure": [
+      "Brown fly",
+      "Long proboscis",
+      "Overlapping wings"
+    ],
+    "ecology": [
+      "Parasite",
+      "Food web component"
+    ],
+    "economy": [
+      "Vector of trypanosomiasis",
+      "Medical importance"
+    ]
+  },
+  "phlebotomus": {
+    "id": 27,
+    "slug": "phlebotomus",
+    "name": "Phlebotomus",
+    "scientificName": "Sand fly",
+    "description": "Minute hairy insect.\nWeak flier.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060783/phlebotomus_womcq6.png",
+    "3d": "",
+    "introduction": [
+      "Terrestrial insect active at night.",
+      "Vector of kala-azar."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (haemocoel)",
+      "Body plan: Tube within a tube (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Tracheal",
+      "Circulatory type: Open",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Diptera",
+      "Family: Psychodidae",
+      "Genus: Phlebotomus"
+    ],
+    "sizeStructure": [
+      "Tiny hairy body",
+      "Long legs",
+      "Upright wings"
+    ],
+    "ecology": [
+      "Food chain member"
+    ],
+    "economy": [
+      "Vector of kala-azar",
+      "Medical importance"
+    ]
+  },
+  "locusta": {
+    "id": 28,
+    "slug": "locusta",
+    "name": "Locusta",
+    "scientificName": "Locust",
+    "description": "Large grasshopper.\nForms destructive swarms.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060708/locusta_cnspv6.png",
+    "3d": "https://sketchfab.com/3d-models/locusta-migratoria-4b0fa9aa4fbe4523a2582bd6411d2270/embed",
+    "introduction": [
+      "Terrestrial herbivorous insect.",
+      "Major agricultural pest."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (haemocoel)",
+      "Body plan: Tube within a tube (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Tracheal",
+      "Circulatory type: Open",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Indirect (incomplete metamorphosis)",
+      "Body temperature: Poikilothermic (euryhaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Insecta",
+      "Order: Orthoptera",
+      "Family: Acrididae",
+      "Genus: Locusta"
+    ],
+    "sizeStructure": [
+      "Large elongated body",
+      "Powerful hind legs",
+      "Two pairs of wings"
+    ],
+    "ecology": [
+      "Primary consumer",
+      "Food chain member"
+    ],
+    "economy": [
+      "Serious crop pest",
+      "Agricultural loss"
+    ]
+  },
+  "araneus": {
+    "id": 29,
+    "slug": "araneus",
+    "name": "Araneus",
+    "scientificName": "Garden orb-weaver spider",
+    "description": "Medium-sized spiders forming circular orb webs.\nCommonly found in gardens and fields.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060852/araneus_ybf4zq.png",
+    "3d": "https://sketchfab.com/3d-models/cc0-devil-spider-araneus-ventricosu-cbe47106f52f41adbc0b928d8b4d8a1e/embed",
+    "introduction": [
+      "Terrestrial arachnids living on vegetation.",
+      "Important predators of insect pests."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (haemocoel)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Book lungs and tracheae",
+      "Circulatory type: Open",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ganglionic",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Arachnida",
+      "Order: Araneae",
+      "Family: Araneidae",
+      "Genus: Araneus"
+    ],
+    "sizeStructure": [
+      "Medium-sized body",
+      "Cephalothorax and abdomen distinct",
+      "Brown or yellow with markings",
+      "Long jointed legs with spines"
+    ],
+    "ecology": [
+      "Controls insect populations",
+      "Part of terrestrial food chains",
+      "Prey for birds and reptiles"
+    ],
+    "economy": [
+      "Biological pest control",
+      "Ecological balance maintenance",
+      "Used in behavioral studies"
+    ]
+  },
+  "buthus": {
+    "id": 30,
+    "slug": "buthus",
+    "name": "Buthus",
+    "scientificName": "Yellow scorpion",
+    "description": "Small to medium-sized venomous scorpions.\nCommon in dry regions.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060858/buthus_rdfa8t.png",
+    "3d": "https://sketchfab.com/3d-models/scorpion-272cba3af11448538fb0f6fcac04b2d7/embed",
+    "introduction": [
+      "Terrestrial nocturnal arachnids.",
+      "Known for mild to moderate venom."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (haemocoel)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Book lungs",
+      "Circulatory type: Open",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ganglionic",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Arachnida",
+      "Order: Scorpiones",
+      "Family: Buthidae",
+      "Genus: Buthus"
+    ],
+    "sizeStructure": [
+      "Elongated body",
+      "Yellowish colour",
+      "Large pincers",
+      "Curved sting at posterior end"
+    ],
+    "ecology": [
+      "Predator of insects",
+      "Controls pest populations",
+      "Part of desert ecosystem"
+    ],
+    "economy": [
+      "Medical importance due to venom",
+      "Used in toxin research",
+      "Indicator species for arid habitats"
+    ]
+  },
+  "palamneus": {
+    "id": 31,
+    "slug": "palamneus",
+    "name": "Palamneus",
+    "scientificName": "Black scorpion",
+    "description": "Large forest-dwelling scorpions.\nCommon in tropical regions.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060868/palamneus_duj4f9.png",
+    "3d": "https://sketchfab.com/3d-models/high-poly-pandinus-imperator-f21af380895c4c12a9a86ec909387391/embed",
+    "introduction": [
+      "Nocturnal terrestrial arachnids.",
+      "Venom is less dangerous to humans."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (haemocoel)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Book lungs",
+      "Circulatory type: Open",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ganglionic",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Arachnida",
+      "Order: Scorpiones",
+      "Family: Scorpionidae",
+      "Genus: Palamneus"
+    ],
+    "sizeStructure": [
+      "Large body size",
+      "Black or dark brown colour",
+      "Strong pedipalps",
+      "Thick tail with sting"
+    ],
+    "ecology": [
+      "Predator of insects and arthropods",
+      "Maintains forest floor balance",
+      "Food source for birds"
+    ],
+    "economy": [
+      "Venom studies",
+      "Educational specimen",
+      "Ecological indicator"
+    ]
+  },
+  "scolopendra-hardwickei": {
+    "id": 32,
+    "slug": "scolopendra-hardwickei",
+    "name": "Scolopendra hardwickei",
+    "scientificName": "Indian blue centipede",
+    "description": "Terrestrial, nocturnal arthropod found under stones and logs.\nA fast-moving carnivorous predator with defensive venom.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060953/scolopendra_hardwickei_il2y1b.png",
+    "3d": "https://sketchfab.com/3d-models/amazonian-giant-centipede-24ec652237b14bb08aa524ce29f95244/embed",
+    "introduction": [
+      "Terrestrial, nocturnal arthropod found under stones and logs.",
+      "A fast-moving carnivorous predator with defensive venom."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete digestion",
+      "Respiratory type: Tracheal respiration",
+      "Circulatory type: Open circulatory system",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Paired ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Direct development",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Chilopoda",
+      "Order: Scolopendromorpha",
+      "Family: Scolopendridae",
+      "Genus: Scolopendra",
+      "Species: hardwickei"
+    ],
+    "sizeStructure": [
+      "Elongated, dorsoventrally flattened body",
+      "Bright blue body with yellow legs",
+      "Body divided into many segments",
+      "Each segment bears one pair of legs"
+    ],
+    "ecology": [
+      "Predator of insects and small arthropods",
+      "Controls soil-dwelling pest population",
+      "Part of terrestrial food web"
+    ],
+    "economy": [
+      "Used in venom and toxin research",
+      "Educational specimen in zoology",
+      "Ecological importance in soil habitats"
+    ]
+  },
+  "archispirostreptus-gigas": {
+    "id": 33,
+    "slug": "archispirostreptus-gigas",
+    "name": "Archispirostreptus gigas",
+    "scientificName": "Giant African millipede",
+    "description": "Large terrestrial millipede inhabiting forest floors.\nSlow-moving detritivore important in decomposition.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768060982/archispirotrptus_gigas_nib8mk.png",
+    "3d": "",
+    "introduction": [
+      "Large terrestrial millipede inhabiting forest floors.",
+      "Slow-moving detritivore important in decomposition."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete digestion",
+      "Respiratory type: Tracheal respiration",
+      "Circulatory type: Open circulatory system",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Malpighian tubules",
+      "Mode of excretion: Uricotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Paired ventral nerve cord",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Direct development",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Diplopoda",
+      "Order: Spirostreptida",
+      "Family: Spirostreptidae",
+      "Genus: Archispirostreptus",
+      "Species: gigas"
+    ],
+    "sizeStructure": [
+      "Very long cylindrical body",
+      "Dark brown to black colour",
+      "Each segment bears two pairs of legs",
+      "Hard, smooth exoskeleton"
+    ],
+    "ecology": [
+      "Detritivore feeding on decaying plant matter",
+      "Enhances soil aeration",
+      "Important decomposer in ecosystems"
+    ],
+    "economy": [
+      "Used in soil ecology studies",
+      "Pet trade and educational exhibits",
+      "Contributes to nutrient recycling"
+    ]
+  },
+  "limulus": {
+    "id": 34,
+    "slug": "limulus",
+    "name": "Limulus",
+    "scientificName": "Horseshoe crab",
+    "description": "Marine living fossil arthropods.\nFound in shallow coastal waters.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768061330/lemulus-removebg-preview_mke1gv.png",
+    "3d": "https://sketchfab.com/3d-models/limulus-polyphemus-18c02551b73545259884a2485521ae53/embed",
+    "introduction": [
+      "Marine benthic arthropods.",
+      "Important in biomedical research."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Book gills",
+      "Circulatory type: Open",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Coxal glands",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Ganglionic",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic (stenohaline)"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Arthropoda",
+      "Class: Merostomata",
+      "Order: Xiphosura",
+      "Family: Limulidae",
+      "Genus: Limulus"
+    ],
+    "sizeStructure": [
+      "Large dome-shaped carapace",
+      "Brownish colour",
+      "Long spike-like telson",
+      "Book gills on abdomen"
+    ],
+    "ecology": [
+      "Benthic scavenger",
+      "Supports coastal food chains",
+      "Eggs feed migratory birds"
+    ],
+    "economy": [
+      "Source of LAL in medicine",
+      "Research importance",
+      "Evolutionary significance"
+    ]
+  }
+}
