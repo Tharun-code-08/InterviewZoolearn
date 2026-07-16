@@ -30,13 +30,13 @@ import {
   Image as ImageIcon,
 } from 'lucide-react';
 import frogSections from '../data/frogData.json';
+import { generatedArt } from '../utils/generatedArt';
 
 const TAXONOMY = { phylum: 'Chordata', class: 'Amphibia', order: 'Anura', tag: 'Amphibia | Anura' };
 const HERO = {
   title: 'Frog',
   subtitle: 'Rana tigrina',
-  image:
-    'https://res.cloudinary.com/dstunh4mx/image/upload/v1782102582/6f91a33b-f2ff-44e1-8451-0f799300c203_b5tnhc.png',
+  image: generatedArt('frog-hero', 'Frog'),
 };
 
 const ICONS = {
@@ -369,7 +369,7 @@ export default function Frog() {
                   </InfoCard>
                 ))}
               </div>
-              <FigureImage src={t.images?.morphologyMain} label="External Morphology of Frog" />
+              <FigureImage src={generatedArt('frog-morphologyMain', 'External Morphology of Frog')} label="External Morphology of Frog" />
             </div>
             <SectionTitle title={t.skin.title} />
             {t.skin.subsections.map((s, i) => (
@@ -400,7 +400,7 @@ export default function Frog() {
                   ))}
                 </div>
                 <div className="frog-card-img-col">
-                  <FigureImage src={t.images?.headFeatures} label="Head Features" />
+                  <FigureImage src={generatedArt('frog-headFeatures', 'Head Features')} label="Head Features" />
                 </div>
               </div>
             </InfoCard>
@@ -422,7 +422,7 @@ export default function Frog() {
                       <PointList items={s.points} />
                     </div>
                     <div className="frog-card-img-col">
-                      <FigureImage src={t.images?.[s.imageKey]} label={s.subtitle} />
+                      <FigureImage src={generatedArt(`frog-${s.imageKey}`, s.subtitle)} label={s.subtitle} />
                     </div>
                   </div>
                 </InfoCard>
@@ -463,7 +463,7 @@ export default function Frog() {
                 </InfoCard>
               </div>
               <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
-                <FigureImage src={t.images?.digestive} label="Digestive System" />
+                <FigureImage src={generatedArt('frog-digestive', 'Digestive System')} label="Digestive System" />
                 <InfoCard title="Alimentary Canal Path">
                   <FlowDiagram steps={t.alimentaryCanal?.flow} />
                 </InfoCard>
@@ -526,7 +526,7 @@ export default function Frog() {
                       <InfoCard title="Air Pathway">
                         <FlowDiagram steps={s.pathway} />
                       </InfoCard>
-                      <FigureImage src={t.images?.respiratory} label="Pulmonary Respiration" />
+                      <FigureImage src={generatedArt('frog-respiratory', 'Pulmonary Respiration')} label="Pulmonary Respiration" />
                     </div>
                   </div>
                 </div>
@@ -601,16 +601,14 @@ export default function Frog() {
                   </InfoCard>
                 ))}
               </div>
-              {t.images?.blood && (
-                <div className="frog-sticky-column">
-                  <FigureImage src={t.images.blood} label="Blood Cells and Lymph" />
-                </div>
-              )}
+              <div className="frog-sticky-column">
+                <FigureImage src={generatedArt('frog-blood', 'Blood Cells and Lymph')} label="Blood Cells and Lymph" />
+              </div>
             </div>
             <SectionTitle title={t.circulation?.title} />
             <InfoCard className="frog-highlight-card">
               <PointList items={t.circulation?.points} />
-              {t.images?.circulation && <CardImage src={t.images.circulation} alt="Circulation Path" />}
+              <CardImage src={generatedArt('frog-circulation', 'Circulation Path')} alt="Circulation Path" />
             </InfoCard>
           </div>
         );
@@ -644,8 +642,8 @@ export default function Frog() {
               {t.peripheral?.subsections.map((s, i) => (
                 <InfoCard title={s.subtitle} key={i}>
                   <PointList items={s.points} />
-                  {s.subtitle.includes('Peripheral') && t.images?.peripheral && (
-                    <CardImage src={t.images.peripheral} alt="Peripheral Nervous System (PNS)" />
+                  {s.subtitle.includes('Peripheral') && (
+                    <CardImage src={generatedArt('frog-peripheral', 'Peripheral Nervous System (PNS)')} alt="Peripheral Nervous System (PNS)" />
                   )}
                 </InfoCard>
               ))}
@@ -666,7 +664,7 @@ export default function Frog() {
                 {t.senseOrgans?.subsections.slice(2).map((s, i) => (
                   <InfoCard title={s.subtitle} key={i}>
                     <PointList items={s.points} />
-                    {t.images?.senses && <CardImage src={t.images.senses} alt="Chemical and Physical Senses" />}
+                    <CardImage src={generatedArt('frog-senses', 'Chemical and Physical Senses')} alt="Chemical and Physical Senses" />
                   </InfoCard>
                 ))}
               </div>
@@ -690,7 +688,7 @@ export default function Frog() {
                   </InfoCard>
                 ))}
               </div>
-              <FigureImage src={t.images?.excretory} label="Excretory System" />
+              <FigureImage src={generatedArt('frog-excretory', 'Excretory System')} label="Excretory System" />
             </div>
             <SectionTitle title={t.ureters?.title} />
             <InfoCard>
@@ -786,7 +784,7 @@ export default function Frog() {
                 {t.fertilization?.subsections.slice(3).map((s, i) => (
                   <InfoCard title={s.subtitle} key={i}>
                     <PointList items={s.points} />
-                    {t.images?.metamorphosis && <CardImage src={t.images.metamorphosis} alt="Changes During Metamorphosis" />}
+                    <CardImage src={generatedArt('frog-metamorphosis', 'Changes During Metamorphosis')} alt="Changes During Metamorphosis" />
                   </InfoCard>
                 ))}
               </div>

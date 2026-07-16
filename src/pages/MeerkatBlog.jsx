@@ -22,6 +22,7 @@ import {
   Telescope,
   Users,
 } from 'lucide-react';
+import { generatedArt } from '../utils/generatedArt';
 
 const NAV_ITEMS = [
   { id: 'meerkat-day', label: 'World Meerkat Day', icon: <Compass size={18} /> },
@@ -96,7 +97,7 @@ const STRIPE_SUBSPECIES = [
     id: 'southern',
     name: 'Southern Meerkat',
     scientific: 'Suricata suricatta suricatta',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783760939/meerkat02_oqtw1d.jpg',
+    image: generatedArt('southern-meerkat-subspecies', 'Southern Meerkat'),
     color: '#2f8593',
     description:
       'The nominate subspecies. Found in South Africa, Namibia, and Botswana, the Southern meerkat is defined by a warm tawny-brown coat with bold, dark brown horizontal bands across its back. The stripes are highly contrasting, aiding in camouflage among dry savanna brush.',
@@ -106,7 +107,7 @@ const STRIPE_SUBSPECIES = [
     id: 'desert',
     name: 'Desert Meerkat',
     scientific: 'Suricata suricatta majoriae',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783843298/meerkat_new_01_o40s9h.jpg',
+    image: generatedArt('desert-meerkat-subspecies', 'Desert Meerkat'),
     color: '#8ba393',
     description:
       'Adapted to the intense sun and sand of the Namib Desert. This subspecies exhibits a very pale, silvery-fawn or light sandy-gray coat. The stripes on its back are thinner, fainter, and less defined to prevent heat absorption and blend into sand dunes.',
@@ -116,7 +117,7 @@ const STRIPE_SUBSPECIES = [
     id: 'angolan',
     name: 'Angolan Meerkat',
     scientific: 'Suricata suricatta iona',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783843310/meerkat_new_02_mwm5sf.jpg',
+    image: generatedArt('angolan-meerkat-subspecies', 'Angolan Meerkat'),
     color: '#fcd42c',
     description:
       'Hailing from southwestern Angola. The Angolan meerkat is characterized by a darker, brownish-yellow coat. Its back markings are intermediate, displaying thick but slightly diffuse stripe patterns suitable for transitional bushland.',
@@ -160,7 +161,7 @@ const ROUTINE = [
     activity: 'Solar Basking',
     details:
       'As the sun rises, the mob emerges from the subterranean burrow. Cold from the freezing desert night, they stand tall on their hind legs facing the sun to expose their dark belly patches and absorb solar warmth.',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783851827/for_4th_page01_j2wmsy.jpg',
+    image: generatedArt('daily-life-solar-basking', 'Solar Basking'),
   },
   {
     id: 2,
@@ -169,7 +170,7 @@ const ROUTINE = [
     activity: 'Digging & Lookout Duty',
     details:
       'With bodies warmed, the mob travels to their foraging grounds. Foragers search for beetles and scorpions, while the designated sentinel climbs a high rock to keep watch for hawks, eagles, and jackals.',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783852390/for_4th_page02_yywyae.jpg',
+    image: generatedArt('daily-life-digging-lookout', 'Digging and Lookout Duty'),
   },
   {
     id: 3,
@@ -178,7 +179,7 @@ const ROUTINE = [
     activity: 'Burrow Rest & Grooming',
     details:
       'When the Kalahari sun reaches its scorching peak, foraging becomes too hot. The mob retreats underground into their elaborate, cool tunnel systems, spending the midday hours grooming, sleeping, and bonding.',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783852525/for_4thpage_03_duw5mr.webp',
+    image: generatedArt('daily-life-burrow-rest', 'Burrow Rest and Grooming'),
   },
   {
     id: 4,
@@ -187,7 +188,7 @@ const ROUTINE = [
     activity: 'Pup Mentorship & Foraging',
     details:
       'As temperatures cool, the meerkats return above ground. Foraging resumes, and this is the prime time for mentors to teach pups how to safely hunt and handle venomous prey like scorpions.',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783851817/4thpage04_kum353.jpg',
+    image: generatedArt('daily-life-pup-mentorship', 'Pup Mentorship and Foraging'),
   },
   {
     id: 5,
@@ -196,7 +197,7 @@ const ROUTINE = [
     activity: 'Securing the Den',
     details:
       'Before dusk settles, the mob returns to their nesting burrow. After a final scan of the sky by the sentinel, the entire clan descends deep underground, piling together in a cuddle puddle to conserve heat for the cold night ahead.',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783845257/meerkat_new10_ppvzzp.jpg',
+    image: generatedArt('daily-life-securing-den', 'Securing the Den'),
   },
 ];
 
@@ -220,21 +221,21 @@ const DIVERSITY = [
     scientific: 'Suricata suricatta suricatta',
     status: 'Least Concern',
     statusColor: '#16a34a',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783845296/meerkat_new11_e2c1ro.jpg',
+    image: generatedArt('diversity-southern-meerkat', 'Southern Meerkat'),
   },
   {
     name: 'Desert Meerkat',
     scientific: 'Suricata suricatta majoriae',
     status: 'Least Concern',
     statusColor: '#16a34a',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783759881/meerkat4_qem2wx.webp',
+    image: generatedArt('diversity-desert-meerkat', 'Desert Meerkat'),
   },
   {
     name: 'Angolan Meerkat',
     scientific: 'Suricata suricatta iona',
     status: 'Least Concern',
     statusColor: '#16a34a',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783845257/meerkat_new10_ppvzzp.jpg',
+    image: generatedArt('diversity-angolan-meerkat', 'Angolan Meerkat'),
   },
 ];
 
@@ -244,35 +245,35 @@ const ANCESTRY = [
     name: 'Feliform Ancestry (Early Carnivora)',
     description:
       'Mongooses belong to the Feliformia (cat-like) suborder. Roughly 15 million years ago, early mongoose ancestors diverged from other feliform branches in Eurasia and Africa, adapting to forest floor foraging.',
-    img: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783760897/meerkat01_mfk33t.jpg',
+    img: generatedArt('ancestry-feliform', 'Feliform Ancestry'),
   },
   {
     year: '10 Mya',
     name: 'Herpestidae Family Radiation',
     description:
       'The mongoose family (Herpestidae) expanded significantly. These early ancestors evolved long bodies, short legs, and acute senses of smell, allowing them to excel at sniffing out underground prey.',
-    img: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783760939/meerkat02_oqtw1d.jpg',
+    img: generatedArt('ancestry-herpestidae', 'Herpestidae Family Radiation'),
   },
   {
     year: '5 Mya',
     name: 'Suricata Genus Divergence',
     description:
       'As African forests thinned due to drying climates, the ancestor of the genus Suricata split from other mongooses. Surviving in open, predator-heavy savanna required developing the earliest forms of group vigilance.',
-    img: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783759881/meerkat4_qem2wx.webp',
+    img: generatedArt('ancestry-suricata-divergence', 'Suricata Genus Divergence'),
   },
   {
     year: '2 Mya',
     name: 'Suricata major (Fossil Ancestor)',
     description:
       'Fossil records in South Africa show Suricata major, a larger prehistoric ancestor of modern meerkats. They possessed similar digging claws but had not yet fully refined their complex social structures.',
-    img: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783759841/meerkat1_h7lqyx.jpg',
+    img: generatedArt('ancestry-suricata-major', 'Suricata major Fossil Ancestor'),
   },
   {
     year: '1 Mya',
     name: 'Suricata suricatta (Modern Meerkat)',
     description:
       'Modern meerkats emerge in East and Southern Africa. They fully adapt to group cooperative breeding, sentinel warning calls, and structural division of labor to colonize the dry Kalahari and Namib deserts.',
-    img: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783843298/meerkat_new_01_o40s9h.jpg',
+    img: generatedArt('ancestry-modern-meerkat', 'Suricata suricatta Modern Meerkat'),
   },
 ];
 
@@ -798,7 +799,7 @@ export default function MeerkatBlog() {
           <div className="meer-hero-visual">
             <div className="meer-hero-image-wrapper">
               <img
-                src="https://res.cloudinary.com/duibfmcw1/image/upload/v1783938438/meeerkatbannerimage_zybmne.png"
+                src={generatedArt('hero-meerkat-banner', 'Meerkat')}
                 alt="Meerkat Hero"
                 className="meer-hero-img"
               />
@@ -842,7 +843,7 @@ export default function MeerkatBlog() {
               <h2 className="meer-section-heading">Why World Meerkat Day?</h2>
               <div className="meer-section-box">
                 <div className="meer-section-banner-wrapper">
-                  <img src="https://res.cloudinary.com/duibfmcw1/image/upload/v1783848173/for_2nd_page_new_pcntuw.jpg" alt="World Meerkat Day Banner" />
+                  <img src={generatedArt('world-meerkat-day-banner', 'World Meerkat Day')} alt="World Meerkat Day Banner" />
                 </div>
                 <h3 className="meer-section-title">July 3rd — Celebrating the Desert's Cooperators</h3>
                 <p className="meer-section-text">
@@ -855,10 +856,10 @@ export default function MeerkatBlog() {
                 </p>
                 <div className="meer-day-gallery">
                   <div className="meer-gallery-item">
-                    <img src="https://res.cloudinary.com/duibfmcw1/image/upload/v1783845296/meerkat_new11_e2c1ro.jpg" alt="Meerkat Family" />
+                    <img src={generatedArt('gallery-meerkat-family', 'Meerkat Family')} alt="Meerkat Family" />
                   </div>
                   <div className="meer-gallery-item">
-                    <img src="https://res.cloudinary.com/duibfmcw1/image/upload/v1783845257/meerkat_new10_ppvzzp.jpg" alt="Meerkat Lookout" />
+                    <img src={generatedArt('gallery-meerkat-lookout', 'Meerkat Lookout')} alt="Meerkat Lookout" />
                   </div>
                 </div>
                 <div className="meer-day-highlights" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '20px', marginTop: '30px' }}>
@@ -913,13 +914,13 @@ export default function MeerkatBlog() {
                 </div>
                 <div className="meer-horizontal-image-wrapper" style={{ display: 'flex', flexDirection: 'column', gap: '20px', width: '100%' }}>
                   <img
-                    src="https://res.cloudinary.com/duibfmcw1/image/upload/v1783848684/for_3rd_image_wxokzt.jpg"
+                    src={generatedArt('meet-the-meerkat-1', 'Meet the Meerkat')}
                     alt="Meet the Meerkat"
                     className="meer-horizontal-image"
                     style={{ height: 'auto', maxHeight: '230px', objectFit: 'contain', objectPosition: 'center', width: '100%', border: '2px solid var(--meer-primary)', padding: '4px', background: '#ffffff', borderRadius: '12px' }}
                   />
                   <img
-                    src="https://res.cloudinary.com/duibfmcw1/image/upload/v1783849239/for_3rd_page_2_cbzbon.jpg"
+                    src={generatedArt('meet-the-meerkat-2', 'Meerkat Scene')}
                     alt="Meet the Meerkat Scene"
                     className="meer-horizontal-image"
                     style={{ height: 'auto', maxHeight: '230px', objectFit: 'contain', objectPosition: 'center', width: '100%', border: '2px solid var(--meer-primary)', padding: '4px', background: '#ffffff', borderRadius: '12px' }}

@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { generatedArt } from '../utils/generatedArt';
 
 const POSTS = [
   {
@@ -11,7 +12,7 @@ const POSTS = [
     subtitle: 'The Tallest Story Ever Told',
     description:
       'Celebrate the longest day of the year with the tallest animal on Earth. Explore 24 million years of evolutionary history, the science behind the iconic neck, four distinct species, and the silent extinction threatening these gentle giants.',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697468/zoolearn/lciu7nfitbacw92deppl.png',
+    image: generatedArt('world-giraffe-day-post', 'World Giraffe Day'),
     tags: ['Evolution', 'Conservation', 'Taxonomy', 'Africa'],
     stats: [
       { label: 'Neck', value: '2.4 m' },
@@ -31,7 +32,7 @@ const POSTS = [
     subtitle: 'The Social Sentinels of the Desert',
     description:
       'Discover the fascinating social structures, survival strategies, and complex communication of meerkats in the harsh Kalahari Desert environment.',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1784024833/meerkat_in_another_page_h2xwi1.jpg',
+    image: generatedArt('world-meerkat-day-post', 'World Meerkat Day'),
     tags: ['Behavior', 'Social Structure', 'Desert', 'Mammals'],
     stats: [
       { label: 'Weight', value: '731 g' },

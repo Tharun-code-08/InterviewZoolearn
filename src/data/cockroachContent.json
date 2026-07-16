@@ -43,7 +43,7 @@
           "The body of cockroach is divided into three regions: Head, Thorax, Abdomen.",
           "Each region performs specific functions."
         ],
-        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1771508120/cockroach_qzolle.jpg",
+        "image": true,
         "imageCaption": "Body regions of cockroach"
       },
       {
@@ -77,7 +77,7 @@
           "Each eye is made up of numerous ommatidia.",
           "They produce mosaic vision."
         ],
-        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1771508128/cockroach_head_y9fyez.png",
+        "image": true,
         "imageCaption": "Compound eye"
       },
       {
@@ -93,7 +93,7 @@
           "  - Labium (lower lip)",
           "  - Hypopharynx (tongue‑like structure)"
         ],
-        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1771508156/labeled_mouth_parts_qq31am.png",
+        "image": true,
         "imageCaption": "Mandibulate mouth parts"
       },
       {
@@ -112,7 +112,7 @@
           "Each leg has five segments: Coxa, Trochanter, Femur, Tibia, Tarsus.",
           "Legs are adapted for walking and running."
         ],
-        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1771508137/cockroach_leg_rp6cvi.png",
+        "image": true,
         "imageCaption": "Thoracic legs"
       },
       {
@@ -123,7 +123,7 @@
           "Forewings (tegmina): Thick and leathery, protect hindwings and body.",
           "Hindwings: Thin and membranous, used for flight."
         ],
-        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1771508290/wings.5_smkuv2.jpg",
+        "image": true,
         "imageCaption": "Wings"
       },
       {
@@ -163,7 +163,7 @@
           "The digestive system consists of mouth and mouthparts, alimentary canal, and salivary glands.",
           "Cockroach is omnivorous, feeding on both plant and animal matter."
         ],
-        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1771508152/Cockroach-Digestive-System_ate4r1.png",
+        "image": true,
         "imageCaption": "Digestive system"
       },
       {
@@ -249,7 +249,7 @@
           "Taenidia prevent the tracheae from collapsing and keep them open for airflow.",
           "Tracheae branch into finer tracheoles, which deliver oxygen directly to cells."
         ],
-        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1771508278/tracheal_system_kjxoxm.png",
+        "image": true,
         "imageCaption": "Tracheal tubes with taenidia"
       },
       {
@@ -303,7 +303,7 @@
           "  2. Perivisceral sinus (middle) – contains the digestive organs",
           "  3. Perineural sinus (ventral) – contains the ventral nerve cord"
         ],
-        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1771507996/Circulation_system_fye7ui.jpg",
+        "image": true,
         "imageCaption": "Body sinuses"
       },
       {
@@ -342,7 +342,7 @@
           "They float freely in the haemolymph.",
           "The tubules open into the junction of the midgut and hindgut."
         ],
-        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1771508200/Malpighian_tubules_t2uthi.png",
+        "image": true,
         "imageCaption": "Malpighian tubules"
       },
       {
@@ -429,7 +429,7 @@
           "Thoracic ganglia control movements of legs and wings.",
           "Abdominal ganglia control abdominal movements and anal cerci."
         ],
-        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1771508218/nervous_non_labled_jk54rx.png"
+        "image": true
       },
       {
         "heading": "Functions of the Nervous System",

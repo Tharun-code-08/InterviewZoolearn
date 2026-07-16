@@ -23,3 +23,70 @@
 
 /* Fallback for images that fail to load (added for clone robustness, not from source) */
 .img-fallback{object-fit:contain !important;background:#e8f3ec;padding:8px;}
+
+/* ---- Global UI polish layer (added on top of the source site's own CSS) ---- */
+* { scrollbar-width: thin; scrollbar-color: #6366f1 #eef2ff; }
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: #f1f5f9; }
+::-webkit-scrollbar-thumb { background: linear-gradient(180deg,#6366f1,#4338ca); border-radius: 999px; }
+::-webkit-scrollbar-thumb:hover { background: #4338ca; }
+
+::selection { background: #6366f1; color: #fff; }
+
+a, button { transition: transform .18s cubic-bezier(.4,0,.2,1), box-shadow .18s ease, background-color .18s ease, color .18s ease, border-color .18s ease, opacity .18s ease; }
+
+img { transition: transform .35s cubic-bezier(.22,1,.36,1), filter .25s ease; }
+
+/* Card-like elements across the site get a gentle lift on hover */
+.phyl-card, .phyl-species-card, .moll-species-card, .pori-species-card, .coel-species-card,
+.cten-species-card, .plat-species-card, .asch-species-card, .anne-species-card, .arth-species-card,
+.echi-species-card, .hemi-species-card, .chor-species-card,
+.sci-snap-card, .learn-conceptual-card, .learn-organism-card,
+.category-card, .scope-card, .career-modern-card {
+  transition: transform .25s cubic-bezier(.22,1,.36,1), box-shadow .25s ease;
+}
+.phyl-card:hover, .phyl-species-card:hover, .moll-species-card:hover, .pori-species-card:hover,
+.coel-species-card:hover, .cten-species-card:hover, .plat-species-card:hover, .asch-species-card:hover,
+.anne-species-card:hover, .arth-species-card:hover, .echi-species-card:hover, .hemi-species-card:hover,
+.chor-species-card:hover, .sci-snap-card:hover, .learn-conceptual-card:hover, .learn-organism-card:hover,
+.category-card:hover, .scope-card:hover, .career-modern-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 40px -12px rgba(67,56,202,.22);
+}
+.phyl-species-card:hover img, .moll-species-card:hover img, .pori-species-card:hover img,
+.coel-species-card:hover img, .cten-species-card:hover img, .plat-species-card:hover img,
+.asch-species-card:hover img, .anne-species-card:hover img, .arth-species-card:hover img,
+.echi-species-card:hover img, .hemi-species-card:hover img, .chor-species-card:hover img {
+  transform: scale(1.06);
+}
+
+/* Buttons get a subtle press/hover response */
+button:not(:disabled):hover { filter: brightness(1.04); }
+button:not(:disabled):active { transform: scale(.97); }
+
+/* Focus states, accessible and on-brand */
+a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visible {
+  outline: 2px solid #6366f1;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Smooth page-level fade-in so navigations feel intentional, not abrupt */
+.main-content { animation: zlPageFadeIn .35s ease both; }
+@keyframes zlPageFadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Nicer, higher-contrast link color for inline body text links across pages */
+.phyl-features-list li strong { color: #1e293b; }
+
+/* Header gets a touch of depth so it doesn't sit flush on the page */
+.hea-header { box-shadow: 0 1px 0 rgba(15,23,42,.06), 0 8px 24px -16px rgba(67,56,202,.15); }
+
+/* Support/CTA buttons feel more premium with a soft brand glow */
+.hea-support-btn { box-shadow: 0 4px 14px -4px rgba(245,158,11,.4); }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .001ms !important; transition-duration: .001ms !important; }
+}

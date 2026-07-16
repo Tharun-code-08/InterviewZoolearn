@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import { Menu, X } from 'lucide-react';
 import VNode from '../components/VNodeRenderer';
 import content from '../data/kingdomAnimaliaContent.json';
+import { generatedArt } from '../utils/generatedArt';
 
 const { sidebar, timeline, ...phyla } = content;
 
@@ -45,7 +46,7 @@ function BasicFeatures() {
           <div className="intro-hero-image">
             <img
               alt="Basic Features of Classification"
-              src="https://res.cloudinary.com/duibfmcw1/image/upload/v1767810735/1000083461-removebg-preview_pmodrn.png"
+              src={generatedArt('basic-features-classification', 'Basic Features of Classification')}
             />
           </div>
         </div>
@@ -69,7 +70,7 @@ function BasicFeatures() {
           </div>
           <div className="nutrition-image-container">
             <img
-              src="https://res.cloudinary.com/duibfmcw1/image/upload/v1767627322/Nutrition_imjqgn.png"
+              src={generatedArt('holozoic-nutrition-amoeba', 'Holozoic Nutrition Amoeba')}
               alt="Holozoic nutrition in Amoeba"
               title="Click to zoom"
             />

@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState, Fragment } from 'react';
 import { Menu, ChevronLeft, ChevronRight, ArrowUp } from 'lucide-react';
 import rabbitData from '../data/species/rabbit_page_data.json';
+import { generatedArt } from '../utils/generatedArt';
 
 function SectionTitle({ title, icon }) {
   return (
@@ -162,7 +163,7 @@ export default function Rabbit() {
           </div>
           <div className="rab-hero-visual">
             <div className="rab-hero-image-wrapper">
-              <img src={hero.image} alt="Rabbit" className="rab-hero-img" />
+              <img src={generatedArt('rabbit-hero', hero.title)} alt="Rabbit" className="rab-hero-img" />
             </div>
           </div>
         </div>

@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { Maximize2, ArrowLeft } from 'lucide-react';
+import { generatedArt } from '../utils/generatedArt';
 
 /* ---------------- Intro Hero ---------------- */
 
@@ -30,7 +31,7 @@ function IntroHero() {
         <div className="intro-hero-image">
           <img
             alt="Basic Features of Classification"
-            src="https://res.cloudinary.com/duibfmcw1/image/upload/v1767810735/1000083461-removebg-preview_pmodrn.png"
+            src={generatedArt('basic-features-classification', 'Basic Features of Classification')}
           />
         </div>
       </div>
@@ -42,7 +43,7 @@ function IntroHero() {
 
 function NutritionSection() {
   const [zoomed, setZoomed] = useState(false);
-  const imgSrc = 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767627322/Nutrition_imjqgn.png';
+  const imgSrc = generatedArt('holozoic-nutrition-amoeba', 'Holozoic Nutrition Amoeba');
   return (
     <>
       <section className="nutrition-section">
@@ -138,7 +139,7 @@ const LOO_DATA = [
     id: 'cellular',
     cardTitle: 'CELLULAR LEVEL',
     cardLabel: 'Loose cell aggregates',
-    imageUrl: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767811726/cellular_level_of_organiszation_dceufr.png',
+    imageUrl: generatedArt('loo-cellular', 'Cellular Level'),
     alt: 'Diagram of loose cell aggregates',
     description: 'Cells are the basic unit. In this level, cells are arranged as loose aggregates but do not form tissues.',
     examples: ['Porifera (Sponges)'],
@@ -147,7 +148,7 @@ const LOO_DATA = [
     id: 'tissue',
     cardTitle: 'TISSUE LEVEL',
     cardLabel: 'Cells form Tissue',
-    imageUrl: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767811726/tissue_level_of_organiszation_gikdnz.png',
+    imageUrl: generatedArt('loo-tissue', 'Tissue Level'),
     alt: 'Microscopic view of epithelial tissue',
     description: 'Similar cells performing the same function are arranged into tissues, allowing for division of labor.',
     examples: ['Coelenterates', 'Ctenophores'],
@@ -156,7 +157,7 @@ const LOO_DATA = [
     id: 'organ',
     cardTitle: 'ORGAN LEVEL',
     cardLabel: 'Tissues form Organs',
-    imageUrl: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767811725/organ_level_of_organiszation_qg95xt.png',
+    imageUrl: generatedArt('loo-organ', 'Organ Level'),
     alt: 'Diagram of the heart organ',
     description: 'Tissues are grouped together to form organs, which are specialized for specific functions.',
     examples: ['Platyhelminthes'],
@@ -165,7 +166,7 @@ const LOO_DATA = [
     id: 'system',
     cardTitle: 'ORGAN-SYSTEM LEVEL',
     cardLabel: 'Organs form Systems',
-    imageUrl: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767811726/organ_system_level_of_organiszation_znh9a3.png',
+    imageUrl: generatedArt('loo-system', 'Organ System Level'),
     alt: 'Diagram of the digestive system',
     description: 'Organs associate to form functional systems, each concerned with a specific physiological function.',
     examples: ['Aschelminthes', 'Chordates'],
@@ -239,21 +240,21 @@ const SYMMETRY_DATA = [
   {
     id: 'asym',
     title: 'Asymmetrical',
-    img: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1768923661/photo_2026-01-20_21-10-00_bwjz9j.jpg',
+    img: generatedArt('symmetry-asymmetrical', 'Asymmetrical'),
     description: 'The body cannot be divided into two similar parts from any plane or direction.',
     extra: 'Common in sponges.',
   },
   {
     id: 'radial',
     title: 'Radial Symmetry',
-    img: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1768923706/photo_2026-01-20_21-11-08_l4gpsx.jpg',
+    img: generatedArt('symmetry-radial', 'Radial Symmetry'),
     description: 'A plane passing through the central axis divides it into two equal halves.',
     extra: 'Advantageous for gathering food from all sides.',
   },
   {
     id: 'bilateral',
     title: 'Bilateral Symmetry',
-    img: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1768923742/photo_2026-01-20_21-11-23_icpxvr.jpg',
+    img: generatedArt('symmetry-bilateral', 'Bilateral Symmetry'),
     description: 'The body can be divided into identical left and right halves in only one plane.',
     extra: 'Leads to cephalization (development of a head).',
   },
@@ -482,27 +483,26 @@ function GermLayers() {
 
 /* ---------------- Coelom ---------------- */
 
-const COELOM_FALLBACK_IMG =
-  'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Coelomates.svg/512px-Coelomates.svg.png';
+const COELOM_FALLBACK_IMG = generatedArt('coelom-fallback', 'Coelom Types');
 
 const COELOM_TYPES = [
   {
     id: 'acoelomate',
     title: 'Triploblastic Acoelomate',
     description: 'These animals do not contain any space between their body wall and gut.',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767626839/TriploblasticAcoelomate_twtml1.png',
+    image: generatedArt('coelom-acoelomate', 'Triploblastic Acoelomate'),
   },
   {
     id: 'pseudo',
     title: 'Triploblastic Pseudocoelomate',
     description: 'These animals have a false body cavity, a fluid-filled space separating the gut from the body wall.',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767626852/TriploblasticPseudocoelomate_gecq6s.png',
+    image: generatedArt('coelom-pseudo', 'Triploblastic Pseudocoelomate'),
   },
   {
     id: 'eucoelomate',
     title: 'Triploblastic Eucoelomate',
     description: 'These animals have a true coelom lined by mesoderm on both sides.',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767626849/TriploblasticEucoelomate_z2rhpi.png',
+    image: generatedArt('coelom-eucoelomate', 'Triploblastic Eucoelomate'),
   },
 ];
 
@@ -511,7 +511,7 @@ const COELOM_FORMATIONS = [
     id: 'schizo',
     title: 'Schizocoelom',
     summary: 'Forms by Splitting of Mesoderm',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767626840/Schizocoelom_elzmax.png',
+    image: generatedArt('coelom-schizo', 'Schizocoelom'),
     points: [
       'In some animals, the middle embryonic layer (mesoderm) first appears as a solid mass.',
       'Later, this solid mesoderm splits from the inside, creating an empty space.',
@@ -526,7 +526,7 @@ const COELOM_FORMATIONS = [
     id: 'entero',
     title: 'Enterocoelom',
     summary: 'Forms from Gut Pouches',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767626836/Enterocoelom_wavgqj.png',
+    image: generatedArt('coelom-entero', 'Enterocoelom'),
     points: [
       'In some other animals, the body cavity forms in a different and more organized way.',
       'During early development, the primitive gut (archenteron) forms small outward bulges or pouches.',
@@ -773,8 +773,7 @@ function ProtoDeuterostome() {
             <div
               className="proto-sprite-img"
               style={{
-                backgroundImage:
-                  "url('https://res.cloudinary.com/duibfmcw1/image/upload/v1767600219/image_2_jfn8yx.png')",
+                backgroundImage: `url('${generatedArt('proto-cleavage-protostome', 'Spiral cleavage in protostomes')}')`,
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
               }}
@@ -790,8 +789,7 @@ function ProtoDeuterostome() {
             <div
               className="proto-sprite-img"
               style={{
-                backgroundImage:
-                  "url('https://res.cloudinary.com/duibfmcw1/image/upload/v1767600218/image_2_hjofss.png')",
+                backgroundImage: `url('${generatedArt('proto-cleavage-deuterostome', 'Radial cleavage in deuterostomes')}')`,
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
               }}
@@ -810,7 +808,7 @@ function ProtoDeuterostome() {
             <div
               className="proto-sprite-img"
               style={{
-                backgroundImage: "url('https://res.cloudinary.com/duibfmcw1/image/upload/v1767600220/image_3_h5sibm.png')",
+                backgroundImage: `url('${generatedArt('proto-coelom-schizocoelous', 'Schizocoelous coelom formation')}')`,
                 backgroundColor: '#ffffff',
               }}
               title="Schizocoelous coelom formation"
@@ -827,7 +825,7 @@ function ProtoDeuterostome() {
             <div
               className="proto-sprite-img"
               style={{
-                backgroundImage: "url('https://res.cloudinary.com/duibfmcw1/image/upload/v1767600218/image_3_pxwhbm.png')",
+                backgroundImage: `url('${generatedArt('proto-coelom-enterocoelous', 'Enterocoelous coelom formation')}')`,
                 backgroundColor: '#ffffff',
               }}
               title="Enterocoelous coelom formation"
@@ -847,7 +845,7 @@ function ProtoDeuterostome() {
             <div
               className="proto-sprite-img"
               style={{
-                backgroundImage: "url('https://res.cloudinary.com/duibfmcw1/image/upload/v1767600221/image_4_br8wr3.png')",
+                backgroundImage: `url('${generatedArt('proto-blastopore-protostome', 'Protostome development process')}')`,
                 backgroundColor: '#f0f7fa',
               }}
               title="Protostome development process"
@@ -862,7 +860,7 @@ function ProtoDeuterostome() {
             <div
               className="proto-sprite-img"
               style={{
-                backgroundImage: "url('https://res.cloudinary.com/duibfmcw1/image/upload/v1767600219/image_4_bzdgh2.png')",
+                backgroundImage: `url('${generatedArt('proto-blastopore-deuterostome', 'Deuterostome development process')}')`,
                 backgroundColor: '#f1f8e9',
               }}
               title="Deuterostome development process"

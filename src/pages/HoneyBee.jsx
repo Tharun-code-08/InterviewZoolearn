@@ -1,3 +1,5 @@
+import { generatedArt } from '../utils/generatedArt';
+
 export default function HoneyBee() {
   return (
     <div className="page-wrapper">
@@ -27,7 +29,7 @@ export default function HoneyBee() {
           </div>
           <div className="honey-hero-visual">
             <img
-              src="https://res.cloudinary.com/duibfmcw1/image/upload/v1771315768/WhatsApp_Image_2026-02-17_at_13.38.32_wwed7p.jpg"
+              src={generatedArt('honeybee-hero', 'Honey Bee')}
               alt="Honey Bee"
               className="honey-hero-img"
             />
@@ -66,7 +68,7 @@ export default function HoneyBee() {
                 <div className="flip-card-front">
                   <div className="card-img-wrapper">
                     <img
-                      src="https://res.cloudinary.com/duibfmcw1/image/upload/v1771313870/WhatsApp_Image_2026-02-17_at_13.01.26_jon4qf.jpg"
+                      src={generatedArt('honeybee-queen', 'Queen Bee')}
                       alt="Queen Bee"
                       className="card-img"
                     />
@@ -91,7 +93,7 @@ export default function HoneyBee() {
                 <div className="flip-card-front">
                   <div className="card-img-wrapper">
                     <img
-                      src="https://res.cloudinary.com/duibfmcw1/image/upload/v1771313870/WhatsApp_Image_2026-02-17_at_13.00.44_myuf1c.jpg"
+                      src={generatedArt('honeybee-worker', 'Worker Bee')}
                       alt="Worker Bee"
                       className="card-img"
                     />
@@ -124,7 +126,7 @@ export default function HoneyBee() {
                 <div className="flip-card-front">
                   <div className="card-img-wrapper">
                     <img
-                      src="https://res.cloudinary.com/duibfmcw1/image/upload/v1771313874/WhatsApp_Image_2026-02-17_at_13.01.07_eez7i6.jpg"
+                      src={generatedArt('honeybee-drone', 'Drone Bee')}
                       alt="Drone Bee"
                       className="card-img"
                     />

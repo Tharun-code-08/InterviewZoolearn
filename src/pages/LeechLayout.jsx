@@ -16,6 +16,7 @@ import {
   Search,
 } from 'lucide-react';
 import leechTaxonomy from '../data/leechTaxonomy.json';
+import { generatedArt } from '../utils/generatedArt';
 
 /* ------------------------------------------------------------------ */
 /* Shared data (extracted from the live site's compiled bundle)        */
@@ -109,8 +110,7 @@ function segmentRange(id) {
   return '27-33';
 }
 
-const ANATOMY_IMAGE =
-  'https://res.cloudinary.com/duibfmcw1/image/upload/v1768818886/Screenshot_2026-01-19_155027_hmjpry.png';
+const ANATOMY_IMAGE = generatedArt('leech-anatomy', 'Interactive Anatomy');
 
 const DIGESTIVE_FLOW = [
   { num: '1', label: 'Mouth & Buccal Cavity', badge: 'Entry', text: 'Triradiate (Y-shaped) aperture containing three muscular jaws, each bearing around 60–100 minute teeth. Located within segments 1–5.' },
@@ -160,8 +160,8 @@ const PARASITIC_ADAPTATIONS = [
 ];
 
 const PARASITIC_GALLERY = [
-  { id: 1, src: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767810858/parasitic_cdkchf.png', alt: 'Parasitic Adaptations', caption: 'Parasitic Mode' },
-  { id: 2, src: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767810737/digestivesystem_osipqw.png', alt: 'Digestive System of Leech', caption: 'Digestive System' },
+  { id: 1, src: generatedArt('leech-parasitic-mode', 'Parasitic Adaptations'), alt: 'Parasitic Adaptations', caption: 'Parasitic Mode' },
+  { id: 2, src: generatedArt('leech-digestive-gallery', 'Digestive System of Leech'), alt: 'Digestive System of Leech', caption: 'Digestive System' },
 ];
 
 /* ------------------------------------------------------------------ */
@@ -227,7 +227,7 @@ function MorphologySection() {
           <div className="em-morphology-card em-image-card">
             <div className="em-image-wrapper">
               <img
-                src="https://res.cloudinary.com/duibfmcw1/image/upload/v1767810830/morphology_sf7xd1.png"
+                src={generatedArt('leech-morphology', 'External Morphology of Leech')}
                 alt="External Morphology of Leech"
                 className="em-morphology-img"
               />
@@ -279,7 +279,7 @@ function MorphologySection() {
                 <li>Used for feeding & attachment</li>
               </ul>
               <img
-                src="https://res.cloudinary.com/duibfmcw1/image/upload/v1769585515/anterior_kbxsua.jpg"
+                src={generatedArt('leech-anterior-sucker', 'Anterior Sucker')}
                 alt="anterior sucker"
                 className="em-sucker-img"
               />
@@ -292,7 +292,7 @@ function MorphologySection() {
                 <li>Firm attachment & locomotion</li>
               </ul>
               <img
-                src="https://res.cloudinary.com/duibfmcw1/image/upload/v1769585506/posterior_pe2qow.png"
+                src={generatedArt('leech-posterior-sucker', 'Posterior Sucker')}
                 alt="posterior sucker"
                 className="em-sucker-img"
               />
@@ -657,9 +657,9 @@ function BodyWallSection() {
 function LocomotionSection() {
   const [mode, setMode] = useState('image');
   const media = {
-    looping: 'https://res.cloudinary.com/duibfmcw1/video/upload/v1768903630/WhatsApp_Video_2026-01-19_at_14.26.01_jhzt2o.mp4',
-    swimming: 'https://res.cloudinary.com/duibfmcw1/video/upload/v1768986635/Video_Project_1_rcyiik.mp4',
-    defaultImage: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767810794/leech_imk2bj.jpg',
+    looping: generatedArt('leech-locomotion-looping', 'Looping Movement'),
+    swimming: generatedArt('leech-locomotion-swimming', 'Swimming Movement'),
+    defaultImage: generatedArt('leech-locomotion-default', 'Leech Movement'),
   };
   return (
     <section className="locomotion-section" id="locomotion">
@@ -695,21 +695,12 @@ function LocomotionSection() {
           </div>
           <div className="locomotion-image-col">
             <div className="image-frame video-frame">
-              {mode === 'image' ? (
-                <img src={media.defaultImage} alt="Leech" className="locomotion-img" />
-              ) : (
-                <video
-                  key={mode}
-                  className="locomotion-video"
-                  src={media[mode]}
-                  autoPlay
-                  loop
-                  muted
-                  playsInline
-                  controls={false}
-                  style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '12px' }}
-                />
-              )}
+              <img
+                key={mode}
+                src={mode === 'image' ? media.defaultImage : media[mode]}
+                alt="Leech"
+                className="locomotion-img"
+              />
               <span className="img-label">{mode === 'image' ? 'Leech Movement' : `Video: ${mode} Mode`}</span>
               {mode !== 'image' && (
                 <button className="reset-btn" onClick={() => setMode('image')}>
@@ -752,7 +743,7 @@ function DigestiveSection() {
           <div className="dig-right-col">
             <div className="dig-image-frame">
               <img
-                src="https://res.cloudinary.com/duibfmcw1/image/upload/v1767810737/digestivesystem_osipqw.png"
+                src={generatedArt('leech-digestive', 'Digestive System of Leech')}
                 alt="Digestive System of Leech"
                 className="dig-img"
               />
@@ -847,7 +838,7 @@ function RespiratorySection() {
           <div className="rs-respiratory-image-col">
             <div className="rs-image-frame">
               <img
-                src="https://res.cloudinary.com/duibfmcw1/image/upload/v1769585037/repiratory_system_pie2fn.jpg"
+                src={generatedArt('leech-respiratory', 'Leech Respiration')}
                 alt="Leech Respiration"
                 className="rs-respiratory-img"
               />
@@ -905,7 +896,7 @@ function CirculatorySection() {
           <div className="cs-circulatory-image-col">
             <div className="cs-image-frame">
               <img
-                src="https://res.cloudinary.com/duibfmcw1/image/upload/v1769586113/circulatory_system_npfsym.jpg"
+                src={generatedArt('leech-circulatory', 'Circulatory System of Leech')}
                 alt="Circulatory System of Leech"
                 className="cs-circulatory-img"
               />
@@ -951,7 +942,7 @@ function NervousSection() {
           <div className="nerv-nervous-image-col">
             <div className="nerv-image-frame">
               <img
-                src="https://res.cloudinary.com/duibfmcw1/image/upload/v1767810860/nervoussystem_utggdl.png"
+                src={generatedArt('leech-nervous', 'Nervous System of Leech')}
                 alt="Nervous System of Leech"
                 className="nerv-nervous-img"
               />
@@ -1004,7 +995,7 @@ function ExcretorySection() {
           <div className="es-excretory-image-col">
             <div className="es-image-frame">
               <img
-                src="https://res.cloudinary.com/duibfmcw1/image/upload/v1767810762/excretorysystem_w85798.png"
+                src={generatedArt('leech-excretory', 'Excretory System of Leech')}
                 alt="Excretory System of Leech"
                 className="es-excretory-img"
               />
@@ -1059,7 +1050,7 @@ function ReproductiveSection() {
           <div className="reproductive-image-col">
             <div className="image-frame">
               <img
-                src="https://res.cloudinary.com/duibfmcw1/image/upload/v1767810909/reproductivesystem_gctgvg.png"
+                src={generatedArt('leech-reproductive', 'Reproductive System of Leech')}
                 alt="Reproductive System of Leech"
                 className="reproductive-img"
               />
@@ -1235,7 +1226,7 @@ export default function LeechLayout() {
           <div className="leech-hero-visual">
             <div className="leech-hero-image-wrapper">
               <img
-                src="https://res.cloudinary.com/duibfmcw1/image/upload/v1767810091/image_yibxxk.jpg"
+                src={generatedArt('leech-hero', 'Indian Cattle Leech')}
                 alt="Indian Cattle Leech - Hirudinaria granulosa"
                 className="leech-hero-img"
               />
