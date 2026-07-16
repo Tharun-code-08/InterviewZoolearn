@@ -1,22 +1,24 @@
 import { Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout';
 import Placeholder from './pages/Placeholder';
+import Home from './pages/Home';
 import ZooHub from './pages/ZooHub';
 import SpeciesDetail from './pages/SpeciesDetail';
+import UnderConstruction from './pages/UnderConstruction';
 
 export default function App() {
   return (
     <Layout>
       <Routes>
-        <Route path="/" element={<Placeholder title="Home" />} />
+        <Route path="/" element={<Home />} />
         <Route path="/about" element={<Placeholder title="About" />} />
         <Route path="/taxonomy-tree" element={<Placeholder title="Taxonomy Tree" />} />
         <Route path="/living-world" element={<Placeholder title="The Living World" />} />
         <Route path="/basic-features-of-classification" element={<Placeholder title="Basic Features of Classification" />} />
         <Route path="/kingdom-animalia" element={<Placeholder title="Kingdom Animalia" />} />
         <Route path="/horse-evolution" element={<Placeholder title="Horse Evolution" />} />
-        <Route path="/evolution" element={<Placeholder title="Evolution" />} />
-        <Route path="/anatomy" element={<Placeholder title="Anatomy" />} />
+        <Route path="/evolution" element={<UnderConstruction />} />
+        <Route path="/anatomy" element={<Placeholder title="Patterns of Complexities" />} />
 
         <Route path="/career-path" element={<Placeholder title="Career Path" />} />
         <Route path="/career-path/:categoryId" element={<Placeholder title="Career Path Category" />} />
@@ -37,7 +39,7 @@ export default function App() {
         <Route path="/zoohub/:phylum" element={<ZooHub />} />
         <Route path="/zoohub/:phylum/:slug" element={<SpeciesDetail />} />
 
-        <Route path="*" element={<Placeholder title="404 Not Found" />} />
+        <Route path="*" element={<UnderConstruction />} />
       </Routes>
     </Layout>
   );
