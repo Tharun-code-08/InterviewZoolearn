@@ -8,8 +8,7 @@
   },
   "hero": {
     "title": "Rabbit",
-    "subtitle": "Oryctolagus cuniculus",
-    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1771313870/WhatsApp_Image_2026-02-17_at_12.58.31_plyvnf.jpg"
+    "subtitle": "Oryctolagus cuniculus"
   },
   "models": {
     "morphology": "https://sketchfab.com/models/fc277f6e42464afeafc67716c9f77d33/embed?autostart=1",

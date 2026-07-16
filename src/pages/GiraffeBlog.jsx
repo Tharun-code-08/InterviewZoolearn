@@ -10,6 +10,7 @@ import {
   Menu,
   ArrowUp,
 } from 'lucide-react';
+import { generatedArt } from '../utils/generatedArt';
 
 const NAV_ITEMS = [
   { id: 'giraffe-day', label: 'World Giraffe Day', icon: <Compass size={18} /> },
@@ -30,42 +31,42 @@ const ANCESTRY = [
     name: 'Palaeomerycidae (Ancestral Family)',
     description:
       'The base family from which all giraffids arose. They lived across Europe, Asia, and Africa, sharing the landscape with the ancestors of modern pronghorns. This is the earliest ancestor, arising from the gelocid ancestral assemblage.',
-    img: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697780/zoolearn/giraffe/rij9bmoko4mjf9l4bwku.png',
+    img: generatedArt('ancestry-palaeomerycidae', 'Palaeomerycidae'),
   },
   {
     year: '16 Mya',
     name: 'Canthumeryx (The First Giraffid)',
     description:
       'The earliest known true member of the giraffe family. Fossil evidence from Libya and Kenya shows the very first signs of neck vertebrae elongating compared to their width.',
-    img: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697776/zoolearn/giraffe/vbsoph0rxycktykztcba.png',
+    img: generatedArt('ancestry-canthumeryx', 'Canthumeryx'),
   },
   {
     year: '12 Mya',
     name: 'Giraffokeryx (The Short-Neck Branch)',
     description:
       'An intermediate offshoot that thrived on low vegetation in Eurasia. This branch represents lineages that reverted to short necks to graze on low shrubs.',
-    img: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697805/zoolearn/giraffe/mt4yznqkibudji3jxxby.png',
+    img: generatedArt('ancestry-giraffokeryx', 'Giraffokeryx'),
   },
   {
     year: '7 - 3 Mya',
     name: 'Samotherium (The Transitional Link)',
     description:
       "A crucial transitional form with a neck roughly 1 meter long (half that of a modern giraffe). This species underwent the very first 'elongation boost' — the cranial end of the C3 vertebra stretched out.",
-    img: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697784/zoolearn/giraffe/plnzzwl5qxzq2sphvzfe.png',
+    img: generatedArt('ancestry-samotherium', 'Samotherium'),
   },
   {
     year: '7 - 9 Mya',
     name: 'Bohlinia (The Direct Ancestor)',
     description:
       'The terminal ancestor before modern giraffes. Roughly the same size as modern giraffes, their progeny migrated from Eurasia into Africa via Ethiopia.',
-    img: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697774/zoolearn/giraffe/nbfwgvoxp6kvbsr3ps3m.png',
+    img: generatedArt('ancestry-bohlinia', 'Bohlinia'),
   },
   {
     year: '1 Mya',
     name: 'Giraffa camelopardalis (The Modern Era)',
     description:
       'The first fossils of the fully modern, completely long-necked giraffe appear in East Africa, marking the completion of the second elongation boost — the caudal end of the vertebrae lengthened.',
-    img: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697468/zoolearn/lciu7nfitbacw92deppl.png',
+    img: generatedArt('ancestry-modern-giraffe', 'Giraffa camelopardalis'),
   },
 ];
 
@@ -131,7 +132,7 @@ const COAT_SPECIES = [
     id: 'reticulated',
     name: 'Reticulated Giraffe',
     scientific: 'Giraffa reticulata',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697790/zoolearn/giraffe/fvh8xl685zbkluixneim.jpg',
+    image: generatedArt('reticulated-giraffe-pattern', 'Reticulated Giraffe'),
     color: '#ea580c',
     description:
       'Perhaps the most visually striking, the Reticulated giraffe is defined by sharp, uniform, reddish-brown polygons separated by stark, bright white lines. This creates a highly distinct "cobweb" or net-like effect. Found primarily in northeastern Kenya.',
@@ -141,7 +142,7 @@ const COAT_SPECIES = [
     id: 'masai',
     name: 'Masai Giraffe',
     scientific: 'Giraffa tippelskirchi',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697785/zoolearn/giraffe/klcervl4bejvjafktktd.jpg',
+    image: generatedArt('masai-giraffe-pattern', 'Masai Giraffe'),
     color: '#b45309',
     description:
       'The Masai giraffe is easily identified by its extremely dark, almost chocolate-brown spots that are highly irregular, jagged, and vine-like. The edges look like splattered stars or oak leaves. They dominate the landscapes of Kenya and Tanzania.',
@@ -151,7 +152,7 @@ const COAT_SPECIES = [
     id: 'southern',
     name: 'Southern Giraffe',
     scientific: 'Giraffa giraffa',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697794/zoolearn/giraffe/oz19xqs1udin9teuo7hp.jpg',
+    image: generatedArt('southern-giraffe-pattern', 'Southern Giraffe'),
     color: '#16a34a',
     description:
       'Characterized by star-shaped patches that are less sharply defined than the Reticulated, but more rounded than the Masai. Crucially, their spots extend all the way down their legs to the hooves. Found in Namibia, South Africa, and Botswana.',
@@ -161,7 +162,7 @@ const COAT_SPECIES = [
     id: 'northern',
     name: 'Northern Giraffe',
     scientific: 'Giraffa camelopardalis',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697787/zoolearn/giraffe/ov1nhjy2qacmgkls8qoc.jpg',
+    image: generatedArt('northern-giraffe-pattern', 'Northern Giraffe'),
     color: '#dc2626',
     description:
       'The Northern giraffe generally has large, paler chestnut-brown spots with relatively smooth edges, set against a pale cream background. Unlike the Southern giraffe, their lower legs are noticeably pale and mostly spot-free.',
@@ -185,7 +186,7 @@ const TRANSFORMATION = [
     neck: 'Short (Deer-like)',
     environment: 'Dense prehistoric forests',
     desc: 'The earliest known ancestor. With a thick build and short neck, it was perfectly adapted to browsing low-lying forest vegetation.',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697837/zoolearn/giraffe/fuzdsqrd2bkoauro5w8i.jpg',
+    image: generatedArt('transformation-stage-1', 'Ancestral Short-Neck Stage'),
   },
   {
     id: 2,
@@ -194,7 +195,7 @@ const TRANSFORMATION = [
     neck: 'Slightly Elongated',
     environment: 'Transitional woodland',
     desc: 'As the forests began to thin, the first subtle signs of elongation appeared in the cervical vertebrae, allowing it to reach slightly higher leaves.',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697838/zoolearn/giraffe/vnu6jvx7dj70oiq1t3h9.jpg',
+    image: generatedArt('transformation-stage-2', 'Transitional Woodland Stage'),
   },
   {
     id: 3,
@@ -203,7 +204,7 @@ const TRANSFORMATION = [
     neck: 'Medium (~1 meter)',
     environment: 'Early dry savanna',
     desc: 'A crucial transitional form. The cranial end of the C3 vertebra stretched out (the first elongation boost), giving it a distinctive mid-length neck.',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697840/zoolearn/giraffe/xc7xeax5e7x60oztbhzl.jpg',
+    image: generatedArt('transformation-stage-3', 'Early Dry Savanna Stage'),
   },
   {
     id: 4,
@@ -212,15 +213,15 @@ const TRANSFORMATION = [
     neck: 'Extreme (~2.4 meters)',
     environment: 'Open African savanna',
     desc: 'The second elongation boost occurred (lengthening the caudal end of the vertebrae). Fully adapted to dominate the high canopy of the open savanna.',
-    image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697841/zoolearn/giraffe/y1izgulqngy7iej6m99m.jpg',
+    image: generatedArt('transformation-stage-4', 'Open African Savanna Stage'),
   },
 ];
 
 const DIVERSITY = [
-  { name: 'Masai Giraffe', scientific: 'Giraffa tippelskirchi', status: 'Vulnerable', statusColor: '#eab308', image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697796/zoolearn/giraffe/giyhygjbp5qjrfxcmukg.jpg' },
-  { name: 'Northern Giraffe', scientific: 'Giraffa camelopardalis', status: 'Critically Endangered', statusColor: '#dc2626', image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697798/zoolearn/giraffe/citwqtqhsosnlucpmyxp.jpg' },
-  { name: 'Reticulated Giraffe', scientific: 'Giraffa reticulata', status: 'Endangered', statusColor: '#ea580c', image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697800/zoolearn/giraffe/czqc3kzlh23muozzemxy.jpg' },
-  { name: 'Southern Giraffe', scientific: 'Giraffa giraffa', status: 'Least Concern', statusColor: '#16a34a', image: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1783697802/zoolearn/giraffe/a1iedrcwnxcfzrogzt7f.jpg' },
+  { name: 'Masai Giraffe', scientific: 'Giraffa tippelskirchi', status: 'Vulnerable', statusColor: '#eab308', image: generatedArt('diversity-masai-giraffe', 'Masai Giraffe') },
+  { name: 'Northern Giraffe', scientific: 'Giraffa camelopardalis', status: 'Critically Endangered', statusColor: '#dc2626', image: generatedArt('diversity-northern-giraffe', 'Northern Giraffe') },
+  { name: 'Reticulated Giraffe', scientific: 'Giraffa reticulata', status: 'Endangered', statusColor: '#ea580c', image: generatedArt('diversity-reticulated-giraffe', 'Reticulated Giraffe') },
+  { name: 'Southern Giraffe', scientific: 'Giraffa giraffa', status: 'Least Concern', statusColor: '#16a34a', image: generatedArt('diversity-southern-giraffe', 'Southern Giraffe') },
 ];
 
 const TAXONOMY_TREE = {
@@ -747,7 +748,7 @@ export default function GiraffeBlog() {
           <div className="gir-hero-visual">
             <div className="gir-hero-image-wrapper">
               <img
-                src="https://res.cloudinary.com/duibfmcw1/image/upload/v1783697468/zoolearn/lciu7nfitbacw92deppl.png"
+                src={generatedArt('hero-modern-giraffe', 'Giraffa camelopardalis')}
                 alt="Giraffa camelopardalis — Modern Giraffe"
                 className="gir-hero-img"
               />

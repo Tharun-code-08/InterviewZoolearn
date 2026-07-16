@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { Search } from 'lucide-react';
+import Logo from './Logo';
+import QrPlaceholder from './QrPlaceholder';
 
 const NAV_LINKS = [
   { to: '/', label: 'Home' },
@@ -27,11 +29,7 @@ export default function Header() {
             aria-current={isActive('/') ? 'page' : undefined}
           >
             <div className="hea-logo-wrapper">
-              <img
-                alt="ZooLearn Logo"
-                className="hea-logo"
-                src="https://res.cloudinary.com/duibfmcw1/image/upload/v1765947727/logopng_2_webaac.png"
-              />
+              <Logo className="hea-logo" size={36} />
             </div>
           </Link>
           <button className="hea-search-btn" aria-label="Search" title="Search (Ctrl+K)">
@@ -64,11 +62,7 @@ export default function Header() {
             <button className="hea-support-btn">💛 Support Us</button>
             <div className="hea-support-dropdown">
               <div className="hea-qr-container">
-                <img
-                  alt="Donate QR Code"
-                  className="hea-qr-image"
-                  src="https://res.cloudinary.com/dmdo1gixv/image/upload/v1769677280/WhatsApp_Image_2026-01-29_at_14.13.13_qq2t9c.jpg"
-                />
+                <QrPlaceholder className="hea-qr-image" />
                 <p className="hea-qr-text">
                   <strong>Help Us Grow!</strong>Scan to donate &amp; support our mission.
                   <br />

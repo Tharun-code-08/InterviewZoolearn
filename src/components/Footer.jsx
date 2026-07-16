@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import Logo from './Logo';
 
 export default function Footer() {
   return (
@@ -6,10 +7,7 @@ export default function Footer() {
       <div className="foo-zl-footer-inner">
         <div className="foo-zl-brand">
           <div className="foo-zl-logo">
-            <img
-              alt="ZooLearn Logo"
-              src="https://res.cloudinary.com/duibfmcw1/image/upload/v1765947727/logopng_2_webaac.png"
-            />
+            <Logo size={32} />
             <h1>ZooLearn</h1>
           </div>
           <p className="foo-zl-tagline">

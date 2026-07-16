@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { generatedArt } from '../utils/generatedArt';
 
 const KINGDOMS = [
   {
@@ -6,7 +7,7 @@ const KINGDOMS = [
     title: 'Kingdom Monera',
     label: 'BACTERIA',
     color: '#A8DADC',
-    icon: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767847552/bacteria_k8yvy1.png',
+    icon: generatedArt('kingdom-monera', 'Kingdom Monera'),
     short: 'Prokaryotic, unicellular organisms',
     characteristics: ['Prokaryotic cells', 'No true nucleus', 'Binary fission', 'Cell wall present', 'Oldest life forms'],
     examples: ['Bacteria', 'Cyanobacteria', 'Archaebacteria'],
@@ -16,7 +17,7 @@ const KINGDOMS = [
     title: 'Kingdom Protista',
     label: 'PROTISTS',
     color: '#F4A261',
-    icon: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767848520/protista_ozgbo9.png',
+    icon: generatedArt('kingdom-protista', 'Kingdom Protista'),
     short: 'Eukaryotic, mostly unicellular',
     characteristics: ['True nucleus', 'Flagella/cilia for movement', 'Autotrophic or heterotrophic', 'Sexual & asexual reproduction'],
     examples: ['Amoeba', 'Paramecium', 'Euglena'],
@@ -26,7 +27,7 @@ const KINGDOMS = [
     title: 'Kingdom Fungi',
     label: 'FUNGI',
     color: '#B7E4C7',
-    icon: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767848699/fungi_lf0jgp.png',
+    icon: generatedArt('kingdom-fungi', 'Kingdom Fungi'),
     short: 'Saprophytic, spore-forming',
     characteristics: ['Cell wall made of chitin', 'Absorptive nutrition', 'No chlorophyll', 'Mostly multicellular'],
     examples: ['Mushrooms', 'Yeast', 'Rhizopus'],
@@ -36,7 +37,7 @@ const KINGDOMS = [
     title: 'Kingdom Plantae',
     label: 'PLANTS',
     color: '#F9C6D3',
-    icon: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767848840/plant_nsqucy.png',
+    icon: generatedArt('kingdom-plantae', 'Kingdom Plantae'),
     short: 'Photosynthetic, multicellular',
     characteristics: ['Chloroplast present', 'Cell wall of cellulose', 'Autotrophic', 'Alternation of generations'],
     examples: ['Ferns', 'Gymnosperms', 'Angiosperms'],
@@ -46,7 +47,7 @@ const KINGDOMS = [
     title: 'Kingdom Animalia',
     label: 'ANIMALS',
     color: '#CDB4DB',
-    icon: 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767849129/animal_jgxujk.png',
+    icon: generatedArt('kingdom-animalia', 'Kingdom Animalia'),
     short: 'Multicellular, ingestive heterotrophs',
     characteristics: ['No cell wall', 'Nervous system developed', 'Sexual reproduction', 'High specialization'],
     examples: ['Insects', 'Birds', 'Mammals (Humans)'],
@@ -223,7 +224,7 @@ function WhatIsLife() {
 
 function BinomialNomenclature() {
   const [modalOpen, setModalOpen] = useState(false);
-  const tigerImg = 'https://res.cloudinary.com/duibfmcw1/image/upload/v1767809416/tiger_y9orpy.jpg';
+  const tigerImg = generatedArt('binomial-nomenclature-tiger', 'Panthera Tigris');
   return (
     <section className="binomial-section">
       <div className="binomial-wrapper">
@@ -468,7 +469,7 @@ function TaxonomyAndSystematics() {
         <div className="ts-concept-grid">
           <div className="ts-concept-card ts-card-taxonomy">
             <div className="ts-card-icon">
-              <img src="https://res.cloudinary.com/duibfmcw1/image/upload/v1767850326/taxonomy_oqcngx.png" alt="Taxonomy Icon" />
+              <img src={generatedArt('taxonomy-icon', 'Taxonomy')} alt="Taxonomy Icon" />
             </div>
             <h3>Taxonomy</h3>
             <p>
@@ -478,7 +479,7 @@ function TaxonomyAndSystematics() {
           <div className="ts-concept-card ts-card-systematics">
             <div className="ts-card-icon">
               <img
-                src="https://res.cloudinary.com/duibfmcw1/image/upload/v1767780954/006-dna_wrm2wd.png"
+                src={generatedArt('systematics-illustration', 'Systematics')}
                 alt="Systematics Illustration"
                 style={{ filter: 'hue-rotate(260deg)' }}
               />
@@ -529,7 +530,7 @@ function LivingWorldHero() {
           </p>
         </div>
         <div className="lwi-hero-image-wrapper">
-          <img src="https://res.cloudinary.com/duibfmcw1/image/upload/v1767809047/image_pwt5qp.png" alt="The Living World Illustration" />
+          <img src={generatedArt('living-world-hero', 'The Living World')} alt="The Living World Illustration" />
           <div className="lwi-image-decoration"></div>
         </div>
       </div>

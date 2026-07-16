@@ -1,21 +1,14 @@
 import { useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import CountUp from '../components/CountUp';
+import Logo from '../components/Logo';
 import scientists from '../data/scientists.json';
 import learningPath from '../data/learningPath.json';
 import deepDive from '../data/deepDive.json';
+import { generatedArt } from '../utils/generatedArt';
 
-const CAROUSEL_IMAGES = [
-  'https://res.cloudinary.com/duibfmcw1/image/upload/v1767893553/Pleurobrachia_ffya5t.png',
-  'https://res.cloudinary.com/duibfmcw1/image/upload/v1767595669/Dugesia_hpaibv.png',
-  'https://res.cloudinary.com/duibfmcw1/image/upload/v1767671657/Chalina_ip1gvg.png',
-  'https://res.cloudinary.com/duibfmcw1/image/upload/v1768984047/Tubifex_nafvip.png',
-  'https://res.cloudinary.com/duibfmcw1/image/upload/v1770197893/Naja_naja_zlcckg.png',
-  'https://res.cloudinary.com/duibfmcw1/image/upload/v1768982056/Ascaris_lumbricoides_izwqjh.png',
-  'https://res.cloudinary.com/duibfmcw1/image/upload/v1767892096/Hydra_ljhbjv.png',
-  'https://res.cloudinary.com/duibfmcw1/image/upload/v1768060852/araneus_ybf4zq.png',
-  'https://res.cloudinary.com/duibfmcw1/image/upload/v1770102657/Unio_iqhmtv.png',
-];
+const CAROUSEL_NAMES = ['Pleurobrachia', 'Dugesia', 'Chalina', 'Tubifex', 'Naja naja', 'Ascaris', 'Hydra', 'Araneus', 'Unio'];
+const CAROUSEL_IMAGES = CAROUSEL_NAMES.map((n) => generatedArt(n, n));
 
 function HeroBanner() {
   const [active] = useState(0);
@@ -24,18 +17,10 @@ function HeroBanner() {
       <div className="banner-container">
         <div className="banner-left">
           <div className="banner-logo-wrapper">
-            <img
-              alt="ZooLearn Logo Symbol"
-              className="banner-logo-img"
-              draggable="false"
-              src="https://res.cloudinary.com/duibfmcw1/image/upload/v1765947727/logopng_2_webaac.png"
-            />
-            <img
-              alt="ZooLearn Brand Name"
-              className="banner-logo-text-img"
-              draggable="false"
-              src="https://res.cloudinary.com/dstunh4mx/image/upload/v1781102458/name_alone-removebg-preview_o8wt5i.png"
-            />
+            <Logo className="banner-logo-img" size={64} />
+            <span className="banner-logo-text-img" style={{ fontSize: '2rem', fontWeight: 800, color: 'var(--zl-primary)' }}>
+              ZooLearn
+            </span>
           </div>
           <div className="banner-spacer" style={{ height: '3rem' }}></div>
           <div className="banner-desc-container">
@@ -139,7 +124,7 @@ function ScientistsSection() {
                 <div className="sci-flip-inner">
                   <div className="sci-flip-front">
                     <div className="sci-image-box">
-                      <img src={s.image} alt={s.name} />
+                      <img src={generatedArt(s.name, s.name)} alt={s.name} />
                     </div>
                     <div className="sci-card-info">
                       <h3>{s.name}</h3>
@@ -190,7 +175,7 @@ function LearningSection() {
               >
                 <div>
                   <div className="learn-icon-box">
-                    <img src={item.icon} alt={item.title} />
+                    <img src={generatedArt(item.title, item.title)} alt={item.title} />
                   </div>
                   <h3>{item.title}</h3>
                   <p>{item.description}</p>
@@ -228,7 +213,7 @@ function LearningSection() {
                 <div className="learn-card-details">
                   <div className="learn-organism-head">
                     <div className="learn-org-icon">
-                      <img src={item.image} alt={item.name} />
+                      <img src={generatedArt(item.id, item.name)} alt={item.name} />
                     </div>
                     <div className="learn-org-title-group">
                       <h3>{item.name}</h3>

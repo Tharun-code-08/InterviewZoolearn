@@ -86,12 +86,6 @@
     "label": "External Morphology",
     "icon": "morphology",
     "intro": "The external morphology of a frog deals with the study of its visible external features and overall appearance.",
-    "images": {
-      "morphologyMain": "https://res.cloudinary.com/dstunh4mx/image/upload/v1782102570/b2844280-84d5-4f43-bc2c-cf05647b3bc9_zfah8k.png",
-      "vocalSacs": "https://res.cloudinary.com/dstunh4mx/image/upload/v1782102588/vocal_sacs_hknbhx.jpg",
-      "copulatoryPads": "https://res.cloudinary.com/dstunh4mx/image/upload/v1782102589/nuptial_pad_xoqpe0.jpg",
-      "headFeatures": "https://res.cloudinary.com/dstunh4mx/image/upload/v1782102591/f0_lqcerb.png"
-    },
     "bodyDivision": {
       "title": "Body Division and Shape",
       "subsections": [
@@ -248,9 +242,6 @@
     "label": "Digestive System",
     "icon": "digestive",
     "intro": "The digestive system of a frog consists of a well-developed alimentary canal and several digestive glands that help in the digestion and absorption of food.",
-    "images": {
-      "digestive": "https://res.cloudinary.com/dstunh4mx/image/upload/v1782102546/digestive_system_wpfa55.jpg"
-    },
     "alimentaryCanal": {
       "title": "The Alimentary Canal",
       "description": "The alimentary canal of a frog is comparatively short. It consists of the following parts:",
@@ -461,11 +452,6 @@
     "label": "Circulatory System",
     "icon": "circulatory",
     "intro": "The frog possesses a well-developed closed circulatory system along with a lymphatic system that helps in the transport of materials throughout the body.",
-    "images": {
-      "circulatory": "https://res.cloudinary.com/dstunh4mx/image/upload/v1782102589/lungs_xttiru.png",
-      "blood": "https://res.cloudinary.com/dstunh4mx/image/upload/v1782102546/blood_cells_kdstzu.jpg",
-      "circulation": "https://res.cloudinary.com/dstunh4mx/image/upload/v1782224061/Picture1_ukyap6.png"
-    },
     "heart": {
       "title": "The Heart",
       "description": "The heart is a muscular organ located in the upper part of the body cavity and is enclosed within a double-walled membrane called the pericardium. It is three-chambered, consisting of:",
@@ -587,10 +573,6 @@
     "label": "Nervous System",
     "icon": "nervous",
     "intro": "The nervous system of a frog is a highly developed system responsible for the control and coordination of various body activities. It works in association with the endocrine system and is divided into three main parts: the Central Nervous System (CNS), Peripheral Nervous System (PNS), and Autonomic Nervous System (ANS).",
-    "images": {
-      "peripheral": "https://res.cloudinary.com/dstunh4mx/image/upload/v1782102586/f2_x30s0m.png",
-      "senses": "https://res.cloudinary.com/dstunh4mx/image/upload/v1782102580/f1_irosfz.png"
-    },
     "cns": {
       "title": "1. Central Nervous System (CNS)",
       "description": "The Central Nervous System forms the main coordinating centre of the body and consists of the brain and spinal cord.",
@@ -776,9 +758,6 @@
     "label": "Reproductive System",
     "icon": "reproductive",
     "intro": "Frogs possess well-developed male and female reproductive systems. Fertilization and early development usually take place in water.",
-    "images": {
-      "metamorphosis": "https://res.cloudinary.com/dstunh4mx/image/upload/v1782102586/frog_metamorphism_vtvc1t.png"
-    },
     "male": {
       "title": "Male Reproductive System",
       "subsections": [

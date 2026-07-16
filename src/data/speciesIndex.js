@@ -12,24 +12,40 @@ import chordata from './species/chordata_data.json';
 
 import chordataTree from './species/chordata_tree.json';
 import molluscaTree from './species/mollusca_tree.json';
+import { generatedArt } from '../utils/generatedArt';
+
+function withGeneratedArt(dataMap) {
+  const out = {};
+  Object.entries(dataMap).forEach(([slug, sp]) => {
+    out[slug] = { ...sp, image: generatedArt(slug, sp.name) };
+  });
+  return out;
+}
+
+function withGeneratedArtTree(tree) {
+  return tree.map((group) => ({
+    ...group,
+    species: group.species.map((sp) => ({ ...sp, image: generatedArt(sp.slug, sp.name) })),
+  }));
+}
 
 export const PHYLUM_DATA = {
-  porifera,
-  coelenterata,
-  ctenophora,
-  platyhelminthes,
-  aschelminthes,
-  annelida,
-  arthropoda,
-  mollusca,
-  echinodermata,
-  hemichordata,
-  chordata,
+  porifera: withGeneratedArt(porifera),
+  coelenterata: withGeneratedArt(coelenterata),
+  ctenophora: withGeneratedArt(ctenophora),
+  platyhelminthes: withGeneratedArt(platyhelminthes),
+  aschelminthes: withGeneratedArt(aschelminthes),
+  annelida: withGeneratedArt(annelida),
+  arthropoda: withGeneratedArt(arthropoda),
+  mollusca: withGeneratedArt(mollusca),
+  echinodermata: withGeneratedArt(echinodermata),
+  hemichordata: withGeneratedArt(hemichordata),
+  chordata: withGeneratedArt(chordata),
 };
 
 export const PHYLUM_TREES = {
-  chordata: chordataTree,
-  mollusca: molluscaTree,
+  chordata: withGeneratedArtTree(chordataTree),
+  mollusca: withGeneratedArtTree(molluscaTree),
 };
 
 export const PHYLUM_LABELS = {
