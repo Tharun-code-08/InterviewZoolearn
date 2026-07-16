@@ -5,6 +5,9 @@ import Home from './pages/Home';
 import ZooHub from './pages/ZooHub';
 import SpeciesDetail from './pages/SpeciesDetail';
 import UnderConstruction from './pages/UnderConstruction';
+import Rabbit from './pages/Rabbit';
+import HoneyBee from './pages/HoneyBee';
+import Cockroach from './pages/Cockroach';
 
 export default function App() {
   return (
@@ -30,9 +33,9 @@ export default function App() {
         <Route path="/blog/meerkat" element={<Placeholder title="Meerkat Blog" />} />
 
         <Route path="/frog" element={<Placeholder title="Frog" />} />
-        <Route path="/honeybee" element={<Placeholder title="Honeybee" />} />
-        <Route path="/rabbit" element={<Placeholder title="Rabbit" />} />
-        <Route path="/cockroach" element={<Placeholder title="Cockroach" />} />
+        <Route path="/honeybee" element={<HoneyBee />} />
+        <Route path="/rabbit" element={<Rabbit />} />
+        <Route path="/cockroach" element={<Cockroach />} />
         <Route path="/leech" element={<Placeholder title="Leech" />} />
 
         <Route path="/zoohub" element={<ZooHub />} />

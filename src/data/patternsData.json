@@ -49,11 +49,8 @@
       {
         "heading": "Key Concept: Increasing Specialisation",
         "text": "As animals evolved, the alimentary canal developed specialised regions. In earthworms, you can already see a distinct pharynx, oesophagus, crop (storage), gizzard (grinding), and intestine. In vertebrates, the stomach and intestine become highly specialised with enzymes, villi, and accessory glands.",
-        "customContent": {
-          "__customJSX": true,
-          "type": "div",
-          "text": ""
-        }
+        "customType": "didYouKnow",
+        "customText": "Ruminants like cows have a four-chambered stomach (rumen, reticulum, omasum, abomasum) — the most complex digestive specialisation in the animal kingdom. This allows them to digest cellulose with the help of symbiotic microorganisms."
       },
       {
         "heading": "Comparison Table",
@@ -208,11 +205,8 @@
       {
         "heading": "Key Concept: Evolutionary Trend",
         "text": "Respiratory organs evolved from simple body surface diffusion in aquatic invertebrates to highly efficient lungs in terrestrial vertebrates. The key trend is increasing surface area, vascularisation, and protection of the respiratory surface from desiccation.",
-        "customContent": {
-          "__customJSX": true,
-          "type": "div",
-          "text": ""
-        }
+        "customType": "didYouKnow",
+        "customText": "The human lung has about 300 million alveoli, providing a total gas-exchange surface area of approximately 70 m² — roughly the size of half a tennis court! This enormous surface is packed inside a small thoracic cavity."
       },
       {
         "heading": "Comparison Table",
@@ -332,10 +326,26 @@
       {
         "heading": "Comparison: Open vs Closed Circulation",
         "isSubtopic": true,
-        "customContent": {
-          "__customJSX": true,
-          "type": "Fragment",
-          "text": ""
+        "customType": "openClosed",
+        "customData": {
+          "open": {
+            "title": "Open Circulatory System",
+            "points": [
+              "Blood pumped by heart flows into open sinuses (hemocoel).",
+              "Direct contact between blood and body cells."
+            ],
+            "examples": "Arthropoda (Insects, Crabs), Non-cephalopod Molluscs, Hemichordata"
+          },
+          "closed": {
+            "title": "Closed Circulatory System",
+            "points": [
+              "Blood always flows inside vessels (arteries, veins, capillaries).",
+              "Exchange occurs via capillaries; more efficient."
+            ],
+            "examples": "Annelida (Earthworm), Cephalopod Molluscs, Chordata (Vertebrates)"
+          },
+          "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768297508/open_and_close_circulation_vxd1mk.png",
+          "caption": "Visual comparison of Open vs Closed systems"
         }
       },
       {
@@ -1081,11 +1091,8 @@
       {
         "heading": "Key Concept: Skeleton Evolution",
         "text": "The skeleton evolved from simple spicules and hydrostatic support in invertebrates to an internal bony framework in vertebrates. The notochord — the first true axial skeleton — was a breakthrough that enabled the radiation of chordates.",
-        "customContent": {
-          "__customJSX": true,
-          "type": "div",
-          "text": ""
-        }
+        "customType": "didYouKnow",
+        "customText": "The human skeleton contains 206 bones, but babies are born with approximately 270! Many of these fuse together during growth — for example, the skull has several fontanelles (soft spots) at birth that gradually ossify."
       }
     ]
   },
@@ -1579,10 +1586,32 @@
       },
       {
         "heading": "Types of Fertilization (Based on Place)",
-        "customContent": {
-          "__customJSX": true,
-          "type": "div",
-          "text": ""
+        "customType": "twoCol",
+        "customData": {
+          "left": {
+            "title": "1. External Fertilization",
+            "text": "Sperms and eggs are released into the external environment (usually water), and fertilization happens outside the body. This is called spawning.",
+            "points": [
+              "Common in aquatic animals where water acts as a medium for gamete transport.",
+              "A very large number of gametes must be produced because many are lost to predation, currents, and dilution.",
+              "There is no parental protection of eggs or embryos in most cases.",
+              "Advantage: requires no physical contact between mates."
+            ],
+            "examples": "Many aquatic invertebrates (starfish, sea urchins), Bony fishes (Rohu, Catla), Amphibians (frogs — eggs laid in water)",
+            "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768831239/Screenshot_2026-01-19_193008_afkwql.png"
+          },
+          "right": {
+            "title": "2. Internal Fertilization",
+            "text": "Internal fertilization occurs when the fusion of sperm and egg takes place inside the female reproductive tract.",
+            "points": [
+              "Common in terrestrial animals",
+              "Also seen in some aquatic vertebrates",
+              "Produces fewer gametes but has a higher success rate",
+              "Fertilization occurs inside the body."
+            ],
+            "examples": "Reptiles, Birds, Mammals, Some fishes (e.g., sharks)",
+            "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768831239/Screenshot_2026-01-19_193021_l2gqtj.png"
+          }
         }
       },
       {
@@ -1775,10 +1804,30 @@
       {
         "heading": "Types of Development (Based on Life Cycle)",
         "text": "Development is further classified into two types based on whether a larval stage is present.",
-        "customContent": {
-          "__customJSX": true,
-          "type": "div",
-          "text": ""
+        "customType": "twoCol",
+        "customData": {
+          "left": {
+            "title": "4. Direct Development",
+            "text": "In direct development:",
+            "points": [
+              "There is no larval stage",
+              "The young one resembles the adult",
+              "Only growth and maturation occur"
+            ],
+            "examples": "Reptiles, Birds, Mammals",
+            "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768837329/Screenshot_2026-01-19_211018_qkxizo.png"
+          },
+          "right": {
+            "title": "5. Indirect Development",
+            "text": "In indirect development:",
+            "points": [
+              "Development includes one or more larval stages",
+              "Larva differs greatly from adult",
+              "Larva undergoes metamorphosis to become adult"
+            ],
+            "examples": "Frog (tadpole → frog), Insects (butterfly, mosquito)",
+            "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768837329/Screenshot_2026-01-19_211035_pzvkco.png"
+          }
         }
       }
     ]

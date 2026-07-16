@@ -1,0 +1,637 @@
+{
+  "B.Sc. Zoology": {
+    "exp": "Scientific study of animals covering structure, physiology, behaviour, evolution, genetics and ecology.",
+    "dur": "3 years",
+    "imp": "This course forms the foundation of animal sciences. It prepares students for higher studies and careers in wildlife biology, ecology, conservation, veterinary research, zoological studies and teaching."
+  },
+  "B.Sc. Biotechnology": {
+    "exp": "Integration of biology with modern technology including genetics, molecular biology and bioinformatics.",
+    "dur": "3 years",
+    "imp": "This course is central to modern science and industry. It enables careers in biotechnology firms, pharmaceuticals, diagnostics, agriculture and advanced molecular research."
+  },
+  "B.Sc. Life Sciences": {
+    "exp": "Interdisciplinary study of biology at molecular, cellular, organismal and ecological levels.",
+    "dur": "3 years",
+    "imp": "It provides academic flexibility and a broad base, allowing students to specialize later in diverse biological fields such as ecology, genetics or biotechnology."
+  },
+  "B.Sc. Animal Science": {
+    "exp": "Study of animal nutrition, breeding, physiology, and management.",
+    "dur": "4 years",
+    "imp": "Prepares for careers in livestock management, animal research, and agriculture."
+  },
+  "B.Sc. Genetics": {
+    "exp": "Study of genes, heredity, genetic variation, and molecular genetics.",
+    "dur": "3 years",
+    "imp": "Foundation for careers in genetic counseling, research, biotechnology, and medicine."
+  },
+  "B.Sc. Bioinformatics": {
+    "exp": "Integration of biology, computer science, and information technology.",
+    "dur": "3 years",
+    "imp": "Crucial for genomic research, drug discovery, and biological data analysis."
+  },
+  "B.Sc. Environmental Science": {
+    "exp": "Study of environmental systems, conservation, pollution control, and sustainable development.",
+    "dur": "3 years",
+    "imp": "Essential for careers in environmental consulting, conservation, policy-making, and sustainability management."
+  },
+  "B.Sc. Physiology": {
+    "exp": "Study of biological functions and processes in living organisms.",
+    "dur": "3 years",
+    "imp": "Important for understanding how organisms function at cellular and systemic levels."
+  },
+  "B.Sc. Botany": {
+    "exp": "Study of plant biology, classification, and ecology.",
+    "dur": "3 years",
+    "imp": "Foundation for plant sciences and botanical research."
+  },
+  "B.Sc. Medical Lab Tech": {
+    "exp": "Training in laboratory techniques for medical diagnosis and research.",
+    "dur": "3 years",
+    "imp": "Prepares for careers in diagnostic laboratories and healthcare facilities."
+  },
+  "M.Sc. Zoology": {
+    "exp": "Advanced animal biology covering physiology, ecology, evolution, and genetics.",
+    "dur": "2 years",
+    "imp": "Strong foundation for research, teaching, and specialized biological careers."
+  },
+  "M.Sc. Animal Science": {
+    "exp": "Advanced animal physiology, nutrition, breeding, and management.",
+    "dur": "2 years",
+    "imp": "Supports livestock industry, animal welfare, and agricultural research."
+  },
+  "M.Sc. Wildlife Biology": {
+    "exp": "Advanced study of wildlife species, behavior, and conservation.",
+    "dur": "2 years",
+    "imp": "Essential for wildlife research, conservation projects, and doctoral studies."
+  },
+  "M.Sc. Experimental Biology": {
+    "exp": "Design and execution of biological experiments and research methodologies.",
+    "dur": "2 years",
+    "imp": "Important for research-oriented careers in biological sciences."
+  },
+  "M.Sc. Research Methodology": {
+    "exp": "Scientific research methods, experimental design, and statistical analysis.",
+    "dur": "2 years",
+    "imp": "Fundamental for all scientific research careers."
+  },
+  "M.Sc. Systems Biology": {
+    "exp": "Study of complex biological systems using computational models.",
+    "dur": "2 years",
+    "imp": "Cutting-edge field for understanding biological networks and interactions."
+  },
+  "M.Sc. Evolutionary Biology": {
+    "exp": "Study of evolutionary processes, adaptation, and speciation.",
+    "dur": "2 years",
+    "imp": "Fundamental for understanding biodiversity and biological relationships."
+  },
+  "M.Sc. Comparative Anatomy": {
+    "exp": "Comparative study of anatomical structures across different species.",
+    "dur": "2 years",
+    "imp": "Important for evolutionary studies and medical research."
+  },
+  "M.Sc. Animal Physiology": {
+    "exp": "Advanced study of animal functions and biological processes.",
+    "dur": "2 years",
+    "imp": "Essential for medical research, pharmacology, and animal science."
+  },
+  "M.Sc. Taxonomy": {
+    "exp": "Scientific classification and naming of organisms.",
+    "dur": "2 years",
+    "imp": "Crucial for biodiversity documentation and conservation planning."
+  },
+  "M.Sc. Systematics": {
+    "exp": "Study of evolutionary relationships and classification systems.",
+    "dur": "2 years",
+    "imp": "Important for understanding biodiversity and evolutionary patterns."
+  },
+  "M.Sc. Morphology": {
+    "exp": "Study of form and structure of organisms.",
+    "dur": "2 years",
+    "imp": "Fundamental for anatomical and evolutionary research."
+  },
+  "M.Sc. Histology": {
+    "exp": "Microscopic study of tissues and cellular organization.",
+    "dur": "2 years",
+    "imp": "Essential for medical diagnosis and biological research."
+  },
+  "M.Sc. Cytology": {
+    "exp": "Study of cell structure, function, and chemistry.",
+    "dur": "2 years",
+    "imp": "Foundation for cell biology, genetics, and medical research."
+  },
+  "M.Sc. Developmental Biology": {
+    "exp": "Study of growth and development from embryo to adult.",
+    "dur": "2 years",
+    "imp": "Important for medical research, genetics, and biotechnology."
+  },
+  "M.Sc. Cell Biology": {
+    "exp": "Advanced study of cell structure, function, and interactions.",
+    "dur": "2 years",
+    "imp": "Essential for biomedical research and understanding disease mechanisms."
+  },
+  "M.Sc. Epigenetics": {
+    "exp": "Study of heritable changes in gene expression without DNA sequence changes.",
+    "dur": "2 years",
+    "imp": "Cutting-edge field for understanding disease, development, and evolution."
+  },
+  "Ph.D. Zoology": {
+    "exp": "Doctoral research in animal biology, ecology, physiology, or evolution.",
+    "dur": "3–6 years",
+    "imp": "Academic leadership and advanced research positions in animal sciences."
+  },
+  "Ph.D. Animal Biology": {
+    "exp": "Doctoral research focusing specifically on animal biology.",
+    "dur": "3–6 years",
+    "imp": "Advanced animal science research and academic leadership."
+  },
+  "Ph.D. Ecology": {
+    "exp": "Advanced ecosystem research and ecological theory development.",
+    "dur": "3–5 years",
+    "imp": "Climate change research, conservation planning, and sustainability science leadership."
+  },
+  "Ph.D. Wildlife Biology": {
+    "exp": "Doctoral research on wildlife species, behavior, and conservation.",
+    "dur": "3–5 years",
+    "imp": "Leadership roles in wildlife research, conservation, and policy-making."
+  },
+  "Ph.D. Experimental Biology": {
+    "exp": "Advanced research on experimental methods and biological investigations.",
+    "dur": "3–5 years",
+    "imp": "Research methodology development and experimental science leadership."
+  },
+  "Ph.D. Systems Biology": {
+    "exp": "Doctoral research on complex biological systems modeling.",
+    "dur": "3–6 years",
+    "imp": "Biological systems research and computational biology leadership."
+  },
+  "Ph.D. Evolutionary Biology": {
+    "exp": "Advanced research on evolutionary processes and mechanisms.",
+    "dur": "3–6 years",
+    "imp": "Evolutionary theory development and biodiversity research leadership."
+  },
+  "Ph.D. Comparative Anatomy": {
+    "exp": "Doctoral research comparing anatomical structures across species.",
+    "dur": "3–5 years",
+    "imp": "Evolutionary anatomy research and medical comparative studies."
+  },
+  "Ph.D. Animal Physiology": {
+    "exp": "Advanced research on animal biological functions and processes.",
+    "dur": "3–6 years",
+    "imp": "Physiological research leadership and medical applications."
+  },
+  "Ph.D. Taxonomy": {
+    "exp": "Doctoral research on organism classification and systematics.",
+    "dur": "3–5 years",
+    "imp": "Biodiversity documentation and conservation planning leadership."
+  },
+  "Ph.D. Systematics": {
+    "exp": "Advanced research on evolutionary relationships and classification.",
+    "dur": "3–5 years",
+    "imp": "Evolutionary biology and biodiversity research leadership."
+  },
+  "Ph.D. Morphology": {
+    "exp": "Doctoral research on organism form and structure.",
+    "dur": "3–5 years",
+    "imp": "Anatomical research and evolutionary morphology leadership."
+  },
+  "Ph.D. Histology": {
+    "exp": "Advanced tissue research and microscopic anatomy studies.",
+    "dur": "3–5 years",
+    "imp": "Medical research and diagnostic science leadership."
+  },
+  "Ph.D. Cytology": {
+    "exp": "Doctoral research on cell structure, function, and biology.",
+    "dur": "3–5 years",
+    "imp": "Cell biology research and medical cytology leadership."
+  },
+  "Ph.D. Developmental Biology": {
+    "exp": "Advanced research on organism growth and development.",
+    "dur": "3–6 years",
+    "imp": "Developmental genetics and regenerative medicine leadership."
+  },
+  "Ph.D. Cell Biology": {
+    "exp": "Doctoral research on cellular processes and mechanisms.",
+    "dur": "3–6 years",
+    "imp": "Cellular research and disease mechanism leadership."
+  },
+  "Ph.D. Epigenetics": {
+    "exp": "Advanced research on heritable gene expression changes.",
+    "dur": "3–6 years",
+    "imp": "Cutting-edge genetic research and disease mechanism leadership."
+  },
+  "B.Sc. Forestry": {
+    "exp": "Study of forest management, conservation, silviculture, and wildlife habitat management.",
+    "dur": "4 years",
+    "imp": "Prepares for forest services, conservation organizations, and sustainable forest management careers."
+  },
+  "B.Sc. Political Science": {
+    "exp": "Study of political systems, governance, and public policy.",
+    "dur": "3 years",
+    "imp": "Useful for policy-making, environmental law, and governance careers."
+  },
+  "B.V.Sc & AH": {
+    "exp": "Bachelor of Veterinary Science and Animal Husbandry - professional degree for veterinarians.",
+    "dur": "5 years",
+    "imp": "Mandatory for practicing veterinary medicine and surgery in India."
+  },
+  "M.Sc. Wildlife Science": {
+    "exp": "Applied wildlife management, conservation techniques, and field research.",
+    "dur": "2 years",
+    "imp": "Important for forest services, NGOs, and conservation management roles."
+  },
+  "M.Sc. Conservation Biology": {
+    "exp": "Study of biodiversity conservation, endangered species, and habitat protection.",
+    "dur": "2 years",
+    "imp": "Critical for global and national conservation strategy development."
+  },
+  "M.Sc. Ecology": {
+    "exp": "Study of ecosystems, species interactions, and environmental relationships.",
+    "dur": "2 years",
+    "imp": "Backbone of environmental research, conservation, and sustainability studies."
+  },
+  "M.Sc. Environmental Science": {
+    "exp": "Interdisciplinary environmental studies including pollution, conservation, and sustainability.",
+    "dur": "2 years",
+    "imp": "Key for environmental consulting, impact assessment, and policy development."
+  },
+  "M.Sc. Wildlife Ecology": {
+    "exp": "Study of wildlife interactions with ecosystems and habitats.",
+    "dur": "2 years",
+    "imp": "Important for conservation planning and wildlife management."
+  },
+  "M.Sc. Wildlife Management": {
+    "exp": "Applied techniques for wildlife population and habitat management.",
+    "dur": "2 years",
+    "imp": "Crucial for protected area management and conservation programs."
+  },
+  "M.Sc. Forestry": {
+    "exp": "Advanced forest management, conservation, and silviculture.",
+    "dur": "2 years",
+    "imp": "Essential for forest department careers and sustainable forestry."
+  },
+  "M.Sc. Biodiversity": {
+    "exp": "Study of biological diversity, conservation, and sustainable use.",
+    "dur": "2 years",
+    "imp": "Critical for conservation planning and environmental policy."
+  },
+  "M.Sc. Conservation Science": {
+    "exp": "Scientific approaches to biodiversity conservation and management.",
+    "dur": "2 years",
+    "imp": "Important for conservation organizations and environmental agencies."
+  },
+  "M.Sc. Restoration Ecology": {
+    "exp": "Study of ecosystem restoration and rehabilitation techniques.",
+    "dur": "2 years",
+    "imp": "Vital for habitat restoration projects and environmental recovery."
+  },
+  "M.Sc. Environmental Management": {
+    "exp": "Management of environmental resources and sustainable development.",
+    "dur": "2 years",
+    "imp": "Key for environmental consulting and corporate sustainability roles."
+  },
+  "M.Sc. EIA": {
+    "exp": "Environmental Impact Assessment methodologies and applications.",
+    "dur": "2 years",
+    "imp": "Essential for development project planning and regulatory compliance."
+  },
+  "M.Sc. Environmental Policy": {
+    "exp": "Study of environmental laws, regulations, and governance.",
+    "dur": "2 years",
+    "imp": "Essential for policy-making and environmental advocacy."
+  },
+  "M.Sc. Conflict Resolution": {
+    "exp": "Study of conflict management and resolution strategies.",
+    "dur": "2 years",
+    "imp": "Important for managing human-wildlife conflicts."
+  },
+  "Ph.D. Wildlife Conservation": {
+    "exp": "Advanced research on conservation strategies and protected area management.",
+    "dur": "3–5 years",
+    "imp": "Senior positions in conservation organizations and government agencies."
+  },
+  "Ph.D. Conservation Biology": {
+    "exp": "Doctoral research on biodiversity conservation and ecosystem management.",
+    "dur": "3–5 years",
+    "imp": "Global conservation impact through research and policy development."
+  },
+  "Ph.D. Environmental Science": {
+    "exp": "Doctoral research on environmental systems, pollution, and sustainability.",
+    "dur": "3–6 years",
+    "imp": "Environmental governance, policy development, and research leadership."
+  },
+  "Ph.D. Wildlife Ecology": {
+    "exp": "Doctoral research on wildlife-ecosystem interactions.",
+    "dur": "3–5 years",
+    "imp": "Wildlife conservation research and ecosystem management leadership."
+  },
+  "Ph.D. Wildlife Management": {
+    "exp": "Advanced research on wildlife population and habitat management.",
+    "dur": "3–5 years",
+    "imp": "Protected area management and conservation policy leadership."
+  },
+  "Ph.D. Biodiversity": {
+    "exp": "Advanced research on biological diversity and conservation.",
+    "dur": "3–5 years",
+    "imp": "Global biodiversity conservation and policy leadership."
+  },
+  "Ph.D. Conservation Science": {
+    "exp": "Doctoral research on conservation strategies and techniques.",
+    "dur": "3–5 years",
+    "imp": "Conservation science innovation and implementation leadership."
+  },
+  "Ph.D. Restoration Ecology": {
+    "exp": "Advanced research on ecosystem restoration techniques.",
+    "dur": "3–5 years",
+    "imp": "Habitat restoration research and environmental recovery leadership."
+  },
+  "Ph.D. Environmental Management": {
+    "exp": "Doctoral research on environmental resource management.",
+    "dur": "3–6 years",
+    "imp": "Environmental governance and sustainability leadership."
+  },
+  "Ph.D. Environmental Policy": {
+    "exp": "Advanced research on environmental governance and policy.",
+    "dur": "3–5 years",
+    "imp": "Environmental law and policy development leadership."
+  },
+  "Ph.D. Human-Wildlife Conflict": {
+    "exp": "Research on conflicts between humans and wildlife and mitigation strategies.",
+    "dur": "3–5 years",
+    "imp": "Conflict resolution and conservation management leadership."
+  },
+  "B.Sc. Marine Biology": {
+    "exp": "Study of marine organisms, ocean ecosystems, and marine conservation.",
+    "dur": "3 years",
+    "imp": "Foundation for careers in marine research, conservation, fisheries, and oceanography."
+  },
+  "B.Sc. Fisheries Science": {
+    "exp": "Study of fish biology, aquaculture, fisheries management, and aquatic ecosystems.",
+    "dur": "4 years",
+    "imp": "Crucial for careers in fisheries departments, aquaculture industries, and marine resource management."
+  },
+  "B.Sc. Veterinary Science": {
+    "exp": "Study of animal health, diseases, surgery, and animal husbandry.",
+    "dur": "5 years",
+    "imp": "Essential for becoming a veterinarian and for careers in animal healthcare, research, and public health."
+  },
+  "B.Sc. Oceanography": {
+    "exp": "Study of oceans, their physical, chemical, and biological properties.",
+    "dur": "3 years",
+    "imp": "Essential for marine research, conservation, and ocean resource management."
+  },
+  "B.Sc. Aquaculture": {
+    "exp": "Study of aquatic organism farming, breeding, and management.",
+    "dur": "3 years",
+    "imp": "Important for sustainable seafood production and aquatic resource management."
+  },
+  "B.Sc. Geography": {
+    "exp": "Study of Earth's landscapes, environments, and human-environment interactions.",
+    "dur": "3 years",
+    "imp": "Important for environmental planning, conservation, and resource management."
+  },
+  "M.Sc. Marine Biology": {
+    "exp": "Advanced study of marine organisms, ecosystems, and ocean conservation.",
+    "dur": "2 years",
+    "imp": "Vital for marine research institutions, conservation, and fisheries management."
+  },
+  "M.Sc. Oceanography": {
+    "exp": "Study of physical, chemical, and biological ocean processes.",
+    "dur": "2 years",
+    "imp": "Important for climate research, marine policy, and ocean resource management."
+  },
+  "M.Sc. Marine Ecology": {
+    "exp": "Specialized study of marine ecosystems and organism-environment interactions.",
+    "dur": "2 years",
+    "imp": "Supports marine conservation, fisheries, and coastal management."
+  },
+  "M.Sc. Fisheries Science": {
+    "exp": "Advanced fish biology, aquatic resource management, and fisheries technology.",
+    "dur": "2 years",
+    "imp": "Crucial for sustainable fisheries management and aquaculture development."
+  },
+  "M.Sc. Aquaculture": {
+    "exp": "Advanced aquatic farming techniques, breeding, and management systems.",
+    "dur": "2 years",
+    "imp": "Supports sustainable seafood production and aquatic resource development."
+  },
+  "M.Sc. Marine Conservation": {
+    "exp": "Study of marine ecosystem protection and conservation strategies.",
+    "dur": "2 years",
+    "imp": "Important for marine protected area management and conservation."
+  },
+  "M.Sc. Coral Reef Ecology": {
+    "exp": "Study of coral reef ecosystems and conservation.",
+    "dur": "2 years",
+    "imp": "Important for marine conservation in tropical regions."
+  },
+  "M.Sc. Coastal Management": {
+    "exp": "Management of coastal resources and environments.",
+    "dur": "2 years",
+    "imp": "Essential for sustainable coastal development."
+  },
+  "M.Sc. Inland Fisheries": {
+    "exp": "Management of freshwater fisheries resources.",
+    "dur": "2 years",
+    "imp": "Important for sustainable freshwater fisheries."
+  },
+  "M.Sc. Fish Pathology": {
+    "exp": "Study of fish diseases and health management.",
+    "dur": "2 years",
+    "imp": "Crucial for aquaculture and fisheries health."
+  },
+  "M.Sc. Ichthyology": {
+    "exp": "Specialized study of fish biology and classification.",
+    "dur": "2 years",
+    "imp": "Important for fisheries management and aquatic research."
+  },
+  "Ph.D. Marine Biology": {
+    "exp": "Advanced marine organism research and ocean ecosystem studies.",
+    "dur": "3–5 years",
+    "imp": "Ocean conservation leadership and marine research direction."
+  },
+  "Ph.D. Oceanography": {
+    "exp": "Doctoral research on ocean systems, processes, and resources.",
+    "dur": "3–6 years",
+    "imp": "Climate research, ocean policy, and marine resource management leadership."
+  },
+  "Ph.D. Marine Ecology": {
+    "exp": "Advanced research on marine ecosystems and species interactions.",
+    "dur": "3–5 years",
+    "imp": "Marine sustainability and conservation research leadership."
+  },
+  "Ph.D. Fisheries Science": {
+    "exp": "Doctoral research on fish biology, fisheries management, and aquaculture.",
+    "dur": "3–5 years",
+    "imp": "Food security research and fisheries policy development."
+  },
+  "Ph.D. Aquaculture": {
+    "exp": "Advanced research on aquatic farming systems and technologies.",
+    "dur": "3–5 years",
+    "imp": "Sustainable aquaculture innovation and industry leadership."
+  },
+  "Ph.D. Marine Conservation": {
+    "exp": "Doctoral research on marine ecosystem protection and management.",
+    "dur": "3–5 years",
+    "imp": "Marine conservation policy and management leadership."
+  },
+  "Ph.D. Coastal Management": {
+    "exp": "Doctoral research on coastal resource management.",
+    "dur": "3–5 years",
+    "imp": "Coastal conservation and sustainable development leadership."
+  },
+  "Ph.D. Ichthyology": {
+    "exp": "Advanced research on fish biology and classification.",
+    "dur": "3–5 years",
+    "imp": "Fisheries science and aquatic research leadership."
+  },
+  "Ph.D. Fish Pathology": {
+    "exp": "Doctoral research on fish diseases and health.",
+    "dur": "3–5 years",
+    "imp": "Aquatic animal health and fisheries management leadership."
+  },
+  "Ph.D. Coral Reef Studies": {
+    "exp": "Advanced research on coral reef ecosystems.",
+    "dur": "3–5 years",
+    "imp": "Marine conservation and reef management leadership."
+  },
+  "B.Sc. Microbiology": {
+    "exp": "Study of microorganisms including bacteria, viruses, fungi, and their applications.",
+    "dur": "3 years",
+    "imp": "Important for healthcare, pharmaceutical, food, and environmental industries."
+  },
+  "B.Sc. Pharmacology": {
+    "exp": "Study of drugs, their composition, effects, and therapeutic uses.",
+    "dur": "4 years",
+    "imp": "Important for pharmaceutical research, drug development, and healthcare."
+  },
+  "B.Sc. Toxicology": {
+    "exp": "Study of chemical effects on living organisms and ecosystems.",
+    "dur": "3 years",
+    "imp": "Critical for environmental safety, pharmaceutical testing, and forensic science."
+  },
+  "B.Sc. Medical Lab Technology": {
+    "exp": "Training in laboratory techniques for medical diagnosis and research.",
+    "dur": "3 years",
+    "imp": "Prepares for careers in diagnostic laboratories and healthcare facilities."
+  },
+  "B.Sc. Pharmacy": {
+    "exp": "Study of drugs, their composition, effects, and therapeutic uses.",
+    "dur": "4 years",
+    "imp": "Important for pharmaceutical research, drug development, and healthcare."
+  },
+  "B.Sc. Clinical Research": {
+    "exp": "Study of clinical trial design, management, and regulatory affairs.",
+    "dur": "3 years",
+    "imp": "Prepares for careers in pharmaceutical research and clinical trial management."
+  },
+  "B.Sc. Biomedical Science": {
+    "exp": "Study of human biology, diseases, and medical laboratory techniques.",
+    "dur": "3 years",
+    "imp": "Prepares for careers in medical laboratories, research institutions, and healthcare."
+  },
+  "M.V.Sc Pathology": {
+    "exp": "Veterinary pathology specialization for disease diagnosis.",
+    "dur": "2 years",
+    "imp": "Essential for veterinary diagnostic laboratories and research."
+  },
+  "M.V.Sc Microbiology": {
+    "exp": "Veterinary microbiology for animal pathogen studies.",
+    "dur": "2 years",
+    "imp": "Important for animal disease research and control."
+  },
+  "M.V.Sc Parasitology": {
+    "exp": "Veterinary parasitology for parasite studies.",
+    "dur": "2 years",
+    "imp": "Crucial for livestock health and parasite control."
+  },
+  "M.V.Sc Epidemiology": {
+    "exp": "Veterinary epidemiology for disease pattern studies.",
+    "dur": "2 years",
+    "imp": "Important for disease surveillance in animal populations."
+  },
+  "M.Sc. Veterinary Science": {
+    "exp": "Advanced animal health studies, diseases, and treatment methods.",
+    "dur": "2 years",
+    "imp": "Essential for veterinary research, specialization, and advanced practice."
+  },
+  "M.Sc. Pathology": {
+    "exp": "Study of diseases through tissue examination and diagnosis.",
+    "dur": "2 years",
+    "imp": "Important for medical and veterinary diagnostics."
+  },
+  "M.Sc. Pharmacology": {
+    "exp": "Study of drug actions, effects, and development.",
+    "dur": "2 years",
+    "imp": "Important for pharmaceutical research and drug development."
+  },
+  "M.Sc. Toxicology": {
+    "exp": "Advanced study of chemical toxicity, risk assessment, and safety evaluation.",
+    "dur": "2 years",
+    "imp": "Key for environmental safety, pharmaceutical testing, and forensic applications."
+  },
+  "M.Sc. Clinical Research": {
+    "exp": "Design and management of clinical trials and research studies.",
+    "dur": "2 years",
+    "imp": "Crucial for pharmaceutical industry and medical research."
+  },
+  "M.Sc. Biomedical Science": {
+    "exp": "Advanced study of human biology and disease mechanisms.",
+    "dur": "2 years",
+    "imp": "Important for medical research and diagnostic laboratories."
+  },
+  "M.Sc. Medical Lab Science": {
+    "exp": "Advanced laboratory techniques for medical diagnosis.",
+    "dur": "2 years",
+    "imp": "Essential for hospital laboratories and diagnostic centers."
+  },
+  "M.Sc. Laboratory Animal Science": {
+    "exp": "Management and care of laboratory animals in research.",
+    "dur": "2 years",
+    "imp": "Essential for biomedical research institutions and pharmaceutical companies."
+  },
+  "Ph.D. Veterinary Sciences": {
+    "exp": "Doctoral research on animal health, diseases, and treatments.",
+    "dur": "3–6 years",
+    "imp": "Animal health advancement and veterinary research leadership."
+  },
+  "Ph.D. Veterinary Pathology": {
+    "exp": "Advanced research on animal diseases and diagnostics.",
+    "dur": "3–6 years",
+    "imp": "Veterinary diagnostic science and disease research leadership."
+  },
+  "Ph.D. Veterinary Microbiology": {
+    "exp": "Doctoral research on animal pathogens and diseases.",
+    "dur": "3–6 years",
+    "imp": "Animal disease control and vaccine research leadership."
+  },
+  "Ph.D. Veterinary Parasitology": {
+    "exp": "Advanced research on animal parasites and control.",
+    "dur": "3–6 years",
+    "imp": "Parasitic disease research and control leadership."
+  },
+  "Ph.D. Veterinary Epidemiology": {
+    "exp": "Doctoral research on animal disease patterns and outbreaks.",
+    "dur": "3–6 years",
+    "imp": "Disease surveillance and control program leadership."
+  },
+  "Ph.D. Pharmacology": {
+    "exp": "Doctoral research on drug actions and development.",
+    "dur": "3–6 years",
+    "imp": "Pharmaceutical research and drug development leadership."
+  },
+  "Ph.D. Biomedical Science": {
+    "exp": "Advanced research on human biology and diseases.",
+    "dur": "3–6 years",
+    "imp": "Medical research and diagnostic science leadership."
+  },
+  "Ph.D. Animal Toxicology": {
+    "exp": "Advanced research on chemical effects on animals.",
+    "dur": "3–5 years",
+    "imp": "Environmental safety and toxicology research leadership."
+  },
+  "Ph.D. Laboratory Animal Science": {
+    "exp": "Advanced research on laboratory animal care and science.",
+    "dur": "3–5 years",
+    "imp": "Biomedical research animal science leadership."
+  }
+}
