@@ -11,6 +11,9 @@ import Cockroach from './pages/Cockroach';
 import BasicFeatures from './pages/BasicFeatures';
 import Patterns from './pages/Patterns';
 import HorseEvolution from './pages/HorseEvolution';
+import BlogIndex from './pages/BlogIndex';
+import GiraffeBlog from './pages/GiraffeBlog';
+import MeerkatBlog from './pages/MeerkatBlog';
 
 export default function App() {
   return (
@@ -31,9 +34,9 @@ export default function App() {
         <Route path="/scopes" element={<Placeholder title="Scopes" />} />
         <Route path="/scopes/:categoryId" element={<Placeholder title="Scope Category" />} />
 
-        <Route path="/blog" element={<Placeholder title="Blog" />} />
-        <Route path="/blog/giraffe" element={<Placeholder title="Giraffe Blog" />} />
-        <Route path="/blog/meerkat" element={<Placeholder title="Meerkat Blog" />} />
+        <Route path="/blog" element={<BlogIndex />} />
+        <Route path="/blog/giraffe" element={<GiraffeBlog />} />
+        <Route path="/blog/meerkat" element={<MeerkatBlog />} />
 
         <Route path="/frog" element={<Placeholder title="Frog" />} />
         <Route path="/honeybee" element={<HoneyBee />} />
