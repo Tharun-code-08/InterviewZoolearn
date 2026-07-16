@@ -14,6 +14,10 @@ import HorseEvolution from './pages/HorseEvolution';
 import BlogIndex from './pages/BlogIndex';
 import GiraffeBlog from './pages/GiraffeBlog';
 import MeerkatBlog from './pages/MeerkatBlog';
+import CareerPath from './pages/CareerPath';
+import CareerCategory from './pages/CareerCategory';
+import Scopes from './pages/Scopes';
+import ScopeCategory from './pages/ScopeCategory';
 
 export default function App() {
   return (
@@ -29,10 +33,10 @@ export default function App() {
         <Route path="/evolution" element={<UnderConstruction />} />
         <Route path="/anatomy" element={<Patterns />} />
 
-        <Route path="/career-path" element={<Placeholder title="Career Path" />} />
-        <Route path="/career-path/:categoryId" element={<Placeholder title="Career Path Category" />} />
-        <Route path="/scopes" element={<Placeholder title="Scopes" />} />
-        <Route path="/scopes/:categoryId" element={<Placeholder title="Scope Category" />} />
+        <Route path="/career-path" element={<CareerPath />} />
+        <Route path="/career-path/:categoryId" element={<CareerCategory />} />
+        <Route path="/scopes" element={<Scopes />} />
+        <Route path="/scopes/:categoryId" element={<ScopeCategory />} />
 
         <Route path="/blog" element={<BlogIndex />} />
         <Route path="/blog/giraffe" element={<GiraffeBlog />} />
