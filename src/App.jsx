@@ -8,6 +8,9 @@ import UnderConstruction from './pages/UnderConstruction';
 import Rabbit from './pages/Rabbit';
 import HoneyBee from './pages/HoneyBee';
 import Cockroach from './pages/Cockroach';
+import BasicFeatures from './pages/BasicFeatures';
+import Patterns from './pages/Patterns';
+import HorseEvolution from './pages/HorseEvolution';
 
 export default function App() {
   return (
@@ -17,11 +20,11 @@ export default function App() {
         <Route path="/about" element={<Placeholder title="About" />} />
         <Route path="/taxonomy-tree" element={<Placeholder title="Taxonomy Tree" />} />
         <Route path="/living-world" element={<Placeholder title="The Living World" />} />
-        <Route path="/basic-features-of-classification" element={<Placeholder title="Basic Features of Classification" />} />
+        <Route path="/basic-features-of-classification" element={<BasicFeatures />} />
         <Route path="/kingdom-animalia" element={<Placeholder title="Kingdom Animalia" />} />
-        <Route path="/horse-evolution" element={<Placeholder title="Horse Evolution" />} />
+        <Route path="/horse-evolution" element={<HorseEvolution />} />
         <Route path="/evolution" element={<UnderConstruction />} />
-        <Route path="/anatomy" element={<Placeholder title="Patterns of Complexities" />} />
+        <Route path="/anatomy" element={<Patterns />} />
 
         <Route path="/career-path" element={<Placeholder title="Career Path" />} />
         <Route path="/career-path/:categoryId" element={<Placeholder title="Career Path Category" />} />
