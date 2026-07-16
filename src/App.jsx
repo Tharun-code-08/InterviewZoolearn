@@ -1,6 +1,5 @@
 import { Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout';
-import Placeholder from './pages/Placeholder';
 import Home from './pages/Home';
 import ZooHub from './pages/ZooHub';
 import SpeciesDetail from './pages/SpeciesDetail';
@@ -22,6 +21,8 @@ import About from './pages/About';
 import TaxonomyTree from './pages/TaxonomyTree';
 import LivingWorld from './pages/LivingWorld';
 import KingdomAnimalia from './pages/KingdomAnimalia';
+import Frog from './pages/Frog';
+import LeechLayout from './pages/LeechLayout';
 
 export default function App() {
   return (
@@ -46,11 +47,11 @@ export default function App() {
         <Route path="/blog/giraffe" element={<GiraffeBlog />} />
         <Route path="/blog/meerkat" element={<MeerkatBlog />} />
 
-        <Route path="/frog" element={<Placeholder title="Frog" />} />
+        <Route path="/frog" element={<Frog />} />
         <Route path="/honeybee" element={<HoneyBee />} />
         <Route path="/rabbit" element={<Rabbit />} />
         <Route path="/cockroach" element={<Cockroach />} />
-        <Route path="/leech" element={<Placeholder title="Leech" />} />
+        <Route path="/leech" element={<LeechLayout />} />
 
         <Route path="/zoohub" element={<ZooHub />} />
         <Route path="/zoohub/:phylum" element={<ZooHub />} />
