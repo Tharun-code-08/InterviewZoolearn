@@ -1,0 +1,474 @@
+{
+  "ascaris": {
+    "id": 1,
+    "slug": "ascaris",
+    "name": "Ascaris lumbricoides",
+    "scientificName": "Roundworm",
+    "description": "Ascaris lumbricoides is a large intestinal nematode. Sexes are separate and dimorphic. Common human parasite.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768982056/Ascaris_lumbricoides_izwqjh.png",
+    "3d": "",
+    "introduction": [
+      "Ascaris lumbricoides lives in human intestine.",
+      "Endoparasitic and cosmopolitan.",
+      "Causes ascariasis."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Pseudocoelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Anaerobic",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Absent",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Renette cells",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Cuticular exoskeleton",
+      "Nervous system: Circumpharyngeal nerve ring",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Long cylindrical body",
+      "Tapering ends",
+      "Male smaller than female",
+      "Cream-coloured"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Nematoda",
+      "Class: Secernentea",
+      "Order: Ascaridida",
+      "Family: Ascarididae",
+      "Genus: Ascaris",
+      "Species: Ascaris lumbricoides"
+    ],
+    "ecology": [
+      "Human intestinal parasite",
+      "Part of parasite life cycle",
+      "Influences host nutrition"
+    ],
+    "economy": [
+      "Medical importance",
+      "Public health concern",
+      "Used in parasitology studies"
+    ]
+  },
+  "wuchereria": {
+    "id": 2,
+    "slug": "wuchereria",
+    "name": "Wuchereria bancrofti",
+    "scientificName": "Filarial worm",
+    "description": "Wuchereria bancrofti is a blood parasite. Transmitted by mosquitoes. Causes elephantiasis.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768982084/Wuchereria_bancrofti_azjsvd.png",
+    "3d": "",
+    "introduction": [
+      "Wuchereria bancrofti inhabits lymph vessels.",
+      "Endoparasitic and tropical.",
+      "Major human disease agent."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Pseudocoelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Anaerobic",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Absent",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Renette cells",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Cuticular exoskeleton",
+      "Nervous system: Nerve ring",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Long thread-like body",
+      "Microfilariae in blood",
+      "Transparent cuticle",
+      "Slender shape"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Nematoda",
+      "Class: Secernentea",
+      "Order: Spirurida",
+      "Family: Onchocercidae",
+      "Genus: Wuchereria",
+      "Species: Wuchereria bancrofti"
+    ],
+    "ecology": [
+      "Human lymphatic parasite",
+      "Vector-borne transmission",
+      "Host-parasite interaction"
+    ],
+    "economy": [
+      "Causes elephantiasis",
+      "Public health importance",
+      "Medical research relevance"
+    ]
+  },
+  "ancylostoma": {
+    "id": 3,
+    "slug": "ancylostoma",
+    "name": "Ancylostoma duodenale",
+    "scientificName": "Hookworm",
+    "description": "Ancylostoma duodenale is an intestinal parasite. Mouth bears hooks. Causes anemia.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768982052/Ancylostoma_duodenale_c7jhbf.png",
+    "3d": "",
+    "introduction": [
+      "Ancylostoma duodenale lives in human intestine.",
+      "Larva enters through skin.",
+      "Common in tropical regions."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Pseudocoelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Anaerobic",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Absent",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Renette cells",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Cuticular exoskeleton",
+      "Nervous system: Nerve ring",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Small cylindrical body",
+      "Curved anterior end",
+      "Hook-like teeth",
+      "Pale colour"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Nematoda",
+      "Class: Secernentea",
+      "Order: Strongylida",
+      "Family: Ancylostomatidae",
+      "Genus: Ancylostoma",
+      "Species: Ancylostoma duodenale"
+    ],
+    "ecology": [
+      "Blood-sucking parasite",
+      "Affects host health",
+      "Soil-borne transmission"
+    ],
+    "economy": [
+      "Causes anemia",
+      "Public health concern",
+      "Medical importance"
+    ]
+  },
+  "enterobius": {
+    "id": 4,
+    "slug": "enterobius",
+    "name": "Enterobius vermicularis",
+    "scientificName": "Pinworm",
+    "description": "Enterobius vermicularis infects children. Small intestinal nematode. Causes itching.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768982065/Enterobius_vermicularis_htjsjz.png",
+    "3d": "",
+    "introduction": [
+      "Enterobius vermicularis lives in human intestine.",
+      "Highly contagious parasite.",
+      "Common in school children."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Pseudocoelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Anaerobic",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Absent",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Renette cells",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Cuticular exoskeleton",
+      "Nervous system: Nerve ring",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Small white worm",
+      "Pointed posterior end",
+      "Female larger",
+      "Thin body"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Nematoda",
+      "Class: Secernentea",
+      "Order: Oxyurida",
+      "Family: Oxyuridae",
+      "Genus: Enterobius",
+      "Species: Enterobius vermicularis"
+    ],
+    "ecology": [
+      "Human intestinal parasite",
+      "Direct transmission",
+      "Host-specific parasite"
+    ],
+    "economy": [
+      "Medical relevance",
+      "Public hygiene concern",
+      "Pediatric health issue"
+    ]
+  },
+  "loa-loa": {
+    "id": 5,
+    "slug": "loa-loa",
+    "name": "Loa loa",
+    "scientificName": "Eye worm",
+    "description": "Loa loa migrates under skin. Transmitted by deer fly. Causes loiasis.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768982069/Loa_loa_maj2rm.png",
+    "3d": "",
+    "introduction": [
+      "Loa loa inhabits subcutaneous tissues.",
+      "Parasitic and tropical.",
+      "Seen moving across eye."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Pseudocoelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Anaerobic",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Absent",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Renette cells",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Cuticular exoskeleton",
+      "Nervous system: Nerve ring",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Thin transparent body",
+      "Migratory habit",
+      "Microfilariae in blood",
+      "Thread-like form"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Nematoda",
+      "Class: Secernentea",
+      "Order: Spirurida",
+      "Family: Onchocercidae",
+      "Genus: Loa",
+      "Species: Loa loa"
+    ],
+    "ecology": [
+      "Human tissue parasite",
+      "Vector-borne life cycle",
+      "Host-parasite balance"
+    ],
+    "economy": [
+      "Medical importance",
+      "Tropical disease relevance",
+      "Parasitology studies"
+    ]
+  },
+  "trichuris": {
+    "id": 6,
+    "slug": "trichuris",
+    "name": "Trichuris trichiura",
+    "scientificName": "Whipworm",
+    "description": "Trichuris trichiura inhabits large intestine. Anterior end thin like whip. Causes trichuriasis.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768982078/Trichuris_trichiura_erm3qa.png",
+    "3d": "",
+    "introduction": [
+      "Trichuris trichiura lives in colon.",
+      "Endoparasitic in humans.",
+      "Common soil-transmitted helminth."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Pseudocoelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Anaerobic",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Absent",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Renette cells",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Cuticular exoskeleton",
+      "Nervous system: Nerve ring",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Whip-like body",
+      "Thin anterior region",
+      "Thick posterior end",
+      "Cream colour"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Nematoda",
+      "Class: Adenophorea",
+      "Order: Trichurida",
+      "Family: Trichuridae",
+      "Genus: Trichuris",
+      "Species: Trichuris trichiura"
+    ],
+    "ecology": [
+      "Human intestinal parasite",
+      "Soil-borne infection",
+      "Host nutrient loss"
+    ],
+    "economy": [
+      "Medical importance",
+      "Public health concern",
+      "Hygiene education relevance"
+    ]
+  },
+  "trichinella": {
+    "id": 7,
+    "slug": "trichinella",
+    "name": "Trichinella spiralis",
+    "scientificName": "Trichina worm",
+    "description": "Trichinella spiralis forms cysts in muscles. Transmitted by undercooked meat. Causes trichinosis.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768982073/Trichinella_spiralis_tjazqd.png",
+    "3d": "",
+    "introduction": [
+      "Trichinella spiralis lives in muscles.",
+      "Endoparasitic and zoonotic.",
+      "Infects pigs and humans."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Pseudocoelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Anaerobic",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Absent",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Renette cells",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Cuticular exoskeleton",
+      "Nervous system: Nerve ring",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Very small worm",
+      "Encysted larvae",
+      "Coiled shape",
+      "Microscopic size"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Nematoda",
+      "Class: Adenophorea",
+      "Order: Trichinellida",
+      "Family: Trichinellidae",
+      "Genus: Trichinella",
+      "Species: Trichinella spiralis"
+    ],
+    "ecology": [
+      "Zoonotic parasite",
+      "Muscle tissue parasite",
+      "Food chain transmission"
+    ],
+    "economy": [
+      "Food safety concern",
+      "Medical significance",
+      "Veterinary importance"
+    ]
+  },
+  "dracunculus": {
+    "id": 8,
+    "slug": "dracunculus",
+    "name": "Dracunculus medinensis",
+    "scientificName": "Guinea worm",
+    "description": "Dracunculus medinensis is a tissue parasite. Female emerges through skin. Causes dracunculiasis.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768982060/Dracunculus_medinensis_eibpmm.png",
+    "3d": "",
+    "introduction": [
+      "Dracunculus medinensis lives in subcutaneous tissue.",
+      "Transmitted by drinking contaminated water.",
+      "Near eradication globally."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Pseudocoelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Anaerobic",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Absent",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Renette cells",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Cuticular exoskeleton",
+      "Nervous system: Nerve ring",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Extremely long female",
+      "Thread-like body",
+      "Emerges through skin",
+      "Whitish colour"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Nematoda",
+      "Class: Secernentea",
+      "Order: Spirurida",
+      "Family: Dracunculidae",
+      "Genus: Dracunculus",
+      "Species: Dracunculus medinensis"
+    ],
+    "ecology": [
+      "Human tissue parasite",
+      "Water-borne life cycle",
+      "Host-specific parasite"
+    ],
+    "economy": [
+      "Public health campaigns",
+      "Disease eradication success",
+      "Medical importance"
+    ]
+  }
+}

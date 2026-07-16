@@ -1,0 +1,643 @@
+{
+  "nereis": {
+    "id": 1,
+    "slug": "nereis",
+    "name": "Nereis",
+    "scientificName": "Rag worm",
+    "description": "Neanthes is a free-living marine annelid.\nBody is segmented with parapodia.\nPredatory polychaete worm.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768984042/Neanthes_bsotgt.png",
+    "3d": "",
+    "introduction": [
+      "Neanthes lives in marine sandy habitats.",
+      "Active and carnivorous.",
+      "Representative of Polychaeta."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Through parapodia",
+      "Circulatory type: Closed circulation",
+      "Circulation system: Closed",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Nephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Ladder-like with ganglia",
+      "Metamerism: Present",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Annelida",
+      "Class: Polychaeta",
+      "Order: Phyllodocida",
+      "Family: Nereididae",
+      "Genus: Neanthes"
+    ],
+    "sizeStructure": [
+      "Long segmented body",
+      "Parapodia with setae",
+      "Distinct head",
+      "Brownish colour"
+    ],
+    "ecology": [
+      "Marine predator",
+      "Sediment turnover",
+      "Marine food web"
+    ],
+    "economy": [
+      "Fish bait",
+      "Marine ecology studies",
+      "Educational importance"
+    ]
+  },
+  "chaetopterus": {
+    "id": 2,
+    "slug": "chaetopterus",
+    "name": "Chaetopterus",
+    "scientificName": "Parchment worm",
+    "description": "Chaetopterus is a tube-dwelling polychaete.\nLives in parchment-like tubes.\nFilter-feeding annelid.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768984020/Chaetopterus_lwyfzd.png",
+    "3d": "",
+    "introduction": [
+      "Chaetopterus inhabits marine burrows.",
+      "Sessile and filter-feeding.",
+      "Specialized polychaete."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Through parapodia",
+      "Circulatory type: Closed circulation",
+      "Circulation system: Closed",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Nephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Ladder-like",
+      "Metamerism: Present",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Annelida",
+      "Class: Polychaeta",
+      "Order: Chaetopterida",
+      "Family: Chaetopteridae",
+      "Genus: Chaetopterus"
+    ],
+    "sizeStructure": [
+      "Body divided into regions",
+      "Parchment-like tube",
+      "Modified parapodia",
+      "Pale colour"
+    ],
+    "ecology": [
+      "Filter feeder",
+      "Benthic ecosystem role",
+      "Sediment stabilization"
+    ],
+    "economy": [
+      "Marine research",
+      "Teaching specimen",
+      "Biodiversity studies"
+    ]
+  },
+  "aphrodita": {
+    "id": 3,
+    "slug": "aphrodita",
+    "name": "Aphrodita",
+    "scientificName": "Sea mouse",
+    "description": "Aphrodita is a marine polychaete.\nBody covered with iridescent setae.\nBottom-dwelling worm.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768983997/Aphrodita_ljkqci.png",
+    "3d": "https://sketchfab.com/3d-models/3-aphrodita-australis-010693b43b26466e94232736a2fc6bd1/embed",
+    "introduction": [
+      "Aphrodita lives on sea floor.",
+      "Carnivorous and slow-moving.",
+      "Distinctive polychaete."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Body surface",
+      "Circulatory type: Closed circulation",
+      "Circulation system: Closed",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Nephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Ladder-like",
+      "Metamerism: Present",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Annelida",
+      "Class: Polychaeta",
+      "Order: Aphroditida",
+      "Family: Aphroditidae",
+      "Genus: Aphrodita"
+    ],
+    "sizeStructure": [
+      "Oval flattened body",
+      "Hair-like setae",
+      "Iridescent sheen",
+      "Brown or grey"
+    ],
+    "ecology": [
+      "Predator of small animals",
+      "Sea-floor ecosystem role",
+      "Benthic food web"
+    ],
+    "economy": [
+      "Marine biology studies",
+      "Educational importance",
+      "Biodiversity documentation"
+    ]
+  },
+  "arenicola": {
+    "id": 4,
+    "slug": "arenicola",
+    "name": "Arenicola",
+    "scientificName": "Lugworm",
+    "description": "Arenicola is a burrowing marine worm.\nFeeds on sand organic matter.\nImportant benthic annelid.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768984016/Arenicola_gpugoh.png",
+    "3d": "",
+    "introduction": [
+      "Arenicola lives in sandy beaches.",
+      "Burrowing and deposit-feeding.",
+      "Creates characteristic casts."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Through gills",
+      "Circulatory type: Closed circulation",
+      "Circulation system: Closed",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Nephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Ladder-like",
+      "Metamerism: Present",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Annelida",
+      "Class: Polychaeta",
+      "Order: Arenicolida",
+      "Family: Arenicolidae",
+      "Genus: Arenicola"
+    ],
+    "sizeStructure": [
+      "Cylindrical body",
+      "Reduced parapodia",
+      "Posterior gills",
+      "Reddish colour"
+    ],
+    "ecology": [
+      "Bioturbation",
+      "Aerates sand",
+      "Nutrient recycling"
+    ],
+    "economy": [
+      "Fish bait",
+      "Ecological indicator",
+      "Research use"
+    ]
+  },
+  "lampito-mauritii": {
+    "id": 5,
+    "slug": "lampito-mauritii",
+    "name": "Lampito mauritii",
+    "scientificName": "Indian earthworm",
+    "description": "Lampito mauritii is a large earthworm.\nBurrowing and detritivorous.\nCommon in Indian soils.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768984033/Lampito_mauritii_ttkkue.png",
+    "3d": "https://sketchfab.com/3d-models/earthworm-79d7f1ea7ec04413807abb792964c809/embed",
+    "introduction": [
+      "Lampito mauritii lives in moist soil.",
+      "Feeds on organic matter.",
+      "Important soil annelid."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Cutaneous",
+      "Circulatory type: Closed circulation",
+      "Circulation system: Closed",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Nephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Ladder-like",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Annelida",
+      "Class: Oligochaeta",
+      "Order: Haplotaxida",
+      "Family: Megascolecidae",
+      "Genus: Lampito",
+      "Species: Lampito mauritii"
+    ],
+    "sizeStructure": [
+      "Long segmented body",
+      "Clitellum present",
+      "Brown colour",
+      "No parapodia"
+    ],
+    "ecology": [
+      "Soil aeration",
+      "Improves fertility",
+      "Decomposer"
+    ],
+    "economy": [
+      "Vermicomposting",
+      "Agriculture benefit",
+      "Soil health indicator"
+    ]
+  },
+  "pheretima-posthuma": {
+    "id": 6,
+    "slug": "pheretima-posthuma",
+    "name": "Pheretima posthuma",
+    "scientificName": "Earthworm",
+    "description": "Pheretima posthuma is a terrestrial annelid.\nBurrowing and detritivorous.\nClassic zoology specimen.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768984044/Pheretima_posthuma_lj6y2z.png",
+    "3d": "https://sketchfab.com/3d-models/red-worm-02-9a57ff53b4f843a580d38cff340232a8/embed",
+    "introduction": [
+      "Pheretima posthuma lives in moist soil.",
+      "Feeds on decaying matter.",
+      "Important for soil structure."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Cutaneous",
+      "Circulatory type: Closed circulation",
+      "Circulation system: Closed",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Nephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Ladder-like",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Annelida",
+      "Class: Oligochaeta",
+      "Order: Haplotaxida",
+      "Family: Megascolecidae",
+      "Genus: Pheretima",
+      "Species: Pheretima posthuma"
+    ],
+    "sizeStructure": [
+      "Cylindrical body",
+      "Clitellum visible",
+      "Numerous segments",
+      "Brownish"
+    ],
+    "ecology": [
+      "Soil mixing",
+      "Organic matter breakdown",
+      "Nutrient cycling"
+    ],
+    "economy": [
+      "Soil fertility",
+      "Educational specimen",
+      "Vermiculture"
+    ]
+  },
+  "megascolex": {
+    "id": 7,
+    "slug": "megascolex",
+    "name": "Megascolex",
+    "scientificName": "Giant earthworm",
+    "description": "Megascolex includes very large earthworms.\nBurrowing soil annelids.\nImportant decomposers.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768984099/Megascolex_qckucb.png",
+    "3d": "",
+    "introduction": [
+      "Megascolex inhabits tropical soils.",
+      "Detritivorous and subterranean.",
+      "Large-sized oligochaetes."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Cutaneous",
+      "Circulatory type: Closed circulation",
+      "Circulation system: Closed",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Nephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Ladder-like",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Annelida",
+      "Class: Oligochaeta",
+      "Order: Haplotaxida",
+      "Family: Megascolecidae",
+      "Genus: Megascolex"
+    ],
+    "sizeStructure": [
+      "Very long body",
+      "Thick segments",
+      "Clitellum present",
+      "Dark brown"
+    ],
+    "ecology": [
+      "Soil aeration",
+      "Decomposition",
+      "Nutrient recycling"
+    ],
+    "economy": [
+      "Soil fertility",
+      "Composting",
+      "Research importance"
+    ]
+  },
+  "tubifex": {
+    "id": 8,
+    "slug": "tubifex",
+    "name": "Tubifex",
+    "scientificName": "Sludge worm",
+    "description": "Tubifex lives in polluted water.\nForms red worm masses.\nTolerant to low oxygen.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768984047/Tubifex_nafvip.png",
+    "3d": "",
+    "introduction": [
+      "Tubifex inhabits muddy freshwater bottoms.",
+      "Detritivorous and aquatic.",
+      "Indicator of organic pollution."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Cutaneous",
+      "Circulatory type: Closed circulation",
+      "Circulation system: Closed",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Nephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Ladder-like",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, euryhaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Annelida",
+      "Class: Oligochaeta",
+      "Order: Haplotaxida",
+      "Family: Tubificidae",
+      "Genus: Tubifex"
+    ],
+    "sizeStructure": [
+      "Thin red worms",
+      "Segmented body",
+      "No parapodia",
+      "Found in clusters"
+    ],
+    "ecology": [
+      "Decomposer",
+      "Indicator of pollution",
+      "Nutrient recycling"
+    ],
+    "economy": [
+      "Fish food",
+      "Water quality studies",
+      "Research use"
+    ]
+  },
+  "lumbricus": {
+    "id": 9,
+    "slug": "lumbricus terrestris",
+    "name": "Lumbricus terrestris",
+    "scientificName": "Earthworm",
+    "description": "Lumbricus is a terrestrial annelid.\nImportant soil-dwelling worm.\nCommon in temperate regions.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768984035/Lumbricus_wfhpyb.png",
+    "3d": "https://sketchfab.com/3d-models/red-worm-01-9baea423e33c430ebcc577f7a8f29107/embed",
+    "introduction": [
+      "Lumbricus lives in moist fertile soil.",
+      "Detritivorous and burrowing.",
+      "Improves soil fertility."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Cutaneous",
+      "Circulatory type: Closed circulation",
+      "Circulation system: Closed",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Nephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Ladder-like",
+      "Metamerism: Present",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Annelida",
+      "Class: Oligochaeta",
+      "Order: Haplotaxida",
+      "Family: Lumbricidae",
+      "Genus: Lumbricus"
+    ],
+    "sizeStructure": [
+      "Cylindrical body",
+      "Prominent clitellum",
+      "Reddish-brown",
+      "Numerous segments"
+    ],
+    "ecology": [
+      "Soil aeration",
+      "Organic matter breakdown",
+      "Ecosystem engineer"
+    ],
+    "economy": [
+      "Agriculture benefit",
+      "Vermiculture",
+      "Educational importance"
+    ]
+  },
+  "hirudinaria-granulosa": {
+    "id": 10,
+    "slug": "hirudinaria-granulosa",
+    "name": "Hirudinaria granulosa",
+    "scientificName": "Cattle leech",
+    "description": "Hirudinaria granulosa is a blood-sucking leech.\nEctoparasitic annelid.\nCommon in freshwater.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768984024/Hirudinaria_granulosa_bpsrjd.png",
+    "3d": "https://sketchfab.com/3d-models/indian-cattle-leech-overview-69b3e8feda0d4c11a2e2a9e678fd489d/embed",
+    "introduction": [
+      "Hirudinaria lives in ponds and tanks.",
+      "Feeds on blood of animals.",
+      "Large leech species."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Cutaneous",
+      "Circulatory type: Closed circulation",
+      "Circulation system: Closed",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Nephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Ladder-like",
+      "Metamerism: Externally absent",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Annelida",
+      "Class: Hirudinea",
+      "Order: Gnathobdellida",
+      "Family: Hirudinidae",
+      "Genus: Hirudinaria",
+      "Species: Hirudinaria granulosa"
+    ],
+    "sizeStructure": [
+      "Dorsoventrally flattened",
+      "Anterior and posterior suckers",
+      "Dark green colour",
+      "Granulated surface"
+    ],
+    "ecology": [
+      "Parasite of mammals",
+      "Freshwater ecosystem role",
+      "Predator-prey interaction"
+    ],
+    "economy": [
+      "Medical leeching",
+      "Research use",
+      "Parasitology studies"
+    ]
+  },
+  "hirudo": {
+    "id": 11,
+    "slug": "hirudo",
+    "name": "Hirudo",
+    "scientificName": "Medicinal leech",
+    "description": "Hirudo is a blood-sucking annelid.\nUsed in medicine.\nEctoparasitic leech.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1768984030/Hirudo_rrbynu.png",
+    "3d": "",
+    "introduction": [
+      "Hirudo lives in freshwater habitats.",
+      "Feeds on vertebrate blood.",
+      "Important in medical science."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Coelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete",
+      "Respiratory type: Cutaneous",
+      "Circulatory type: Closed circulation",
+      "Circulation system: Closed",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Nephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Ladder-like",
+      "Metamerism: Externally absent",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Annelida",
+      "Class: Hirudinea",
+      "Order: Gnathobdellida",
+      "Family: Hirudinidae",
+      "Genus: Hirudo"
+    ],
+    "sizeStructure": [
+      "Flattened body",
+      "Two suckers",
+      "Dark striped colour",
+      "Soft body"
+    ],
+    "ecology": [
+      "Ectoparasite",
+      "Predator-prey dynamics",
+      "Freshwater ecosystem"
+    ],
+    "economy": [
+      "Medical leech therapy",
+      "Anticoagulant research",
+      "Surgical importance"
+    ]
+  }
+}

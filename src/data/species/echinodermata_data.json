@@ -1,0 +1,571 @@
+{
+  "asterias": {
+    "id": 1,
+    "slug": "asterias",
+    "name": "Asterias",
+    "scientificName": "Common starfish",
+    "description": "Asterias is a typical starfish.\nIt has five arms and a central disc.\nIt represents Class Asteroidea.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1769360493/Asterias_habged.png",
+    "3d": "https://sketchfab.com/3d-models/asterias-amurensis-casiz-173988-b4ce5d60ab3846a18a89f026b5bf335e/embed",
+    "introduction": [
+      "Asterias lives in shallow marine waters.",
+      "It is slow-moving and carnivorous.",
+      "It controls molluscan populations."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Radial (pentaradial adult, bilateral larva)",
+      "Coelom: True coelom, reduced",
+      "Body plan: Tube within a tube body plan, Deuterostomous",
+      "Digestion type: Incomplete, extracellular",
+      "Respiratory type: Dermal branchiae and tube feet",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water vascular (ambulacral) system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton (calcareous ossicles)",
+      "Nervous system: Nerve ring with radial nerves",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Echinodermata",
+      "Class: Asteroidea",
+      "Order: Forcipulatida",
+      "Family: Asteriidae",
+      "Genus: Asterias"
+    ],
+    "sizeStructure": [
+      "Medium-sized star-shaped body",
+      "Five broad arms",
+      "Rough surface with spines",
+      "Orange, brown, or reddish colour"
+    ],
+    "ecology": [
+      "Predator of bivalves",
+      "Regulates benthic populations",
+      "Important marine food-chain link"
+    ],
+    "economy": [
+      "Standard laboratory specimen",
+      "Regeneration studies",
+      "Indicator of marine health"
+    ]
+  },
+  "astropecten": {
+    "id": 2,
+    "slug": "astropecten",
+    "name": "Astropecten",
+    "scientificName": "Sand star",
+    "description": "Astropecten is a fast-moving starfish.\nIt lives on sandy sea floors.\nAdapted for burrowing life.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1769360496/Astropecten_bnftwd.png",
+    "3d": "https://sketchfab.com/3d-models/astropecten-polyacanthus-casiz-106681-18629f75599e472aad35e7658b90e6a7/embed",
+    "introduction": [
+      "Astropecten inhabits sandy marine bottoms.",
+      "It is carnivorous and active.",
+      "Important benthic echinoderm."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Radial (pentaradial adult, bilateral larva)",
+      "Coelom: True coelom, reduced",
+      "Body plan: Tube within a tube body plan, Deuterostomous",
+      "Digestion type: Incomplete, extracellular",
+      "Respiratory type: Dermal branchiae and tube feet",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water vascular (ambulacral) system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton (calcareous ossicles)",
+      "Nervous system: Nerve ring with radial nerves",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Echinodermata",
+      "Class: Asteroidea",
+      "Order: Paxillosida",
+      "Family: Astropectinidae",
+      "Genus: Astropecten"
+    ],
+    "sizeStructure": [
+      "Five long pointed arms",
+      "Flat body",
+      "Marginal spines present",
+      "Tube feet without suckers"
+    ],
+    "ecology": [
+      "Predator of benthic animals",
+      "Sediment turnover",
+      "Maintains sandy ecosystems"
+    ],
+    "economy": [
+      "Marine ecological studies",
+      "Habitat indicator",
+      "Educational specimen"
+    ]
+  },
+  "pentaceros": {
+    "id": 3,
+    "slug": "pentaceros",
+    "name": "Pentaceros",
+    "scientificName": "Horned starfish",
+    "description": "Pentaceros is a large starfish.\nIt has strong horn-like spines.\nBody is heavily armoured.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1769360537/Pentaceros_tv8ynk.png",
+    "3d": "https://sketchfab.com/3d-models/sea-star-722016ec0823436b8671ad93c2951d7f/embed",
+    "introduction": [
+      "Pentaceros lives in tropical seas.",
+      "It is slow-moving and benthic.",
+      "Shows extreme skeletal development."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Radial (pentaradial adult, bilateral larva)",
+      "Coelom: True coelom, reduced",
+      "Body plan: Tube within a tube body plan, Deuterostomous",
+      "Digestion type: Incomplete, extracellular",
+      "Respiratory type: Dermal branchiae and tube feet",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water vascular (ambulacral) system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton (calcareous ossicles)",
+      "Nervous system: Nerve ring with radial nerves",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Echinodermata",
+      "Class: Asteroidea",
+      "Order: Valvatida",
+      "Family: Oreasteridae",
+      "Genus: Pentaceros"
+    ],
+    "sizeStructure": [
+      "Thick rigid body",
+      "Five short arms",
+      "Prominent spines",
+      "Bright colours"
+    ],
+    "ecology": [
+      "Benthic predator",
+      "Reef ecosystem balance",
+      "Marine biodiversity support"
+    ],
+    "economy": [
+      "Morphological studies",
+      "Educational specimen",
+      "Marine awareness value"
+    ]
+  },
+  "ophiothrix": {
+    "id": 4,
+    "slug": "ophiothrix",
+    "name": "Ophiothrix",
+    "scientificName": "Brittle star",
+    "description": "Ophiothrix has long flexible arms.\nBody is delicate and fast-moving.\nBelongs to Class Ophiuroidea.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1769360528/Ophiothrix_bc2hdg.png",
+    "3d": "",
+    "introduction": [
+      "Ophiothrix lives under rocks and corals.",
+      "It is sensitive and active.",
+      "Important scavenger."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Radial (pentaradial adult, bilateral larva)",
+      "Coelom: True coelom, reduced",
+      "Body plan: Tube within a tube body plan, Deuterostomous",
+      "Digestion type: Incomplete",
+      "Respiratory type: Bursae",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water vascular (ambulacral) system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton (ossicles)",
+      "Nervous system: Nerve ring with radial nerves",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Echinodermata",
+      "Class: Ophiuroidea",
+      "Order: Ophiurida",
+      "Family: Ophiotrichidae",
+      "Genus: Ophiothrix"
+    ],
+    "sizeStructure": [
+      "Small central disc",
+      "Five long spiny arms",
+      "Flexible body",
+      "Brown or reddish colour"
+    ],
+    "ecology": [
+      "Scavenger",
+      "Organic matter recycling",
+      "Nutrient cycling"
+    ],
+    "economy": [
+      "Reef health indicator",
+      "Zoology teaching",
+      "Evolutionary studies"
+    ]
+  },
+  "ophiura": {
+    "id": 5,
+    "slug": "ophiura",
+    "name": "Ophiura",
+    "scientificName": "Brittle star",
+    "description": "Ophiura has a distinct central disc.\nArms are long and whip-like.\nMoves rapidly using arms.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1769360532/Ophiura_ym6abk.png",
+    "3d": "https://sketchfab.com/3d-models/ophiura-1-740534e8afc94308923e19270ff7b78d/embed",
+    "introduction": [
+      "Ophiura lives on muddy sea bottoms.",
+      "It is benthic and scavenging.",
+      "Cleans sea floor debris."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Radial (pentaradial adult, bilateral larva)",
+      "Coelom: True coelom, reduced",
+      "Body plan: Tube within a tube body plan, Deuterostomous",
+      "Digestion type: Incomplete",
+      "Respiratory type: Bursae",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water vascular (ambulacral) system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton (ossicles)",
+      "Nervous system: Nerve ring with radial nerves",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Echinodermata",
+      "Class: Ophiuroidea",
+      "Order: Ophiurida",
+      "Family: Ophiuridae",
+      "Genus: Ophiura"
+    ],
+    "sizeStructure": [
+      "Rounded disc",
+      "Thin flexible arms",
+      "Smooth surface",
+      "Grey or brown"
+    ],
+    "ecology": [
+      "Scavenger",
+      "Sea floor cleaner",
+      "Nutrient recycling"
+    ],
+    "economy": [
+      "Marine research",
+      "Environmental indicator",
+      "Educational value"
+    ]
+  },
+  "echinus": {
+    "id": 6,
+    "slug": "echinus",
+    "name": "Echinus",
+    "scientificName": "Sea urchin",
+    "description": "Echinus is a globular echinoderm.\nBody is covered with movable spines.\nCommon in marine habitats.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1769360511/Echinus_eotis0.png",
+    "3d": "https://sketchfab.com/3d-models/echinus-esculentus-casiz-111150-40b97d7c5c6b44ba83d5f05400fe43bf/embed",
+    "introduction": [
+      "Echinus inhabits rocky sea bottoms.",
+      "It feeds mainly on algae.",
+      "It is slow moving."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Radial",
+      "Coelom: Reduced",
+      "Body plan: Tube within a tube body plan",
+      "Digestion type: Complete",
+      "Respiratory type: Tube feet and gills",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water vascular system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton",
+      "Nervous system: Nerve ring with radial nerves",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Echinodermata",
+      "Class: Echinoidea",
+      "Order: Echinoida",
+      "Family: Echinidae",
+      "Genus: Echinus"
+    ],
+    "sizeStructure": [
+      "Globular body",
+      "Long movable spines",
+      "Hard calcareous test"
+    ],
+    "ecology": [
+      "Grazer on algae",
+      "Controls algal growth",
+      "Part of marine food chain"
+    ],
+    "economy": [
+      "Used in marine studies",
+      "Ecological importance"
+    ]
+  },
+  "echinocardium": {
+    "id": 7,
+    "slug": "echinocardium",
+    "name": "Echinocardium",
+    "scientificName": "Heart urchin",
+    "description": "Echinocardium has a heart-shaped body.\nAdapted for burrowing life.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1769360508/Echinocardium_ohmfl0.png",
+    "3d": "https://sketchfab.com/3d-models/echinoid-echinocardium-orthonotum-pri-503-d424aae2a93b44309fc5503c784f0bd8/embed",
+    "introduction": [
+      "Echinocardium lives buried in sand.",
+      "It feeds on organic matter.",
+      "It is a burrowing echinoderm."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral secondary radial",
+      "Coelom: Reduced",
+      "Body plan: Tube within a tube body plan",
+      "Digestion type: Complete",
+      "Respiratory type: Tube feet",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water vascular system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton",
+      "Nervous system: Nerve ring",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Echinodermata",
+      "Class: Echinoidea",
+      "Order: Spatangoida",
+      "Family: Loveniidae",
+      "Genus: Echinocardium"
+    ],
+    "sizeStructure": [
+      "Heart-shaped body",
+      "Short spines",
+      "Flattened form"
+    ],
+    "ecology": [
+      "Burrowing detritivore",
+      "Sediment turnover",
+      "Marine ecosystem role"
+    ],
+    "economy": [
+      "Marine ecological studies",
+      "Educational specimen"
+    ]
+  },
+  "cucumaria": {
+    "id": 8,
+    "slug": "cucumaria",
+    "name": "Cucumaria",
+    "scientificName": "Sea cucumber",
+    "description": "Cucumaria has elongated body.\nBody wall is leathery.\nTentacles present around mouth.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1769360504/Cucumaria_fmxlmu.png",
+    "3d": "",
+    "introduction": [
+      "Cucumaria lives on sea floor.",
+      "It feeds on organic matter.",
+      "It is slow-moving."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral secondary radial",
+      "Coelom: Reduced",
+      "Body plan: Tube within a tube body plan",
+      "Digestion type: Complete",
+      "Respiratory type: Respiratory trees",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water vascular system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Reduced endoskeleton",
+      "Nervous system: Nerve ring",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Echinodermata",
+      "Class: Holothuroidea",
+      "Order: Dendrochirotida",
+      "Family: Cucumariidae",
+      "Genus: Cucumaria"
+    ],
+    "sizeStructure": [
+      "Elongated cylindrical body",
+      "Leathery skin",
+      "Branched tentacles"
+    ],
+    "ecology": [
+      "Detritivore",
+      "Sediment recycler",
+      "Benthic ecosystem role"
+    ],
+    "economy": [
+      "Marine studies",
+      "Ecological importance"
+    ]
+  },
+  "holothuria": {
+    "id": 9,
+    "slug": "holothuria",
+    "name": "Holothuria",
+    "scientificName": "Sea cucumber",
+    "description": "Holothuria has elongated soft body.\nLacks arms and spines.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1769360522/Holothuria_ddp7k9.png",
+    "3d": "https://sketchfab.com/3d-models/blaschka-sea-cucumber-d0256cef51354e7c9dc4e250a110b909/embed",
+    "introduction": [
+      "Holothuria lives on sandy sea floor.",
+      "Feeds on detritus.",
+      "Important benthic organism."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral secondary radial",
+      "Coelom: Reduced",
+      "Body plan: Tube within a tube body plan",
+      "Digestion type: Complete",
+      "Respiratory type: Respiratory trees",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water vascular system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Reduced endoskeleton",
+      "Nervous system: Nerve ring",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Echinodermata",
+      "Class: Holothuroidea",
+      "Order: Aspidochirotida",
+      "Family: Holothuriidae",
+      "Genus: Holothuria"
+    ],
+    "sizeStructure": [
+      "Soft elongated body",
+      "Tentacles around mouth",
+      "Brown or dark colour"
+    ],
+    "ecology": [
+      "Detritivore",
+      "Recycles organic matter",
+      "Marine ecosystem function"
+    ],
+    "economy": [
+      "Used as food (bêche-de-mer)",
+      "Commercial importance"
+    ]
+  },
+  "antedon": {
+    "id": 10,
+    "slug": "antedon",
+    "name": "Antedon",
+    "scientificName": "Feather star",
+    "description": "Antedon is a free-swimming crinoid.\nHas feather-like arms.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1769360490/Antedon_fmu9ps.png",
+    "3d": "",
+    "introduction": [
+      "Antedon temporarily attaches to substratum.",
+      "Feeds on plankton.",
+      "Marine echinoderm."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Radial",
+      "Coelom: Reduced",
+      "Body plan: Tube within a tube body plan",
+      "Digestion type: Complete",
+      "Respiratory type: Tube feet",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Water vascular system",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Endoskeleton",
+      "Nervous system: Nerve ring",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Echinodermata",
+      "Class: Crinoidea",
+      "Order: Comatulida",
+      "Family: Antedonidae",
+      "Genus: Antedon"
+    ],
+    "sizeStructure": [
+      "Feather-like arms",
+      "Small central disc",
+      "Flexible body"
+    ],
+    "ecology": [
+      "Plankton feeder",
+      "Marine food web"
+    ],
+    "economy": [
+      "Marine research",
+      "Educational specimen"
+    ]
+  }
+}

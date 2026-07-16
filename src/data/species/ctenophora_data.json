@@ -1,0 +1,292 @@
+{
+  "ctenoplana": {
+    "id": 1,
+    "slug": "ctenoplana",
+    "name": "Ctenoplana",
+    "scientificName": "Creeping comb jelly",
+    "description": "Ctenoplana is a benthic ctenophore. It creeps on sea bottom surfaces. Represents primitive ctenophores.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767893538/Ctenoplana_hbzyki.png",
+    "3d": "",
+    "introduction": [
+      "Ctenoplana lives in shallow marine waters.",
+      "It is free-living and carnivorous.",
+      "Important for evolutionary studies."
+    ],
+    "features": [
+      "Level of Organisation: Tissue level",
+      "Germ layer: Diploblastic",
+      "Body symmetry: Biradial",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Nerve net",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Flattened body",
+      "Creeping habit",
+      "Reduced comb plates",
+      "Transparent appearance"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Ctenophora",
+      "Class: Tentaculata",
+      "Order: Platyctenida",
+      "Family: Ctenoplanidae",
+      "Genus: Ctenoplana"
+    ],
+    "ecology": [
+      "Predator of small invertebrates",
+      "Part of benthic food web",
+      "Indicator of shallow marine habitats"
+    ],
+    "economy": [
+      "Evolutionary research importance",
+      "Academic studies",
+      "Marine biodiversity documentation"
+    ]
+  },
+  "pleurobrachia": {
+    "id": 2,
+    "slug": "pleurobrachia",
+    "name": "Pleurobrachia",
+    "scientificName": "Sea gooseberry",
+    "description": "Pleurobrachia is a free-swimming ctenophore. Body is spherical with long tentacles. Commonly studied comb jelly.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767893553/Pleurobrachia_ffya5t.png",
+    "3d": "https://sketchfab.com/3d-models/2-pleurobrachia-armaturemesh-deformmddabc-050cbb2b18c7400dbd9869f8e43a0132/embed",
+    "introduction": [
+      "Pleurobrachia inhabits marine waters.",
+      "Pelagic and carnivorous.",
+      "Used as a representative ctenophore."
+    ],
+    "features": [
+      "Level of Organisation: Tissue level",
+      "Germ layer: Diploblastic",
+      "Body symmetry: Biradial",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Nerve net",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Spherical transparent body",
+      "Eight comb plates",
+      "Two long retractile tentacles",
+      "Bioluminescent"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Ctenophora",
+      "Class: Tentaculata",
+      "Order: Cydippida",
+      "Family: Pleurobrachiidae",
+      "Genus: Pleurobrachia"
+    ],
+    "ecology": [
+      "Predator of zooplankton",
+      "Marine food web component",
+      "Energy transfer in pelagic zones"
+    ],
+    "economy": [
+      "Zoology teaching specimen",
+      "Research on locomotion",
+      "Marine ecology studies"
+    ]
+  },
+  "hormiphora": {
+    "id": 3,
+    "slug": "hormiphora",
+    "name": "Hormiphora",
+    "scientificName": "Comb jelly",
+    "description": "Hormiphora is a cydippid ctenophore. Closely resembles Pleurobrachia. Pelagic and transparent.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767893551/Hormiphora_jmfpun.png",
+    "3d": "",
+    "introduction": [
+      "Hormiphora lives in open marine waters.",
+      "Free-swimming and carnivorous.",
+      "Used in comparative studies."
+    ],
+    "features": [
+      "Level of Organisation: Tissue level",
+      "Germ layer: Diploblastic",
+      "Body symmetry: Biradial",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Nerve net",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Oval transparent body",
+      "Eight rows of comb plates",
+      "Pair of long tentacles",
+      "Colorless appearance"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Ctenophora",
+      "Class: Tentaculata",
+      "Order: Cydippida",
+      "Family: Hormiphoridae",
+      "Genus: Hormiphora"
+    ],
+    "ecology": [
+      "Predator of planktonic organisms",
+      "Pelagic ecosystem balance",
+      "Nutrient cycling"
+    ],
+    "economy": [
+      "Research specimen",
+      "Comparative zoology importance",
+      "Educational value"
+    ]
+  },
+  "cestum": {
+    "id": 4,
+    "slug": "cestum",
+    "name": "Cestum",
+    "scientificName": "Venus girdle",
+    "description": "Cestum is a ribbon-like ctenophore. Largest known comb jelly. Highly elongated body.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767893548/Cestum_imikzw.png",
+    "3d": "",
+    "introduction": [
+      "Cestum inhabits open oceans.",
+      "Pelagic and carnivorous.",
+      "Known for graceful swimming."
+    ],
+    "features": [
+      "Level of Organisation: Tissue level",
+      "Germ layer: Diploblastic",
+      "Body symmetry: Biradial",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Nerve net",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Ribbon-like flattened body",
+      "Extremely long length",
+      "Transparent with iridescence",
+      "Reduced tentacles"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Ctenophora",
+      "Class: Tentaculata",
+      "Order: Cestida",
+      "Family: Cestidae",
+      "Genus: Cestum"
+    ],
+    "ecology": [
+      "Predator of plankton",
+      "Pelagic food chain link",
+      "Energy flow in open seas"
+    ],
+    "economy": [
+      "Ocean biodiversity importance",
+      "Educational reference organism",
+      "Research on body form evolution"
+    ]
+  },
+  "beroe": {
+    "id": 5,
+    "slug": "beroe",
+    "name": "Beroe",
+    "scientificName": "Comb jelly",
+    "description": "Beroe is a tentacleless ctenophore. Active predator of other ctenophores. Highly muscular body.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767893545/Beroe_cke3tj.png",
+    "3d": "https://sketchfab.com/3d-models/beroe-abyssicola-f9b3a01a31434defb508fe1216cbbcc1/embed",
+    "introduction": [
+      "Beroe lives in marine waters.",
+      "Free-swimming and carnivorous.",
+      "Important predator in ctenophore community."
+    ],
+    "features": [
+      "Level of Organisation: Tissue level",
+      "Germ layer: Diploblastic",
+      "Body symmetry: Biradial",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Nerve net",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Sack-like body",
+      "Large mouth opening",
+      "Eight comb plates",
+      "No tentacles"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Ctenophora",
+      "Class: Nuda",
+      "Order: Beroida",
+      "Family: Beroidae",
+      "Genus: Beroe"
+    ],
+    "ecology": [
+      "Predator of other ctenophores",
+      "Population control",
+      "Pelagic food web stability"
+    ],
+    "economy": [
+      "Ecological balance studies",
+      "Marine food web research",
+      "Zoological education"
+    ]
+  }
+}

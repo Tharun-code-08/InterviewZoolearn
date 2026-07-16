@@ -1,0 +1,60 @@
+{
+  "id": "root",
+  "name": "Annelida",
+  "rank": "Phylum",
+  "children": [
+    {
+      "id": "c1",
+      "name": "Polychaeta",
+      "rank": "Class"
+    },
+    {
+      "id": "c2",
+      "name": "Oligochaeta",
+      "rank": "Class"
+    },
+    {
+      "id": "c3",
+      "name": "Hirudinea",
+      "rank": "Class",
+      "children": [
+        {
+          "id": "o1",
+          "name": "Rhynchobdellida",
+          "rank": "Order"
+        },
+        {
+          "id": "o2",
+          "name": "Arhynchobdellida",
+          "rank": "Order",
+          "children": [
+            {
+              "id": "f1",
+              "name": "Hirudinidae",
+              "rank": "Family",
+              "children": [
+                {
+                  "id": "g1",
+                  "name": "Hirudo",
+                  "rank": "Genus"
+                },
+                {
+                  "id": "g2",
+                  "name": "Hirudinaria",
+                  "rank": "Genus",
+                  "children": [
+                    {
+                      "id": "s1",
+                      "name": "granulosa",
+                      "rank": "Species"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

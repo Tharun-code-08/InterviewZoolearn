@@ -1,0 +1,1050 @@
+{
+  "chaetopleura": {
+    "id": 1,
+    "slug": "chaetopleura",
+    "name": "Chaetopleura",
+    "scientificName": "Chiton / Coat-of-mail shell",
+    "description": "Chaetopleura is a marine mollusc with a flattened body. It has eight shell plates on the dorsal side. It lives attached to rocks.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102611/Chaetopleura_wp6ppp.png",
+    "3d": "https://sketchfab.com/3d-models/chiton1-3a30d7b2c6b44997a033da338a5afa8f/embed",
+    "introduction": [
+      "Chaetopleura is a benthic marine mollusc found on rocky shores.",
+      "It moves slowly and grazes on algae.",
+      "It helps maintain algal balance in coastal habitats."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Eucoelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Ctenidial respiration",
+      "Circulatory type: Open circulation, single",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Metanephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton (eight calcareous shell plates)",
+      "Nervous system: Ladder-like nervous system",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Polyplacophora",
+      "Order: Chitonida",
+      "Family: Chaetopleuridae",
+      "Genus: Chaetopleura"
+    ],
+    "sizeStructure": [
+      "Medium-sized, flattened body",
+      "Oval shape",
+      "Dull green or brown colour",
+      "Eight overlapping shell plates",
+      "Broad muscular foot"
+    ],
+    "ecology": [
+      "Grazer of microalgae",
+      "Prevents algal overgrowth",
+      "Part of intertidal food chain"
+    ],
+    "economy": [
+      "Used in zoological studies",
+      "Helps understand molluscan structure",
+      "Ecological importance"
+    ]
+  },
+  "chiton": {
+    "id": 2,
+    "slug": "chiton",
+    "name": "Chiton",
+    "scientificName": "Coat-of-mail shell",
+    "description": "Chiton is a marine mollusc with segmented shell plates. It firmly clings to rocks. It is a slow-moving grazer.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102617/Chiton_btgiv5.png",
+    "3d": "https://sketchfab.com/3d-models/chiton-tuberculatus-5a77a7724b5147e59b6332366babeda3/embed",
+    "introduction": [
+      "Chiton lives on rocky sea shores.",
+      "It feeds on algae scraped from surfaces.",
+      "It is common in intertidal zones."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Eucoelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Ctenidial respiration",
+      "Circulatory type: Open circulation, single",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Metanephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton (eight calcareous shell plates)",
+      "Nervous system: Ladder-like nervous system",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Polyplacophora",
+      "Order: Chitonida",
+      "Family: Chitonidae",
+      "Genus: Chiton"
+    ],
+    "sizeStructure": [
+      "Flattened oval body",
+      "Dark brown shell plates",
+      "Eight dorsal plates",
+      "Strong muscular foot"
+    ],
+    "ecology": [
+      "Controls algal growth",
+      "Part of rocky shore ecosystem",
+      "Food source for predators"
+    ],
+    "economy": [
+      "Zoology practical specimen",
+      "Evolutionary studies",
+      "Ecological importance"
+    ]
+  },
+  "dentalium": {
+    "id": 3,
+    "slug": "dentalium",
+    "name": "Dentalium",
+    "scientificName": "Tusk shell",
+    "description": "Dentalium has a long tubular shell. It lives buried in sand. It is a marine burrowing mollusc.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102631/Dentalium_ebjnqz.png",
+    "3d": "https://sketchfab.com/3d-models/dentalium-aprinum-5e927ad4b87e4f2dbc4414f6bca598dc/embed",
+    "introduction": [
+      "Dentalium inhabits sandy and muddy sea floors.",
+      "It feeds on microscopic organisms.",
+      "It is important in benthic ecosystems."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Eucoelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Diffusion through mantle",
+      "Circulatory type: Open circulation, single",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Metanephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton (tubular shell)",
+      "Nervous system: Ganglionic",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Scaphopoda",
+      "Order: Dentaliida",
+      "Family: Dentaliidae",
+      "Genus: Dentalium"
+    ],
+    "sizeStructure": [
+      "Small tubular body",
+      "Tusk-like shell",
+      "Shell open at both ends",
+      "Captacula for feeding"
+    ],
+    "ecology": [
+      "Sediment aeration",
+      "Detritus feeder",
+      "Benthic food web role"
+    ],
+    "economy": [
+      "Used in research",
+      "Shells used as ornaments",
+      "Evolutionary importance"
+    ]
+  },
+  "pila_globosa": {
+    "id": 4,
+    "slug": "pila_globosa",
+    "name": "Pila globosa",
+    "scientificName": "Apple snail",
+    "description": "Pila globosa is a freshwater snail. It has a globular shell. It is amphibious in habit.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102646/Pila_globosa_cxtyhi.png",
+    "3d": "https://sketchfab.com/3d-models/snail-71243ecf771e413199b9103b5a444b9c/embed",
+    "introduction": [
+      "Pila globosa lives in ponds and slow rivers.",
+      "It feeds on aquatic plants.",
+      "It is important in freshwater ecosystems."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral (secondarily asymmetrical)",
+      "Coelom: Eucoelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Ctenidial and pulmonary respiration",
+      "Circulatory type: Open circulation, single",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Metanephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton (spiral shell)",
+      "Nervous system: Ganglionic",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, euryhaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Gastropoda",
+      "Order: Architaenioglossa",
+      "Family: Ampullariidae",
+      "Genus: Pila",
+      "Species: Pila globosa"
+    ],
+    "sizeStructure": [
+      "Large globose shell",
+      "Olive-brown colour",
+      "Operculum present",
+      "Muscular creeping foot"
+    ],
+    "ecology": [
+      "Grazes aquatic plants",
+      "Nutrient recycling",
+      "Prey for fishes"
+    ],
+    "economy": [
+      "Used as food",
+      "Zoology specimen",
+      "Ecological importance"
+    ]
+  },
+  "aplysia": {
+    "id": 5,
+    "slug": "aplysia",
+    "name": "Aplysia",
+    "scientificName": "Sea hare",
+    "description": "Aplysia is a soft-bodied marine gastropod. It is large and slow-moving. Known for neurobiology studies.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102588/Aplysia_b5hjkw.png",
+    "3d": "",
+    "introduction": [
+      "Aplysia inhabits shallow marine waters.",
+      "It feeds on algae.",
+      "It is important in nervous system research."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral (secondarily asymmetrical)",
+      "Coelom: Eucoelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Ctenidial respiration",
+      "Circulatory type: Open circulation, single",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Metanephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Reduced internal shell",
+      "Nervous system: Well-developed ganglionic",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Gastropoda",
+      "Order: Anaspidea",
+      "Family: Aplysiidae",
+      "Genus: Aplysia"
+    ],
+    "sizeStructure": [
+      "Large soft body",
+      "Parapodia present",
+      "Reduced shell",
+      "Brown or purple colour"
+    ],
+    "ecology": [
+      "Algal grazer",
+      "Maintains algal balance",
+      "Part of marine food chain"
+    ],
+    "economy": [
+      "Neurobiological research",
+      "Educational importance",
+      "Marine ecology studies"
+    ]
+  },
+  "conus_marmoreus": {
+    "id": 6,
+    "slug": "conus_marmoreus",
+    "name": "Conus marmoreus",
+    "scientificName": "Marbled cone snail",
+    "description": "Conus marmoreus is a venomous snail. It uses a harpoon-like radula. Found in coral reefs.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102629/Conus_marmoreus_gkdqfv.png",
+    "3d": "https://sketchfab.com/3d-models/snail-conus-marmoreus-pri-76850-96870cd0220b46c68d66ea534a20626b/embed",
+    "introduction": [
+      "Conus marmoreus lives in tropical seas.",
+      "It is carnivorous and predatory.",
+      "It is important in toxin research."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral (secondarily asymmetrical)",
+      "Coelom: Eucoelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Ctenidial respiration",
+      "Circulatory type: Open circulation, single",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Metanephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton (conical shell)",
+      "Nervous system: Ganglionic",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Gastropoda",
+      "Order: Neogastropoda",
+      "Family: Conidae",
+      "Genus: Conus",
+      "Species: Conus marmoreus"
+    ],
+    "sizeStructure": [
+      "Thick cone-shaped shell",
+      "Black and white pattern",
+      "Narrow aperture",
+      "Venomous radula"
+    ],
+    "ecology": [
+      "Predator of worms",
+      "Controls prey population",
+      "Reef ecosystem role"
+    ],
+    "economy": [
+      "Neuropharmacology research",
+      "Shell trade",
+      "Medical importance"
+    ]
+  },
+  "unio": {
+    "id": 7,
+    "slug": "unio",
+    "name": "Unio",
+    "scientificName": "Freshwater mussel",
+    "description": "Unio is a freshwater bivalve mollusc. Body is laterally compressed. Shell is heavy and thick.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102657/Unio_iqhmtv.png",
+    "3d": "https://sketchfab.com/3d-models/unio-leopoldvillensis-b-a9b21c2a9bd54c2ba28e7fb6396243a6/embed",
+    "introduction": [
+      "Unio lives buried in river and pond beds.",
+      "It is sedentary and filter-feeding.",
+      "Common example of lamellibranchs."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Eucoelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Ctenidial respiration",
+      "Circulatory type: Open circulation, single",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Metanephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton (bivalved shell)",
+      "Nervous system: Ganglionic",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect (glochidium larva)",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Bivalvia",
+      "Order: Unionida",
+      "Family: Unionidae",
+      "Genus: Unio"
+    ],
+    "sizeStructure": [
+      "Thick unequal shells",
+      "Dark brown colour",
+      "Large muscular foot",
+      "Hinge teeth present"
+    ],
+    "ecology": [
+      "Filter feeder",
+      "Improves water clarity",
+      "Freshwater ecosystem balance"
+    ],
+    "economy": [
+      "Pearl formation (rare)",
+      "Water quality indicator",
+      "Educational specimen"
+    ]
+  },
+  "mytilus": {
+    "id": 8,
+    "slug": "mytilus",
+    "name": "Mytilus",
+    "scientificName": "Marine mussel",
+    "description": "Mytilus is a marine bivalve. It attaches to rocks by byssus threads. Shell is elongated.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102724/Mytilus_icxcpy.png",
+    "3d": "https://sketchfab.com/3d-models/mussels-at-wilder-ranch-6b1c5b9378e44cde8dca4a89eebdfdbb/embed",
+    "introduction": [
+      "Mytilus inhabits rocky sea shores.",
+      "It is sessile and filter-feeding.",
+      "Forms dense colonies."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Eucoelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Ctenidial respiration",
+      "Circulatory type: Open circulation, single",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Metanephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton (bivalved shell)",
+      "Nervous system: Ganglionic",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Bivalvia",
+      "Order: Mytilida",
+      "Family: Mytilidae",
+      "Genus: Mytilus"
+    ],
+    "sizeStructure": [
+      "Elongated dark shell",
+      "Byssus threads present",
+      "Compressed body",
+      "Smooth surface"
+    ],
+    "ecology": [
+      "Filter feeder",
+      "Reduces plankton load",
+      "Intertidal community role"
+    ],
+    "economy": [
+      "Edible mussel",
+      "Aquaculture importance",
+      "Environmental monitoring"
+    ]
+  },
+  "lamellidens": {
+    "id": 9,
+    "slug": "lamellidens",
+    "name": "Lamellidens",
+    "scientificName": "Freshwater pearl mussel",
+    "description": "Lamellidens is a freshwater bivalve. Shell is large and thick. Known for pearl formation.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102632/Lamellidens_ryycck.png",
+    "3d": "https://sketchfab.com/3d-models/unio-condai-117e9fbeaba545db8978a7af7b0b0c36/embed",
+    "introduction": [
+      "Lamellidens lives in ponds and rivers.",
+      "It is sedentary and filter-feeding.",
+      "Economically important mollusc."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Eucoelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Ctenidial respiration",
+      "Circulatory type: Open circulation, single",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Metanephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton (bivalved shell)",
+      "Nervous system: Ganglionic",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Bivalvia",
+      "Order: Unionida",
+      "Family: Unionidae",
+      "Genus: Lamellidens"
+    ],
+    "sizeStructure": [
+      "Large thick shell",
+      "Greenish-brown colour",
+      "Strong hinge",
+      "Muscular foot"
+    ],
+    "ecology": [
+      "Filter feeder",
+      "Maintains water quality",
+      "Freshwater food web"
+    ],
+    "economy": [
+      "Pearl industry",
+      "Aquaculture value",
+      "Educational importance"
+    ]
+  },
+  "pinctada": {
+    "id": 10,
+    "slug": "pinctada",
+    "name": "Pinctada",
+    "scientificName": "Pearl oyster",
+    "description": "Pinctada is a marine bivalve. Produces natural pearls. Shell is smooth and shiny.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102649/Pinctada_em5bxg.png",
+    "3d": "https://sketchfab.com/3d-models/pearl-oyster-ed05f17cdfa346c6813fbb1a77c65534/embed",
+    "introduction": [
+      "Pinctada lives attached to rocks in seas.",
+      "It is sedentary and filter-feeding.",
+      "Economically very important."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Eucoelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Ctenidial respiration",
+      "Circulatory type: Open circulation, single",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Metanephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton (bivalved shell)",
+      "Nervous system: Ganglionic",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Bivalvia",
+      "Order: Pteriida",
+      "Family: Pteriidae",
+      "Genus: Pinctada"
+    ],
+    "sizeStructure": [
+      "Rounded shells",
+      "Mother-of-pearl lining",
+      "Strong hinge ligament",
+      "Pale colour"
+    ],
+    "ecology": [
+      "Filter feeder",
+      "Marine water purifier",
+      "Reef ecosystem role"
+    ],
+    "economy": [
+      "Pearl industry",
+      "Export value",
+      "Aquaculture importance"
+    ]
+  },
+  "spondylus": {
+    "id": 11,
+    "slug": "spondylus",
+    "name": "Spondylus",
+    "scientificName": "Thorny oyster",
+    "description": "Spondylus has spiny shells. It is a marine bivalve. Shells are brightly coloured.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102652/Spondylus_ygtqnu.png",
+    "3d": "https://sketchfab.com/3d-models/spondylus-aurantius-b2ae362c2390493398f7a1e441eed2db/embed",
+    "introduction": [
+      "Spondylus lives attached to hard substrates.",
+      "It is sedentary and filter-feeding.",
+      "Distinctive spiny shell mollusc."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Eucoelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Ctenidial respiration",
+      "Circulatory type: Open circulation, single",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Metanephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton (spiny shell)",
+      "Nervous system: Ganglionic",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Bivalvia",
+      "Order: Pectinida",
+      "Family: Spondylidae",
+      "Genus: Spondylus"
+    ],
+    "sizeStructure": [
+      "Thick spiny shell",
+      "Bright red or orange",
+      "Irregular shape",
+      "Strong hinge"
+    ],
+    "ecology": [
+      "Filter feeder",
+      "Reef habitat contributor",
+      "Marine biodiversity"
+    ],
+    "economy": [
+      "Shell ornaments",
+      "Marine studies",
+      "Cultural value"
+    ]
+  },
+  "ostrea": {
+    "id": 12,
+    "slug": "ostrea",
+    "name": "Ostrea",
+    "scientificName": "Oyster",
+    "description": "Ostrea is a marine bivalve. Shells are irregular and rough. Sessile filter feeder.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770103032/Ostrea_dibwmj.png",
+    "3d": "https://sketchfab.com/3d-models/bivalve-ostrea-sp-pri-70602-2c3af091783744058a89903c61da6910/embed",
+    "introduction": [
+      "Ostrea lives attached to rocks.",
+      "It feeds on plankton.",
+      "Common edible mollusc."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Eucoelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Ctenidial respiration",
+      "Circulatory type: Open circulation, single",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Metanephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton (irregular shell)",
+      "Nervous system: Ganglionic",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Bivalvia",
+      "Order: Ostreoida",
+      "Family: Ostreidae",
+      "Genus: Ostrea"
+    ],
+    "sizeStructure": [
+      "Unequal shells",
+      "Rough surface",
+      "Greyish colour",
+      "Sessile habit"
+    ],
+    "ecology": [
+      "Water filtration",
+      "Improves clarity",
+      "Coastal ecosystem role"
+    ],
+    "economy": [
+      "Edible oyster",
+      "Aquaculture value",
+      "Commercial fisheries"
+    ]
+  },
+  "loligo": {
+    "id": 13,
+    "slug": "loligo",
+    "name": "Loligo",
+    "scientificName": "Squid",
+    "description": "Loligo is a fast-swimming cephalopod. It has ten arms. Ink sac present.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102634/Loligo_xjtqbd.png",
+    "3d": "https://sketchfab.com/3d-models/blaschka-cephalopod-0636fd37b1fd449380de3cc181df6e4e/embed",
+    "introduction": [
+      "Loligo lives in open seas.",
+      "It is active and carnivorous.",
+      "Important marine predator."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Eucoelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Ctenidial respiration",
+      "Circulatory type: Closed circulation, double",
+      "Circulation system: Closed",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Metanephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Internal pen",
+      "Nervous system: Highly developed",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Cephalopoda",
+      "Order: Teuthida",
+      "Family: Loliginidae",
+      "Genus: Loligo"
+    ],
+    "sizeStructure": [
+      "Streamlined body",
+      "Eight arms and two tentacles",
+      "Large eyes",
+      "Fins present"
+    ],
+    "ecology": [
+      "Active predator",
+      "Marine food web",
+      "Controls fish population"
+    ],
+    "economy": [
+      "Edible seafood",
+      "Fishery importance",
+      "Research organism"
+    ]
+  },
+  "nautilus": {
+    "id": 14,
+    "slug": "nautilus",
+    "name": "Nautilus",
+    "scientificName": "Nautilus",
+    "description": "Nautilus is a living fossil. Shell is coiled and chambered. Primitive cephalopod.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102637/Nautilus_iuztri.png",
+    "3d": "https://sketchfab.com/3d-models/nautilus-e5b5085369674ed28354d2a08f027d91/embed",
+    "introduction": [
+      "Nautilus lives in deep marine waters.",
+      "It is slow-moving and carnivorous.",
+      "Important evolutionary form."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Eucoelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Ctenidial respiration",
+      "Circulatory type: Closed circulation, double",
+      "Circulation system: Closed",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Metanephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: External chambered shell",
+      "Nervous system: Moderately developed",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Cephalopoda",
+      "Order: Nautilida",
+      "Family: Nautilidae",
+      "Genus: Nautilus"
+    ],
+    "sizeStructure": [
+      "Coiled shell",
+      "Numerous tentacles",
+      "Simple eyes",
+      "Buoyancy chambers"
+    ],
+    "ecology": [
+      "Scavenger and predator",
+      "Deep-sea ecosystem",
+      "Evolutionary link"
+    ],
+    "economy": [
+      "Evolution studies",
+      "Shell trade",
+      "Museum specimen"
+    ]
+  },
+  "octopus": {
+    "id": 15,
+    "slug": "octopus",
+    "name": "Octopus",
+    "scientificName": "Octopus",
+    "description": "Octopus has eight arms. Highly intelligent mollusc. Shell absent.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102641/Octopus_pgsgai.png",
+    "3d": "https://sketchfab.com/3d-models/octopus-b686a6bcdacb4d138b535d6ead0aa67a/embed",
+    "introduction": [
+      "Octopus lives in marine crevices.",
+      "It is carnivorous and solitary.",
+      "Known for camouflage."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Eucoelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Ctenidial respiration",
+      "Circulatory type: Closed circulation, double",
+      "Circulation system: Closed",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Metanephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Highly developed",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Cephalopoda",
+      "Order: Octopoda",
+      "Family: Octopodidae",
+      "Genus: Octopus"
+    ],
+    "sizeStructure": [
+      "Soft body",
+      "Eight sucker-bearing arms",
+      "Large eyes",
+      "Ink sac present"
+    ],
+    "ecology": [
+      "Predator",
+      "Controls crustaceans",
+      "Reef ecosystem role"
+    ],
+    "economy": [
+      "Edible seafood",
+      "Neurobiology research",
+      "Fisheries importance"
+    ]
+  },
+  "sepia": {
+    "id": 16,
+    "slug": "sepia",
+    "name": "Sepia",
+    "scientificName": "Cuttlefish",
+    "description": "Sepia has an internal cuttlebone. Body is flattened. Excellent camouflage ability.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102655/Sepia_wtpaco.png",
+    "3d": "https://sketchfab.com/3d-models/cc0-kisslip-cuttlefish-sepia-lycidas-4120214da5cc4be2ab912c490af28144/embed",
+    "introduction": [
+      "Sepia lives in coastal seas.",
+      "It is active and carnivorous.",
+      "Advanced cephalopod mollusc."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Eucoelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Ctenidial respiration",
+      "Circulatory type: Closed circulation, double",
+      "Circulation system: Closed",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Metanephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Internal cuttlebone",
+      "Nervous system: Highly developed",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Cephalopoda",
+      "Order: Sepiida",
+      "Family: Sepiidae",
+      "Genus: Sepia"
+    ],
+    "sizeStructure": [
+      "Broad flattened body",
+      "Eight arms and two tentacles",
+      "Cuttlebone present",
+      "Colour-changing skin"
+    ],
+    "ecology": [
+      "Predator",
+      "Marine food chain",
+      "Controls fish populations"
+    ],
+    "economy": [
+      "Seafood",
+      "Ink production",
+      "Research value"
+    ]
+  },
+  "architeuthes": {
+    "id": 17,
+    "slug": "architeuthes",
+    "name": "Architeuthes",
+    "scientificName": "Giant squid",
+    "description": "Architeuthes is the largest invertebrate. Lives in deep oceans. Rarely seen alive.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102597/Architeuthes_m3fj02.png",
+    "3d": "https://sketchfab.com/3d-models/giant-squid-65067ab00ce04f0ba10bcc04a0b1da1b/embed",
+    "introduction": [
+      "Architeuthes inhabits deep sea.",
+      "It is carnivorous and powerful.",
+      "Represents extreme cephalopod adaptation."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Eucoelomate (reduced)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Ctenidial respiration",
+      "Circulatory type: Closed circulation, double",
+      "Circulation system: Closed",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Metanephridia",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Internal pen",
+      "Nervous system: Highly developed",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Cephalopoda",
+      "Order: Teuthida",
+      "Family: Architeuthidae",
+      "Genus: Architeuthes"
+    ],
+    "sizeStructure": [
+      "Extremely long body",
+      "Huge eyes",
+      "Long tentacles",
+      "Strong suckers"
+    ],
+    "ecology": [
+      "Deep-sea predator",
+      "Marine food web",
+      "Apex invertebrate"
+    ],
+    "economy": [
+      "Marine biology research",
+      "Museum specimen",
+      "Evolutionary studies"
+    ]
+  },
+  "neopilina_galathea": {
+    "id": 18,
+    "slug": "neopilina_galathea",
+    "name": "Neopilina galathea",
+    "scientificName": "Living fossil mollusc",
+    "description": "Neopilina galathea is a primitive mollusc. Shell is single and cap-like. Shows segmentation.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102639/Neopilina_galathea_gebuh8.png",
+    "3d": "https://sketchfab.com/3d-models/cyrotonella-mitella-518655129cf74a30b8ec28586b9d159b/embed",
+    "introduction": [
+      "Neopilina lives in deep sea.",
+      "It is slow-moving and detritivorous.",
+      "Important evolutionary form."
+    ],
+    "features": [
+      "Level of Organisation: Organ-system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral symmetry",
+      "Coelom: Eucoelomate (well developed)",
+      "Body plan: Tube within a tube body plan (Protostomous)",
+      "Digestion type: Complete, extracellular",
+      "Respiratory type: Ctenidial respiration",
+      "Circulatory type: Open circulation, single",
+      "Circulation system: Open",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Metanephridia (repeated)",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton (single shell)",
+      "Nervous system: Ladder-like",
+      "Metamerism: Present (true segmentation)",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Mollusca",
+      "Class: Monoplacophora",
+      "Order: Tryblidiida",
+      "Family: Neopilinidae",
+      "Genus: Neopilina",
+      "Species: Neopilina galathea"
+    ],
+    "sizeStructure": [
+      "Single cap-like shell",
+      "Serial repetition of organs",
+      "Flattened body",
+      "Pale colour"
+    ],
+    "ecology": [
+      "Deep-sea detritivore",
+      "Nutrient recycling",
+      "Evolutionary significance"
+    ],
+    "economy": [
+      "Evolutionary research",
+      "Comparative anatomy",
+      "Zoological importance"
+    ]
+  }
+}

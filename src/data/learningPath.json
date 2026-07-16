@@ -1,0 +1,6 @@
+[
+  {"title":"LIving World","description":"Fundamentals of animal life, cell biology, and basic physiological structures.","icon":"https://res.cloudinary.com/duibfmcw1/image/upload/v1767780953/001-zoology_baecrg.png","route":"/living-world"},
+  {"title":"Patterns of complexities","description":"Detailed study of internal organ systems, structure, and physiological functions.","icon":"https://res.cloudinary.com/duibfmcw1/image/upload/v1767780953/003-chaos_pfqepw.png","route":"/anatomy"},
+  {"title":"Kingdom Animalia","description":"Taxonomy, phylogeny, biological hierarchy, and animal kingdom organization.","icon":"https://res.cloudinary.com/duibfmcw1/image/upload/v1767780954/005-wild-animals_gikq7m.png","route":"/kingdom-animalia"},
+  {"title":"Evolution","description":"Theories of evolution, natural selection, speciation, and biological evidence.","icon":"https://res.cloudinary.com/duibfmcw1/image/upload/v1767780954/006-dna_wrm2wd.png","route":"/evolution"}
+]

@@ -1,0 +1,8 @@
+[
+  {"id":"leech","name":"Leech","scientificName":"Hirudinaria granulosa","classification":"Phylum: Annelida","image":"https://res.cloudinary.com/duibfmcw1/image/upload/v1766035779/004-leech-therapy_puotxa.png","route":"/leech"},
+  {"id":"rabbit","name":"Rabbit","scientificName":"Oryctolagus cuniculus","classification":"Class: Mammalia","image":"https://res.cloudinary.com/duibfmcw1/image/upload/v1766035803/006-rabbit_apbtkw.png","route":"/rabbit"},
+  {"id":"cockroach","name":"Cockroach","scientificName":"Periplaneta americana","classification":"Phylum: Arthropoda","image":"https://res.cloudinary.com/duibfmcw1/image/upload/v1766035805/007-cockroach_zzavof.png","route":"/cockroach"},
+  {"id":"frog","name":"Frog","scientificName":"Rana tigrina","classification":"Class: Amphibia","image":"https://img.icons8.com/fluency/96/frog.png","route":"/frog"},
+  {"id":"honeybee","name":"Honey Bee","scientificName":"Apis mellifera","classification":"Class: Insecta","image":"https://res.cloudinary.com/duibfmcw1/image/upload/v1767780954/007-holidays_tgjy05.png","route":"/honeybee"},
+  {"id":"human","name":"Human Evolution","scientificName":"Homo sapiens","classification":"Class: Mammalia","image":"https://res.cloudinary.com/duibfmcw1/image/upload/v1766035808/008-evolution_o5byjy.png","route":"/evolution"}
+]

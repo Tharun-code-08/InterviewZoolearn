@@ -1,0 +1,628 @@
+{
+  "hydra": {
+    "id": 1,
+    "slug": "hydra",
+    "name": "Hydra",
+    "scientificName": "Freshwater polyp",
+    "description": "Hydra is a small freshwater cnidarian. It is solitary and attached. Used widely in regeneration studies.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767892096/Hydra_ljhbjv.png",
+    "3d": "https://sketchfab.com/3d-models/hydra-bd311f5528ee4576be56a17ced767141/embed",
+    "introduction": [
+      "Hydra lives in freshwater ponds and streams.",
+      "It is sedentary and carnivorous.",
+      "Important in developmental biology."
+    ],
+    "features": [
+      "Level of Organisation: Tissue level",
+      "Germ layer: Diploblastic",
+      "Body symmetry: Radial",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular and intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Nerve net",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Very small and cylindrical",
+      "Tentacles around mouth",
+      "Green or brown colour",
+      "Basal disc for attachment"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Cnidaria",
+      "Class: Hydrozoa",
+      "Order: Anthoathecata",
+      "Family: Hydridae",
+      "Genus: Hydra"
+    ],
+    "ecology": [
+      "Predator of small aquatic animals",
+      "Controls plankton population",
+      "Part of freshwater food web"
+    ],
+    "economy": [
+      "Model organism in research",
+      "Used in regeneration studies",
+      "Educational importance"
+    ]
+  },
+  "obelia": {
+    "id": 2,
+    "slug": "obelia",
+    "name": "Obelia",
+    "scientificName": "Sea fur / Sea moss",
+    "description": "Obelia is a marine colonial hydrozoan. Shows alternation of generations.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767892152/Obelia_ovbvj3.png",
+    "3d": "",
+    "introduction": [
+      "Obelia lives attached to rocks in seas.",
+      "Colonial and carnivorous.",
+      "Important for life-cycle studies."
+    ],
+    "features": [
+      "Level of Organisation: Tissue level",
+      "Germ layer: Diploblastic",
+      "Body symmetry: Radial",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular and intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Chitinous perisarc",
+      "Nervous system: Nerve net",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Branching colonies",
+      "Hydranths and gonangia present",
+      "Transparent body"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Cnidaria",
+      "Class: Hydrozoa",
+      "Order: Leptothecata",
+      "Family: Campanulariidae",
+      "Genus: Obelia"
+    ],
+    "ecology": [
+      "Predator of zooplankton",
+      "Marine food chain component"
+    ],
+    "economy": [
+      "Academic importance",
+      "Used to study metagenesis"
+    ]
+  },
+  "physalia": {
+    "id": 3,
+    "slug": "physalia",
+    "name": "Physalia",
+    "scientificName": "Portuguese man-of-war",
+    "description": "Physalia is a floating colonial hydrozoan. Highly poisonous tentacles present.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767892218/Physalia_d0xxsl.png",
+    "3d": "",
+    "introduction": [
+      "Physalia floats on ocean surface.",
+      "Carnivorous and dangerous.",
+      "Important in marine ecology."
+    ],
+    "features": [
+      "Level of Organisation: Tissue level",
+      "Germ layer: Diploblastic",
+      "Body symmetry: Radial",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular and intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Nerve net",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Gas-filled float",
+      "Long blue tentacles",
+      "Bright bluish colour"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Cnidaria",
+      "Class: Hydrozoa",
+      "Order: Siphonophora",
+      "Family: Physaliidae",
+      "Genus: Physalia"
+    ],
+    "ecology": [
+      "Predator of fishes",
+      "Controls fish larvae population"
+    ],
+    "economy": [
+      "Medical relevance due to venom",
+      "Research on toxins"
+    ]
+  },
+  "aurelia": {
+    "id": 4,
+    "slug": "aurelia",
+    "name": "Aurelia",
+    "scientificName": "Moon jellyfish",
+    "description": "Aurelia is a free-swimming jellyfish. Medusa stage dominant.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767892060/Aurelia_y0ii6v.png",
+    "3d": "https://sketchfab.com/3d-models/jellyfish-aurelia-71b3457cb84f41b2b21f1c7e79a02639/embed",
+    "introduction": [
+      "Aurelia lives in marine waters.",
+      "Pelagic and carnivorous.",
+      "Used in cnidarian studies."
+    ],
+    "features": [
+      "Level of Organisation: Tissue level",
+      "Germ layer: Diploblastic",
+      "Body symmetry: Radial",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular and intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Nerve net with marginal sense organs",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Umbrella-shaped body",
+      "Transparent",
+      "Four horseshoe-shaped gonads"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Cnidaria",
+      "Class: Scyphozoa",
+      "Order: Semaeostomeae",
+      "Family: Ulmaridae",
+      "Genus: Aurelia"
+    ],
+    "ecology": [
+      "Predator of plankton",
+      "Marine food web link"
+    ],
+    "economy": [
+      "Research organism",
+      "Aquarium display species"
+    ]
+  },
+  "adamsia": {
+    "id": 5,
+    "slug": "adamsia",
+    "name": "Adamsia",
+    "scientificName": "Sea anemone",
+    "description": "Adamsia is a marine sea anemone. Shows commensalism with hermit crab.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767892009/Adamsia_orkdvo.png",
+    "3d": "",
+    "introduction": [
+      "Adamsia lives in shallow seas.",
+      "Sessile and carnivorous.",
+      "Ecologically important."
+    ],
+    "features": [
+      "Level of Organisation: Tissue level",
+      "Germ layer: Diploblastic",
+      "Body symmetry: Radial",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular and intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Nerve net",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Cylindrical body",
+      "Numerous tentacles",
+      "Soft and colourful"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Cnidaria",
+      "Class: Anthozoa",
+      "Order: Actiniaria",
+      "Family: Hormathiidae",
+      "Genus: Adamsia"
+    ],
+    "ecology": [
+      "Symbiotic association",
+      "Predator of small animals"
+    ],
+    "economy": [
+      "Ecological studies",
+      "Marine biology research"
+    ]
+  },
+  "pennatula": {
+    "id": 6,
+    "slug": "pennatula",
+    "name": "Pennatula",
+    "scientificName": "Sea pen",
+    "description": "Pennatula is a colonial marine cnidarian. It lives partially embedded in soft sea floor. Known for feather-like appearance.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767892197/Pennatula_fx3glt.png",
+    "3d": "",
+    "introduction": [
+      "Pennatula inhabits shallow marine waters.",
+      "It is sessile and carnivorous.",
+      "Plays a role in benthic ecosystems."
+    ],
+    "features": [
+      "Level of Organisation: Tissue level",
+      "Germ layer: Diploblastic",
+      "Body symmetry: Radial",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular and intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Nerve net",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Elongated feather-like colony",
+      "Central stalk with lateral polyps",
+      "Pale white or yellow",
+      "Anchored in soft substrate"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Cnidaria",
+      "Class: Anthozoa",
+      "Order: Pennatulacea",
+      "Family: Pennatulidae",
+      "Genus: Pennatula"
+    ],
+    "ecology": [
+      "Provides shelter to small organisms",
+      "Part of benthic food web",
+      "Stabilizes soft sea floor"
+    ],
+    "economy": [
+      "Used in marine ecological studies",
+      "Educational importance",
+      "Indicator of healthy benthic habitats"
+    ]
+  },
+  "gorgonia": {
+    "id": 7,
+    "slug": "gorgonia",
+    "name": "Gorgonia",
+    "scientificName": "Sea fan",
+    "description": "Gorgonia is a colonial soft coral. It forms fan-shaped branching colonies. Common in coral reefs.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767892082/Gorgonia_vyf78r.png",
+    "3d": "https://sketchfab.com/3d-models/yellow-gorgonia-004-fdb34d08f429448c8efaa046878cb3e5/embed",
+    "introduction": [
+      "Gorgonia lives in tropical seas.",
+      "Sessile and carnivorous.",
+      "Important reef-associated organism."
+    ],
+    "features": [
+      "Level of Organisation: Tissue level",
+      "Germ layer: Diploblastic",
+      "Body symmetry: Radial",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular and intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton",
+      "Nervous system: Nerve net",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Fan-shaped branching colony",
+      "Horny axial skeleton",
+      "Purple, yellow or brown",
+      "Polyps embedded in branches"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Cnidaria",
+      "Class: Anthozoa",
+      "Order: Alcyonacea",
+      "Family: Gorgoniidae",
+      "Genus: Gorgonia"
+    ],
+    "ecology": [
+      "Provides habitat for reef fauna",
+      "Enhances reef complexity",
+      "Filters plankton from water"
+    ],
+    "economy": [
+      "Ornamental value",
+      "Reef conservation studies",
+      "Marine biodiversity importance"
+    ]
+  },
+  "meandrina": {
+    "id": 8,
+    "slug": "meandrina",
+    "name": "Meandrina",
+    "scientificName": "Brain coral",
+    "description": "Meandrina is a massive stony coral. It forms brain-like colonies. Important reef builder.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767891973/Meandrina_pqw88x.png",
+    "3d": "https://sketchfab.com/3d-models/meandrina-meandrites-95884d3e683a4c51adddea41348f1f34/embed",
+    "introduction": [
+      "Meandrina inhabits warm marine waters.",
+      "Sessile and colonial.",
+      "Major contributor to coral reefs."
+    ],
+    "features": [
+      "Level of Organisation: Tissue level",
+      "Germ layer: Diploblastic",
+      "Body symmetry: Radial",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular and intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton (calcareous)",
+      "Nervous system: Nerve net",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Massive rounded colonies",
+      "Brain-like grooves",
+      "Hard limestone skeleton",
+      "Brown or green colour"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Cnidaria",
+      "Class: Anthozoa",
+      "Order: Scleractinia",
+      "Family: Meandrinidae",
+      "Genus: Meandrina"
+    ],
+    "ecology": [
+      "Reef framework formation",
+      "Habitat for marine organisms",
+      "Coastal protection"
+    ],
+    "economy": [
+      "Reef tourism importance",
+      "Marine research value",
+      "Indicator of reef health"
+    ]
+  },
+  "metridium": {
+    "id": 9,
+    "slug": "metridium",
+    "name": "Metridium",
+    "scientificName": "Plumose anemone",
+    "description": "Metridium is a large sea anemone. It is solitary and sessile. Found in cold marine waters.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767892113/Metridium_czmjde.png",
+    "3d": "",
+    "introduction": [
+      "Metridium lives attached to rocks.",
+      "Carnivorous and sedentary.",
+      "Common in temperate seas."
+    ],
+    "features": [
+      "Level of Organisation: Tissue level",
+      "Germ layer: Diploblastic",
+      "Body symmetry: Radial",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular and intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Nerve net",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Tall cylindrical body",
+      "Numerous plume-like tentacles",
+      "White or pale colour",
+      "Broad basal disc"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Cnidaria",
+      "Class: Anthozoa",
+      "Order: Actiniaria",
+      "Family: Metridiidae",
+      "Genus: Metridium"
+    ],
+    "ecology": [
+      "Predator of plankton",
+      "Space competitor on rocks",
+      "Part of benthic community"
+    ],
+    "economy": [
+      "Used in physiological studies",
+      "Educational specimen",
+      "Marine ecosystem research"
+    ]
+  },
+  "corallium": {
+    "id": 10,
+    "slug": "corallium",
+    "name": "Corallium",
+    "scientificName": "Red coral",
+    "description": "Corallium is a precious coral genus. Produces red calcareous skeleton. Used in jewellery.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767892072/Corallium_x9awvc.png",
+    "3d": "https://sketchfab.com/3d-models/corallium-rebrum-db01791c5084405a9206abff4ad25c0d/embed",
+    "introduction": [
+      "Corallium inhabits deep marine waters.",
+      "Colonial and sessile.",
+      "Economically valuable coral."
+    ],
+    "features": [
+      "Level of Organisation: Tissue level",
+      "Germ layer: Diploblastic",
+      "Body symmetry: Radial",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular and intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton (calcareous)",
+      "Nervous system: Nerve net",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Branching colonies",
+      "Hard red skeleton",
+      "Small white polyps",
+      "Tree-like structure"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Cnidaria",
+      "Class: Anthozoa",
+      "Order: Alcyonacea",
+      "Family: Coralliidae",
+      "Genus: Corallium"
+    ],
+    "ecology": [
+      "Reef-associated organism",
+      "Habitat for marine fauna",
+      "Contributes to biodiversity"
+    ],
+    "economy": [
+      "Jewellery industry",
+      "Trade importance",
+      "Conservation relevance"
+    ]
+  },
+  "antipatharia": {
+    "id": 11,
+    "slug": "antipatharia",
+    "name": "Antipatharia",
+    "scientificName": "Black corals",
+    "description": "Antipatharia includes black corals. They form branching colonies. Known for dark spiny skeleton.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767892029/Antipatharia_txlpbb.png",
+    "3d": "",
+    "introduction": [
+      "Antipatharia occurs in deep seas.",
+      "Sessile and colonial.",
+      "Slow-growing coral group."
+    ],
+    "features": [
+      "Level of Organisation: Tissue level",
+      "Germ layer: Diploblastic",
+      "Body symmetry: Radial",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular and intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoconformer",
+      "Excretory organ: Absent",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Exoskeleton (horny)",
+      "Nervous system: Nerve net",
+      "Metamerism: Absent",
+      "Fertilization: External",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Tree-like branching colonies",
+      "Black or dark brown skeleton",
+      "Spine-covered axis",
+      "Small polyps"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Cnidaria",
+      "Class: Anthozoa",
+      "Order: Antipatharia",
+      "Family: Antipathidae",
+      "Genus: Antipatharia"
+    ],
+    "ecology": [
+      "Habitat for deep-sea fauna",
+      "Increases structural complexity",
+      "Part of deep reef systems"
+    ],
+    "economy": [
+      "Used in ornaments",
+      "Conservation significance",
+      "Deep-sea research importance"
+    ]
+  }
+}

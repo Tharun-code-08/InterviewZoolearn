@@ -1,0 +1,353 @@
+{
+  "dugesia": {
+    "id": 1,
+    "slug": "dugesia",
+    "name": "Dugesia",
+    "scientificName": "Planarian",
+    "description": "Dugesia is a free-living flatworm. It is well known for regeneration ability. Commonly found in freshwater habitats.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767595669/Dugesia_hpaibv.png",
+    "3d": "",
+    "introduction": [
+      "Dugesia lives in freshwater ponds and streams.",
+      "It is free-living and carnivorous.",
+      "Used widely in regeneration studies."
+    ],
+    "features": [
+      "Level of Organisation: Organ level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular and intracellular",
+      "Respiratory type: Diffusion",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Flame cells",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Ladder-like nervous system",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Direct",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Flat, elongated body",
+      "Triangular head with eyespots",
+      "Soft and unsegmented",
+      "Brown or black colour"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Platyhelminthes",
+      "Class: Turbellaria",
+      "Order: Tricladida",
+      "Family: Dugesiidae",
+      "Genus: Dugesia"
+    ],
+    "ecology": [
+      "Predator of small invertebrates",
+      "Part of freshwater food web",
+      "Indicator of clean water"
+    ],
+    "economy": [
+      "Regeneration research model",
+      "Teaching specimen",
+      "Scientific importance"
+    ]
+  },
+  "fasciola": {
+    "id": 2,
+    "slug": "fasciola",
+    "name": "Fasciola hepatica",
+    "scientificName": "Sheep liver fluke",
+    "description": "Fasciola hepatica is a parasitic flatworm. It infects liver of sheep and cattle. Causes fascioliasis.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767595716/Fasciola_hepatica_wso3xw.png",
+    "3d": "https://sketchfab.com/3d-models/fasciola-hepatica-27f5dceffef343fbb99d4674d228bd96/embed",
+    "introduction": [
+      "Fasciola hepatica lives as an endoparasite.",
+      "It requires snail as intermediate host.",
+      "Economically important parasite."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular",
+      "Respiratory type: Anaerobic",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Flame cells",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Ladder-like nervous system",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Leaf-shaped body",
+      "Anterior oral sucker",
+      "Posterior ventral sucker",
+      "Brownish colour"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Platyhelminthes",
+      "Class: Trematoda",
+      "Order: Digenea",
+      "Family: Fasciolidae",
+      "Genus: Fasciola",
+      "Species: Fasciola hepatica"
+    ],
+    "ecology": [
+      "Parasite of herbivores",
+      "Affects host population",
+      "Part of parasite life cycles"
+    ],
+    "economy": [
+      "Causes economic loss in livestock",
+      "Veterinary importance",
+      "Medical parasitology relevance"
+    ]
+  },
+  "schistosoma": {
+    "id": 3,
+    "slug": "schistosoma",
+    "name": "Schistosoma",
+    "scientificName": "Blood fluke",
+    "description": "Schistosoma is a parasitic flatworm. Sexes are separate. Causes schistosomiasis.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767595732/Schistosoma_ru8kzg.png",
+    "3d": "https://sketchfab.com/3d-models/schistosoma-japonicum-cb40199c4c2c4b608db84f36d7bccd17/embed",
+    "introduction": [
+      "Schistosoma inhabits blood vessels of humans.",
+      "Uses snail as intermediate host.",
+      "Major human parasite."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Incomplete, extracellular",
+      "Respiratory type: Anaerobic",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Gastrovascular",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Flame cells",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Ladder-like nervous system",
+      "Metamerism: Absent",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Elongated cylindrical body",
+      "Male and female separate",
+      "Male with gynecophoric canal",
+      "Brownish colour"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Platyhelminthes",
+      "Class: Trematoda",
+      "Order: Digenea",
+      "Family: Schistosomatidae",
+      "Genus: Schistosoma"
+    ],
+    "ecology": [
+      "Parasite of humans",
+      "Influences host population health",
+      "Part of aquatic parasite cycles"
+    ],
+    "economy": [
+      "Causes human disease",
+      "Medical importance",
+      "Public health concern"
+    ]
+  },
+  "taenia-solium": {
+    "id": 4,
+    "slug": "taenia-solium",
+    "name": "Taenia solium",
+    "scientificName": "Pork tapeworm",
+    "description": "Taenia solium is a parasitic tapeworm. Human is definitive host. Causes taeniasis and cysticercosis.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767595750/Taenia_solium_oew5qm.png",
+    "3d": "",
+    "introduction": [
+      "Taenia solium lives in human intestine.",
+      "Larval stage occurs in pig.",
+      "Important zoonotic parasite."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Absent",
+      "Respiratory type: Anaerobic",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Absent",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Flame cells",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Ladder-like nervous system",
+      "Metamerism: Present (proglottids)",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Long ribbon-like body",
+      "Scolex with hooks",
+      "Segmented proglottids",
+      "White colour"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Platyhelminthes",
+      "Class: Cestoda",
+      "Order: Cyclophyllidea",
+      "Family: Taeniidae",
+      "Genus: Taenia",
+      "Species: Taenia solium"
+    ],
+    "ecology": [
+      "Parasite of humans and pigs",
+      "Part of parasite transmission cycles",
+      "Affects host health"
+    ],
+    "economy": [
+      "Human health hazard",
+      "Veterinary concern",
+      "Public health importance"
+    ]
+  },
+  "taenia-saginata": {
+    "id": 5,
+    "slug": "taenia-saginata",
+    "name": "Taenia saginata",
+    "scientificName": "Beef tapeworm",
+    "description": "Taenia saginata is a parasitic tapeworm. Humans are definitive hosts. Does not cause cysticercosis.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767595743/Taenia_saginata_xaxmpq.png",
+    "3d": "https://sketchfab.com/3d-models/taenia-saginata-tapeworm-f2deeec3d7d94984a9dbeedcb45a4347/embed",
+    "introduction": [
+      "Taenia saginata inhabits human intestine.",
+      "Cattle serve as intermediate host.",
+      "Common intestinal parasite."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Absent",
+      "Respiratory type: Anaerobic",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Absent",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Flame cells",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Ladder-like nervous system",
+      "Metamerism: Present (proglottids)",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Very long segmented body",
+      "Scolex without hooks",
+      "Numerous proglottids",
+      "Whitish colour"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Platyhelminthes",
+      "Class: Cestoda",
+      "Order: Cyclophyllidea",
+      "Family: Taeniidae",
+      "Genus: Taenia",
+      "Species: Taenia saginata"
+    ],
+    "ecology": [
+      "Parasite of humans and cattle",
+      "Part of food-borne cycles",
+      "Host-parasite interaction"
+    ],
+    "economy": [
+      "Public health importance",
+      "Meat inspection relevance",
+      "Economic loss in cattle industry"
+    ]
+  },
+  "echinococcus": {
+    "id": 6,
+    "slug": "echinococcus",
+    "name": "Echinococcus",
+    "scientificName": "Dog tapeworm",
+    "description": "Echinococcus is a small parasitic tapeworm. Causes hydatid disease. Highly dangerous to humans.",
+    "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1767595702/Echinococcus_pi8lv5.png",
+    "3d": "https://sketchfab.com/3d-models/hydatid-tapeworm-echinococcus-granulosus-c7f06534e2a24fcc936ca239046bf480/embed",
+    "introduction": [
+      "Echinococcus lives in intestine of dogs.",
+      "Humans act as accidental hosts.",
+      "Medically very important parasite."
+    ],
+    "features": [
+      "Level of Organisation: Organ system level",
+      "Germ layer: Triploblastic",
+      "Body symmetry: Bilateral",
+      "Coelom: Acoelomate",
+      "Body plan: Blind sac body plan",
+      "Digestion type: Absent",
+      "Respiratory type: Anaerobic",
+      "Circulatory type: Type-I (absent)",
+      "Circulation system: Absent",
+      "Regulation of Osmosis: Osmoregulator",
+      "Excretory organ: Flame cells",
+      "Mode of excretion: Ammonotelism",
+      "Skeleton structure: Absent",
+      "Nervous system: Ladder-like nervous system",
+      "Metamerism: Present (few proglottids)",
+      "Fertilization: Internal",
+      "Development type: Indirect",
+      "Body temperature: Poikilothermic, stenohaline"
+    ],
+    "sizeStructure": [
+      "Very small body",
+      "Scolex with hooks",
+      "Few proglottids",
+      "White colour"
+    ],
+    "classification": [
+      "Kingdom: Animalia",
+      "Phylum: Platyhelminthes",
+      "Class: Cestoda",
+      "Order: Cyclophyllidea",
+      "Family: Taeniidae",
+      "Genus: Echinococcus"
+    ],
+    "ecology": [
+      "Parasite of mammals",
+      "Maintains parasite life cycles",
+      "Zoonotic transmission"
+    ],
+    "economy": [
+      "Causes hydatid disease",
+      "Major medical concern",
+      "Veterinary and public health importance"
+    ]
+  }
+}

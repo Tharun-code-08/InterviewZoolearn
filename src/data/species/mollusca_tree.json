@@ -1,0 +1,182 @@
+[
+  {
+    "id": "monoplacophora",
+    "className": "Monoplacophora",
+    "species": [
+      {
+        "id": 1,
+        "slug": "neopilina_galathea",
+        "name": "Neopilina galathea",
+        "scientificName": "Living fossil mollusc",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102639/Neopilina_galathea_gebuh8.png",
+        "path": "/zoohub/mollusca/neopilina_galathea"
+      }
+    ]
+  },
+  {
+    "id": "polyplacophora",
+    "className": "Polyplacophora",
+    "species": [
+      {
+        "id": 2,
+        "slug": "chaetopleura",
+        "name": "Chaetopleura",
+        "scientificName": "Chiton / Coat-of-mail shell",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102611/Chaetopleura_wp6ppp.png",
+        "path": "/zoohub/mollusca/chaetopleura"
+      },
+      {
+        "id": 3,
+        "slug": "chiton",
+        "name": "Chiton",
+        "scientificName": "Coat-of-mail shell",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102617/Chiton_btgiv5.png",
+        "path": "/zoohub/mollusca/chiton"
+      }
+    ]
+  },
+  {
+    "id": "scaphopoda",
+    "className": "Scaphopoda",
+    "species": [
+      {
+        "id": 4,
+        "slug": "dentalium",
+        "name": "Dentalium",
+        "scientificName": "Tusk shell",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102631/Dentalium_ebjnqz.png",
+        "path": "/zoohub/mollusca/dentalium"
+      }
+    ]
+  },
+  {
+    "id": "bivalvia",
+    "className": "Bivalvia",
+    "species": [
+      {
+        "id": 5,
+        "slug": "unio",
+        "name": "Unio",
+        "scientificName": "Freshwater mussel",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102657/Unio_iqhmtv.png",
+        "path": "/zoohub/mollusca/unio"
+      },
+      {
+        "id": 6,
+        "slug": "lamellidens",
+        "name": "Lamellidens",
+        "scientificName": "Freshwater pearl mussel",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102632/Lamellidens_ryycck.png",
+        "path": "/zoohub/mollusca/lamellidens"
+      },
+      {
+        "id": 7,
+        "slug": "mytilus",
+        "name": "Mytilus",
+        "scientificName": "Marine mussel",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102724/Mytilus_icxcpy.png",
+        "path": "/zoohub/mollusca/mytilus"
+      },
+      {
+        "id": 8,
+        "slug": "ostrea",
+        "name": "Ostrea",
+        "scientificName": "Oyster",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770103032/Ostrea_dibwmj.png",
+        "path": "/zoohub/mollusca/ostrea"
+      },
+      {
+        "id": 9,
+        "slug": "pinctada",
+        "name": "Pinctada",
+        "scientificName": "Pearl oyster",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102649/Pinctada_em5bxg.png",
+        "path": "/zoohub/mollusca/pinctada"
+      },
+      {
+        "id": 10,
+        "slug": "spondylus",
+        "name": "Spondylus",
+        "scientificName": "Thorny oyster",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102652/Spondylus_ygtqnu.png",
+        "path": "/zoohub/mollusca/spondylus"
+      }
+    ]
+  },
+  {
+    "id": "gastropoda",
+    "className": "Gastropoda",
+    "species": [
+      {
+        "id": 11,
+        "slug": "pila_globosa",
+        "name": "Pila globosa",
+        "scientificName": "Apple snail",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102646/Pila_globosa_cxtyhi.png",
+        "path": "/zoohub/mollusca/pila_globosa"
+      },
+      {
+        "id": 12,
+        "slug": "aplysia",
+        "name": "Aplysia",
+        "scientificName": "Sea hare",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102588/Aplysia_b5hjkw.png",
+        "path": "/zoohub/mollusca/aplysia"
+      },
+      {
+        "id": 13,
+        "slug": "conus_marmoreus",
+        "name": "Conus marmoreus",
+        "scientificName": "Marbled cone snail",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102629/Conus_marmoreus_gkdqfv.png",
+        "path": "/zoohub/mollusca/conus_marmoreus"
+      }
+    ]
+  },
+  {
+    "id": "cephalopoda",
+    "className": "Cephalopoda",
+    "species": [
+      {
+        "id": 14,
+        "slug": "nautilus",
+        "name": "Nautilus",
+        "scientificName": "Nautilus",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102637/Nautilus_iuztri.png",
+        "path": "/zoohub/mollusca/nautilus"
+      },
+      {
+        "id": 15,
+        "slug": "sepia",
+        "name": "Sepia",
+        "scientificName": "Cuttlefish",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102655/Sepia_wtpaco.png",
+        "path": "/zoohub/mollusca/sepia"
+      },
+      {
+        "id": 16,
+        "slug": "loligo",
+        "name": "Loligo",
+        "scientificName": "Squid",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102634/Loligo_xjtqbd.png",
+        "path": "/zoohub/mollusca/loligo"
+      },
+      {
+        "id": 17,
+        "slug": "architeuthes",
+        "name": "Architeuthes",
+        "scientificName": "Giant squid",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102597/Architeuthes_m3fj02.png",
+        "path": "/zoohub/mollusca/architeuthes"
+      },
+      {
+        "id": 18,
+        "slug": "octopus",
+        "name": "Octopus",
+        "scientificName": "Octopus",
+        "image": "https://res.cloudinary.com/duibfmcw1/image/upload/v1770102641/Octopus_pgsgai.png",
+        "path": "/zoohub/mollusca/octopus"
+      }
+    ]
+  }
+]
