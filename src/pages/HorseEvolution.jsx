@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { generatedArt } from '../utils/generatedArt';
+import wikiImages from '../data/horseEvolutionWikiImages.json';
 
 const HORSE_STAGES = [
   {
@@ -11,8 +12,8 @@ It was small, about the size of a fox or terrier dog, around 40 cm tall at the s
 The forelimbs had four functional toes (2, 3, 4, 5) and a splint of the first toe. The hind limbs had three functional toes (2, 3, 4) and a splint of the fifth toe.
 The low-crowned molar teeth were adapted for browsing soft vegetation.`,
     facts: ['4 Toes (Front) / 3 Toes (Hind)', '~40 cm tall', 'Size of a fox', 'Browsing diet'],
-    img: generatedArt('Hyracotherium', 'Hyracotherium'),
-    extraImage: generatedArt('Hyracotherium-extra', 'Hyracotherium'),
+    img: wikiImages['Hyracotherium'] || generatedArt('Hyracotherium', 'Hyracotherium'),
+    extraImage: wikiImages['Hyracotherium-extra'] || generatedArt('Hyracotherium-extra', 'Hyracotherium'),
   },
   {
     era: 'Eocene (~50 MYA)',
@@ -23,7 +24,7 @@ The low-crowned molar teeth were adapted for browsing soft vegetation.`,
 • Subtle shift toward harder foods.
 • Represents early diversification of the horse lineage.`,
     facts: ['4 Toes (Front)', 'Sharper Molars', 'Forest Habitat'],
-    img: generatedArt('Orohippus', 'Orohippus'),
+    img: wikiImages['Orohippus'] || generatedArt('Orohippus', 'Orohippus'),
     extraImage: '',
   },
   {
@@ -35,8 +36,8 @@ It appeared during the Oligocene epoch, about 3 crore years ago. It was about th
 The forefeet had three functional digits (2, 3, 4) and a splint of the fifth digit. The hind feet had three toes. The middle toe was longer and supported most of the body weight.
 The molar teeth showed the beginning of enamel ridges.`,
     facts: ['3 Toes', '~60 cm tall', 'Size of a sheep', 'Enamel ridges on molars'],
-    img: generatedArt('Mesohippus', 'Mesohippus'),
-    extraImage: generatedArt('Mesohippus-extra', 'Mesohippus'),
+    img: wikiImages['Mesohippus'] || generatedArt('Mesohippus', 'Mesohippus'),
+    extraImage: wikiImages['Mesohippus-extra'] || generatedArt('Mesohippus-extra', 'Mesohippus'),
   },
   {
     era: 'Late Oligocene (~30 MYA)',
@@ -47,7 +48,7 @@ The molar teeth showed the beginning of enamel ridges.`,
 • Teeth began to transition for abrasive grass diet.
 • An evolutionary bridge between browsers and grazers.`,
     facts: ['3 Toes', 'Grazing Teeth', 'Grassland Transition'],
-    img: generatedArt('Miohippus', 'Miohippus'),
+    img: wikiImages['Miohippus'] || generatedArt('Miohippus', 'Miohippus'),
     extraImage: '',
   },
   {
@@ -59,7 +60,7 @@ The molar teeth showed the beginning of enamel ridges.`,
 • Longer limbs for running across open grasslands.
 • Represents the shift from forest browser to grassland grazer.`,
     facts: ['Higher Crowns', 'Running Limbs', 'Cement-Coated Teeth'],
-    img: generatedArt('Parahippus', 'Parahippus'),
+    img: wikiImages['Parahippus'] || generatedArt('Parahippus', 'Parahippus'),
     extraImage: '',
   },
   {
@@ -71,7 +72,7 @@ The molar teeth showed the beginning of enamel ridges.`,
 • Represents evolutionary diversification.
 • Eventually went extinct without direct descendants.`,
     facts: ['Side-Branch', 'Grassland Specialist', 'Extinct Lineage'],
-    img: generatedArt('Callippus', 'Callippus'),
+    img: wikiImages['Callippus'] || generatedArt('Callippus', 'Callippus'),
     extraImage: '',
   },
   {
@@ -83,8 +84,8 @@ It appeared during the Miocene epoch, about 2 crore years ago. It was about the 
 It had a longer neck. The forelimbs and hind limbs had three fingers/toes each. The middle finger and toe were longer and supported most of the body weight. The side toes were reduced.
 The teeth were longer and covered with cement, with well-developed enamel ridges.`,
     facts: ['3 Toes (Side toes reduced)', '~100 cm tall', 'Size of a small pony', 'Teeth covered with cement'],
-    img: generatedArt('Merychippus', 'Merychippus'),
-    extraImage: generatedArt('Merychippus-extra', 'Merychippus'),
+    img: wikiImages['Merychippus'] || generatedArt('Merychippus', 'Merychippus'),
+    extraImage: wikiImages['Merychippus-extra'] || generatedArt('Merychippus-extra', 'Merychippus'),
   },
   {
     era: 'Late Miocene Epoch',
@@ -95,8 +96,8 @@ It lived during the late Miocene epoch (~12–6 million years ago). It was about
 Each limb had one functional toe (digit III). Digits II and IV were reduced to splint bones beneath the skin. It is considered one of the earliest one-toed horses.
 Molars were high-crowned with cement and serrations, adapted for grazing grasses.`,
     facts: ['1 Toe (Digit III)', '~120 cm tall', 'Size of a modern pony', 'Grazing molars'],
-    img: generatedArt('Pliohippus', 'Pliohippus'),
-    extraImage: generatedArt('Pliohippus-extra', 'Pliohippus'),
+    img: wikiImages['Pliohippus'] || generatedArt('Pliohippus', 'Pliohippus'),
+    extraImage: wikiImages['Pliohippus-extra'] || generatedArt('Pliohippus-extra', 'Pliohippus'),
   },
   {
     era: 'Late Pliocene Epoch',
@@ -107,8 +108,8 @@ It first appeared in North America and later spread to other parts of the world 
 It has a long head and long neck. Each forelimb and hind limb has one functional digit (third digit) forming a single hoof. The other digits are reduced and present as two splint bones.
 The highly elongated crowns with enamel ridges are perfectly suited for grinding grass.`,
     facts: ['1 Hoof', '~150 cm tall', 'Global spread (except Australia)', 'Grinding teeth'],
-    img: generatedArt('Equus', 'Equus'),
-    extraImage: generatedArt('Equus-extra', 'Equus'),
+    img: wikiImages['Equus'] || generatedArt('Equus', 'Equus'),
+    extraImage: wikiImages['Equus-extra'] || generatedArt('Equus-extra', 'Equus'),
   },
 ];
 

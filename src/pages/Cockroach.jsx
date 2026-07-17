@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import { Menu, ChevronLeft, ChevronRight, ArrowUp } from 'lucide-react';
 import cockroachContent from '../data/cockroachContent.json';
 import { generatedArt } from '../utils/generatedArt';
+import cockroachWikiImages from '../data/cockroachWikiImages.json';
 
 export default function Cockroach() {
   const [active, setActive] = useState('general');
@@ -84,7 +85,7 @@ export default function Cockroach() {
           <div className="coc-hero-visual">
             <div className="coc-hero-image-wrapper">
               <img
-                src={generatedArt('cockroach-hero', 'American Cockroach')}
+                src={cockroachWikiImages['cockroach-hero'] || generatedArt('cockroach-hero', 'American Cockroach')}
                 alt="Cockroach"
                 className="coc-hero-img"
               />
@@ -182,7 +183,7 @@ export default function Cockroach() {
                   )}
                   {s.image && (
                     <figure className="coc-image-wrapper">
-                      <img src={generatedArt(s.heading, s.heading)} alt={s.heading} className="coc-section-image" loading="lazy" />
+                      <img src={cockroachWikiImages[s.heading] || generatedArt(s.heading, s.heading)} alt={s.heading} className="coc-section-image" loading="lazy" />
                       {s.imageCaption && <figcaption className="coc-image-caption">{s.imageCaption}</figcaption>}
                     </figure>
                   )}

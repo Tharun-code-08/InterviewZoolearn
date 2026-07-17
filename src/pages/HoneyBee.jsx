@@ -1,4 +1,5 @@
 import { generatedArt } from '../utils/generatedArt';
+import honeyBeeWikiImages from '../data/honeyBeeWikiImages.json';
 
 export default function HoneyBee() {
   return (
@@ -29,7 +30,7 @@ export default function HoneyBee() {
           </div>
           <div className="honey-hero-visual">
             <img
-              src={generatedArt('honeybee-hero', 'Honey Bee')}
+              src={honeyBeeWikiImages['honeybee-hero'] || generatedArt('honeybee-hero', 'Honey Bee')}
               alt="Honey Bee"
               className="honey-hero-img"
             />
@@ -68,7 +69,7 @@ export default function HoneyBee() {
                 <div className="flip-card-front">
                   <div className="card-img-wrapper">
                     <img
-                      src={generatedArt('honeybee-queen', 'Queen Bee')}
+                      src={honeyBeeWikiImages['honeybee-queen'] || generatedArt('honeybee-queen', 'Queen Bee')}
                       alt="Queen Bee"
                       className="card-img"
                     />
@@ -93,7 +94,7 @@ export default function HoneyBee() {
                 <div className="flip-card-front">
                   <div className="card-img-wrapper">
                     <img
-                      src={generatedArt('honeybee-worker', 'Worker Bee')}
+                      src={honeyBeeWikiImages['honeybee-worker'] || generatedArt('honeybee-worker', 'Worker Bee')}
                       alt="Worker Bee"
                       className="card-img"
                     />
@@ -126,7 +127,7 @@ export default function HoneyBee() {
                 <div className="flip-card-front">
                   <div className="card-img-wrapper">
                     <img
-                      src={generatedArt('honeybee-drone', 'Drone Bee')}
+                      src={honeyBeeWikiImages['honeybee-drone'] || generatedArt('honeybee-drone', 'Drone Bee')}
                       alt="Drone Bee"
                       className="card-img"
                     />

@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import { X, Menu, ArrowUp } from 'lucide-react';
 import patternsData from '../data/patternsData';
 import { generatedArt } from '../utils/generatedArt';
+import wikiImages from '../data/patternsWikiImages.json';
 
 const THEME_CLASS = {
   digestive: 'theme-digestive',
@@ -290,7 +291,7 @@ export default function Patterns() {
           <div className="patt-hero-visual">
             <div className="patt-hero-glow-ring" />
             <img
-              src={generatedArt('organ-system-complexity', 'Organ System Complexity')}
+              src={wikiImages['patterns.organ-system-complexity'] || generatedArt('organ-system-complexity', 'Organ System Complexity')}
               alt="Organ system complexity"
               className="patt-hero-image"
               loading="eager"

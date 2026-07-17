@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { generatedArt } from '../utils/generatedArt';
+import wikiImages from '../data/blogWikiImages.json';
 
 const POSTS = [
   {
@@ -12,7 +13,7 @@ const POSTS = [
     subtitle: 'The Tallest Story Ever Told',
     description:
       'Celebrate the longest day of the year with the tallest animal on Earth. Explore 24 million years of evolutionary history, the science behind the iconic neck, four distinct species, and the silent extinction threatening these gentle giants.',
-    image: generatedArt('world-giraffe-day-post', 'World Giraffe Day'),
+    image: wikiImages['world-giraffe-day-post'] || generatedArt('world-giraffe-day-post', 'World Giraffe Day'),
     tags: ['Evolution', 'Conservation', 'Taxonomy', 'Africa'],
     stats: [
       { label: 'Neck', value: '2.4 m' },
@@ -32,7 +33,7 @@ const POSTS = [
     subtitle: 'The Social Sentinels of the Desert',
     description:
       'Discover the fascinating social structures, survival strategies, and complex communication of meerkats in the harsh Kalahari Desert environment.',
-    image: generatedArt('world-meerkat-day-post', 'World Meerkat Day'),
+    image: wikiImages['world-meerkat-day-post'] || generatedArt('world-meerkat-day-post', 'World Meerkat Day'),
     tags: ['Behavior', 'Social Structure', 'Desert', 'Mammals'],
     stats: [
       { label: 'Weight', value: '731 g' },
