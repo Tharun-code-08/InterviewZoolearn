@@ -13,39 +13,47 @@ import chordata from './species/chordata_data.json';
 import chordataTree from './species/chordata_tree.json';
 import molluscaTree from './species/mollusca_tree.json';
 import { generatedArt } from '../utils/generatedArt';
+import wikiImages from './speciesWikiImages.json';
 
-function withGeneratedArt(dataMap) {
+// Real reference photos sourced from Wikipedia/Wikimedia Commons (freely
+// licensed, not the original site's own images), keyed by "phylum:slug".
+// Falls back to generated art for the handful of species with no match.
+function imageFor(phylum, sp) {
+  return wikiImages[`${phylum}:${sp.slug}`] || generatedArt(sp.slug, sp.name);
+}
+
+function withRealArt(phylum, dataMap) {
   const out = {};
   Object.entries(dataMap).forEach(([slug, sp]) => {
-    out[slug] = { ...sp, image: generatedArt(slug, sp.name) };
+    out[slug] = { ...sp, image: imageFor(phylum, sp) };
   });
   return out;
 }
 
-function withGeneratedArtTree(tree) {
+function withRealArtTree(phylum, tree) {
   return tree.map((group) => ({
     ...group,
-    species: group.species.map((sp) => ({ ...sp, image: generatedArt(sp.slug, sp.name) })),
+    species: group.species.map((sp) => ({ ...sp, image: imageFor(phylum, sp) })),
   }));
 }
 
 export const PHYLUM_DATA = {
-  porifera: withGeneratedArt(porifera),
-  coelenterata: withGeneratedArt(coelenterata),
-  ctenophora: withGeneratedArt(ctenophora),
-  platyhelminthes: withGeneratedArt(platyhelminthes),
-  aschelminthes: withGeneratedArt(aschelminthes),
-  annelida: withGeneratedArt(annelida),
-  arthropoda: withGeneratedArt(arthropoda),
-  mollusca: withGeneratedArt(mollusca),
-  echinodermata: withGeneratedArt(echinodermata),
-  hemichordata: withGeneratedArt(hemichordata),
-  chordata: withGeneratedArt(chordata),
+  porifera: withRealArt('porifera', porifera),
+  coelenterata: withRealArt('coelenterata', coelenterata),
+  ctenophora: withRealArt('ctenophora', ctenophora),
+  platyhelminthes: withRealArt('platyhelminthes', platyhelminthes),
+  aschelminthes: withRealArt('aschelminthes', aschelminthes),
+  annelida: withRealArt('annelida', annelida),
+  arthropoda: withRealArt('arthropoda', arthropoda),
+  mollusca: withRealArt('mollusca', mollusca),
+  echinodermata: withRealArt('echinodermata', echinodermata),
+  hemichordata: withRealArt('hemichordata', hemichordata),
+  chordata: withRealArt('chordata', chordata),
 };
 
 export const PHYLUM_TREES = {
-  chordata: withGeneratedArtTree(chordataTree),
-  mollusca: withGeneratedArtTree(molluscaTree),
+  chordata: withRealArtTree('chordata', chordataTree),
+  mollusca: withRealArtTree('mollusca', molluscaTree),
 };
 
 export const PHYLUM_LABELS = {

@@ -6,9 +6,11 @@ import scientists from '../data/scientists.json';
 import learningPath from '../data/learningPath.json';
 import deepDive from '../data/deepDive.json';
 import { generatedArt } from '../utils/generatedArt';
+import wikiImages from '../data/miscWikiImages.json';
+import scientistsWiki from '../data/scientistsWikiImages.json';
 
 const CAROUSEL_NAMES = ['Pleurobrachia', 'Dugesia', 'Chalina', 'Tubifex', 'Naja naja', 'Ascaris', 'Hydra', 'Araneus', 'Unio'];
-const CAROUSEL_IMAGES = CAROUSEL_NAMES.map((n) => generatedArt(n, n));
+const CAROUSEL_IMAGES = CAROUSEL_NAMES.map((n) => wikiImages[`carousel:${n}`] || generatedArt(n, n));
 
 function HeroBanner() {
   const [active] = useState(0);
@@ -124,7 +126,7 @@ function ScientistsSection() {
                 <div className="sci-flip-inner">
                   <div className="sci-flip-front">
                     <div className="sci-image-box">
-                      <img src={generatedArt(s.name, s.name)} alt={s.name} />
+                      <img src={scientistsWiki[String(s.id)] || generatedArt(s.name, s.name)} alt={s.name} />
                     </div>
                     <div className="sci-card-info">
                       <h3>{s.name}</h3>
@@ -175,7 +177,7 @@ function LearningSection() {
               >
                 <div>
                   <div className="learn-icon-box">
-                    <img src={generatedArt(item.title, item.title)} alt={item.title} />
+                    <img src={wikiImages[`learn:${item.title}`] || generatedArt(item.title, item.title)} alt={item.title} />
                   </div>
                   <h3>{item.title}</h3>
                   <p>{item.description}</p>
@@ -213,7 +215,7 @@ function LearningSection() {
                 <div className="learn-card-details">
                   <div className="learn-organism-head">
                     <div className="learn-org-icon">
-                      <img src={generatedArt(item.id, item.name)} alt={item.name} />
+                      <img src={wikiImages[`deepdive:${item.id}`] || generatedArt(item.id, item.name)} alt={item.name} />
                     </div>
                     <div className="learn-org-title-group">
                       <h3>{item.name}</h3>
