@@ -127,7 +127,6 @@ export default function SpeciesDetail() {
                       src={species['3d']}
                       frameBorder="0"
                       allow="autoplay; fullscreen; xr-spatial-tracking"
-                      allowFullScreen
                     />
                   </div>
                 )}
