@@ -13,7 +13,7 @@
    "title": "Classification History",
    "name": "Classification History",
    "des": "Aristotle (Ancient Greece): The Beginning. Aristotle was the earliest to attempt a more scientific basis for classification. He used simple morphological characters to classify plants into trees, shrubs and herbs. He also divided animals into two groups, those which had red blood and those that did not.",
-   "img": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230f766e%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%232dd4bf%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2228%22%20cy%3D%2241%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2276%22%20cy%3D%2284%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3ECH%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/5/54/Linn%C3%A9-Systema_Naturae_1735.jpg",
    "theme": "#04AA6D"
   },
   {
@@ -21,7 +21,7 @@
    "title": "PHYLUM 1",
    "name": "Porifera",
    "des": "Commonly known as sponges. These are primitive, multicellular, marine animals with a porous body that filters water to obtain food and oxygen.",
-   "img": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231e40af%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2360a5fa%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2234%22%20cy%3D%2241%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2286%22%20cy%3D%2279%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EPO%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sponges_in_Caribbean_Sea%2C_Cayman_Islands.jpg",
    "theme": "#fbbf24"
   },
   {
@@ -29,7 +29,7 @@
    "title": "PHYLUM 2",
    "name": "Coelenterata",
    "des": "Also known as Cnidaria (like Jellyfish and Corals). They are aquatic, mostly marine, with tentacles equipped with stinging cells called cnidoblasts.",
-   "img": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230f766e%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%232dd4bf%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2242%22%20cy%3D%2237%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2285%22%20cy%3D%2276%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3ECO%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/Cnidaria.png",
    "theme": "#3b82f6"
   },
   {
@@ -37,7 +37,7 @@
    "title": "PHYLUM 3",
    "name": "Ctenophora",
    "des": "Commonly known as sea walnuts or comb jellies. They are exclusively marine and move using eight external rows of ciliated comb plates.",
-   "img": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%234338ca%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%236366f1%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2221%22%20cy%3D%2230%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2283%22%20cy%3D%2285%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3ECT%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Comb_jelly.jpg",
    "theme": "#c084fc"
   },
   {
@@ -45,7 +45,7 @@
    "title": "PHYLUM 4",
    "name": "Platyhelminthes",
    "des": "The flatworms. They have a dorso-ventrally flattened body and are mostly endoparasites found in animals, including humans.",
-   "img": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230f766e%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%232dd4bf%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2256%22%20cy%3D%2229%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2273%22%20cy%3D%2278%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EPL%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Platyhelminthes_diversity.jpg",
    "theme": "#ef4444"
   },
   {
@@ -53,7 +53,7 @@
    "title": "PHYLUM 5",
    "name": "Aschelminthes",
    "des": "The roundworms (Nematoda). Their body is circular in cross-section. They can be free-living, aquatic, terrestrial, or parasitic.",
-   "img": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23155e75%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2322d3ee%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2237%22%20cy%3D%2242%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2276%22%20cy%3D%2266%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EAS%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/CelegansGoldsteinLabUNC.jpg",
    "theme": "#84cc16"
   },
   {
@@ -61,7 +61,7 @@
    "title": "PHYLUM 6",
    "name": "Annelida",
    "des": "Segmented worms like earthworms and leeches. Their body surface is distinctly marked out into segments or metameres.",
-   "img": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%239d174d%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23f472b6%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2234%22%20cy%3D%2231%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2264%22%20cy%3D%2288%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EAN%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Annelida_collage_%282%29.png",
    "theme": "#d97706"
   },
   {
@@ -69,7 +69,7 @@
    "title": "PHYLUM 7",
    "name": "Arthropoda",
    "des": "The largest phylum, including insects, spiders, and crustaceans. They have jointed appendages and a hard chitinous exoskeleton.",
-   "img": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%235b21b6%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23a78bfa%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2255%22%20cy%3D%2244%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2277%22%20cy%3D%2271%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EAR%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/1/14/Arthropoda_collage.png",
    "theme": "#f97316"
   },
   {
@@ -77,7 +77,7 @@
    "title": "PHYLUM 8",
    "name": "Mollusca",
    "des": "The second largest animal phylum (snails, octopuses). They are soft-bodied animals usually covered by a calcareous shell.",
-   "img": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231e40af%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2360a5fa%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2250%22%20cy%3D%2253%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2269%22%20cy%3D%2277%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EMO%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mollusca_Diversity.png/3840px-Mollusca_Diversity.png",
    "theme": "#0ea5e9"
   },
   {
@@ -85,7 +85,7 @@
    "title": "PHYLUM 9",
    "name": "Echinodermata",
    "des": "Spiny-bodied animals like starfish and sea urchins. They have an endoskeleton of calcareous ossicles and a unique water vascular system.",
-   "img": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%239d174d%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23f472b6%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2258%22%20cy%3D%2239%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2266%22%20cy%3D%2281%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EEC%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/5/52/Echinoderm_collage_2.jpg",
    "theme": "#ec4899"
   },
   {
@@ -93,7 +93,7 @@
    "title": "PHYLUM 10",
    "name": "Hemichordata",
    "des": "A small group of worm-like marine animals, such as acorn worms. They have a cylindrical body composed of an anterior proboscis, a collar, and a trunk.",
-   "img": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23b45309%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23f59e0b%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2241%22%20cy%3D%2252%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2289%22%20cy%3D%2279%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EHE%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Enteropneusta_USNM_1431735%2C_MBIO32531%2C_BMOO_08254_-_Specimen_Image.jpg",
    "theme": "#14b8a6"
   },
   {
@@ -101,7 +101,7 @@
    "title": "PHYLUM 11",
    "name": "Chordata",
    "des": "Animals with a notochord, a dorsal hollow nerve cord, and paired pharyngeal gill slits. This includes all vertebrates (fish, amphibians, reptiles, birds, mammals).",
-   "img": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23b45309%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23f59e0b%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2237%22%20cy%3D%2237%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2275%22%20cy%3D%2286%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3ECH%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Chordata.png",
    "theme": "#8b5cf6"
   }
  ],
@@ -110,31 +110,31 @@
    "year": "~350 BCE",
    "name": "Aristotle (Ancient Greece): The Beginning",
    "description": "The first major classifier was the philosopher Aristotle. He grouped animals based on how they looked and moved.\n• He divided animals into two main groups: animals with blood (vertebrates) and animals without blood (invertebrates).\n• He further subdivided them according to their mode of transportation, such as land, water, and air.\nThis system was used for centuries. However, it grouped bats with birds because both fly, and whales with fish because both swim. Today, we know these are not accurate biological relationships.",
-   "img": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23155e75%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2322d3ee%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2227%22%20cy%3D%2230%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2273%22%20cy%3D%2265%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EA(%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20"
+   "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg"
   },
   {
    "year": "1600s",
    "name": "The Age of Exploration: The Expansion",
    "description": "As Europeans traveled the world, they discovered thousands of new plants and animals.\nThe simple blood versus no blood system could not handle the growing volume of discoveries. Scientists needed a better way to organize and document biodiversity.\nThis period created the demand for a more structured and universal classification system.",
-   "img": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%239a3412%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23fb923c%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2246%22%20cy%3D%2243%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2267%22%20cy%3D%2286%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3ETA%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20"
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Theatrum_Orbis_Terrarum%2C_by_Abraham_Ortelius%2C_World%2C_1572.jpg/3840px-Theatrum_Orbis_Terrarum%2C_by_Abraham_Ortelius%2C_World%2C_1572.jpg"
   },
   {
    "year": "1735",
    "name": "Linnaeus: The Revolution",
    "description": "Carl Linnaeus, a Swedish botanist, revolutionized biological classification. Although he believed species were fixed, he created the organizational system we still use today.\n• Binomial Nomenclature: Every species was given a two-part Latin name (Genus and species), such as Homo sapiens.\n• Hierarchical System: He introduced ranked categories including Kingdom, Class, Order, Genus, and Species.\nLinnaeus grouped organisms based on overall similarity, not evolutionary history, but his structured system became the foundation of modern taxonomy.",
-   "img": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%233f6212%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23a3e635%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2230%22%20cy%3D%2216%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2280%22%20cy%3D%2267%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3ELT%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20"
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723_%28cropped%29.tif/lossy-page1-1920px-Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723_%28cropped%29.tif.jpg"
   },
   {
    "year": "1859",
    "name": "Darwin to Today: Shift to Evolution",
    "description": "Everything changed after Charles Darwin proposed the theory of evolution by natural selection.\nScientists realized that similarities among organisms reflect shared ancestry.\n• The focus shifted from simple organization to tracing evolutionary relationships (Phylogenetics).",
-   "img": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%239d174d%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23f472b6%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2232%22%20cy%3D%2231%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2264%22%20cy%3D%2278%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EDT%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20"
+   "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Charles_Darwin_seated_crop.jpg"
   },
   {
    "year": "Present",
    "name": "Modern Cladistics: DNA-Based Classification",
    "description": "Modern cladistics represents the most advanced stage in biological classification.\nUnlike earlier systems that grouped organisms based mainly on physical similarity, cladistics classifies organisms according to their evolutionary relationships and shared ancestry.\n• It focuses on common derived characteristics (synapomorphies) that indicate shared evolutionary history.\n• Organisms are arranged into clades, which include an ancestor and all of its descendants.\n• Modern classification heavily relies on molecular data, especially DNA sequencing, to determine how closely species are related.\nThis approach has reshaped taxonomy. For example, birds are now recognized as a group within reptiles, and classification is based on evolutionary branching patterns rather than superficial traits like wings or fins.",
-   "img": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23b45309%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23f59e0b%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2225%22%20cy%3D%2235%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2265%22%20cy%3D%2273%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EMC%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20"
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Identical_cladograms.svg/500px-Identical_cladograms.svg.png"
   }
  ],
  "porifera": {
@@ -280,7 +280,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%234338ca%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%236366f1%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2231%22%20cy%3D%2236%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2285%22%20cy%3D%2271%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EPB%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sponges_in_Caribbean_Sea%2C_Cayman_Islands.jpg",
              "alt": "Porifera Banner showing diverse sponges",
              "className": "hero-main-img"
             },
@@ -1285,7 +1285,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%233f6212%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23a3e635%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2224%22%20cy%3D%2235%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2275%22%20cy%3D%2268%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EWC%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sponges_in_Caribbean_Sea%2C_Cayman_Islands.jpg",
              "alt": "Water Canal System Anatomy",
              "className": "anatomy-img hero-main-img anatomy-img-clickable"
             },
@@ -1480,7 +1480,7 @@
          {
           "tag": "img",
           "props": {
-           "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231e40af%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2360a5fa%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2244%22%20cy%3D%2233%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2264%22%20cy%3D%2288%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3ESR%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+           "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sponges_in_Caribbean_Sea%2C_Cayman_Islands.jpg",
            "alt": "Sponge Reproduction Cycle",
            "className": "anatomy-img hero-main-img anatomy-img-clickable"
           },
@@ -1968,7 +1968,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23b45309%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23f59e0b%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2253%22%20cy%3D%2219%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2261%22%20cy%3D%2265%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3ECB%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Cnidaria.png",
              "alt": "Coelenterata Banner showing diverse cnidarians",
              "className": "hero-main-img"
             },
@@ -2623,7 +2623,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23155e75%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2322d3ee%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2255%22%20cy%3D%2239%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2286%22%20cy%3D%2281%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3ECS%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Nematocyst1.jpg",
              "alt": "Cnidocyte Structure",
              "className": "anatomy-img hero-main-img anatomy-img-clickable"
             },
@@ -2729,7 +2729,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%234338ca%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%236366f1%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2235%22%20cy%3D%2226%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2262%22%20cy%3D%2283%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EGS%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jellyfish_cross_section_numbered.svg/960px-Jellyfish_cross_section_numbered.svg.png",
              "alt": "Gastrovascular System Diagram",
              "className": "anatomy-img hero-main-img anatomy-img-clickable"
             },
@@ -2851,7 +2851,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%235b21b6%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23a78bfa%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2257%22%20cy%3D%2239%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2276%22%20cy%3D%2269%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EBF%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Polypen_einer_Gorgonie.jpg",
              "alt": "Body Forms - Polyp and Medusa",
              "className": "anatomy-img hero-main-img anatomy-img-clickable"
             },
@@ -2996,7 +2996,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23155e75%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2322d3ee%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2235%22%20cy%3D%2246%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2267%22%20cy%3D%2274%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EJL%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jelly_cc11.jpg",
              "alt": "Jellyfish Life Cycle",
              "className": "anatomy-img hero-main-img anatomy-img-clickable"
             },
@@ -3681,7 +3681,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23155e75%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2322d3ee%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2231%22%20cy%3D%2216%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2280%22%20cy%3D%2272%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3ECB%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Comb_jelly.jpg",
              "alt": "Ctenophora Banner",
              "className": "hero-main-img"
             },
@@ -4498,7 +4498,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23b45309%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23f59e0b%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2231%22%20cy%3D%2236%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2265%22%20cy%3D%2281%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EGS%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Comb_jelly.jpg",
              "alt": "Gastrovascular System Diagram",
              "className": "anatomy-img hero-main-img anatomy-img-clickable"
             },
@@ -4942,7 +4942,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230f766e%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%232dd4bf%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2240%22%20cy%3D%2237%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2265%22%20cy%3D%2273%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3ECM%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Pserudobiceros_gloriosus_%28flatworm%29_on_Polycarpa_aurata_%28Seasquirt%29.jpg",
              "alt": "Colorful marine flatworm",
              "className": "hero-main-img"
             },
@@ -5012,7 +5012,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%239a3412%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23fb923c%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2228%22%20cy%3D%2241%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2276%22%20cy%3D%2266%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EDP%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Planaria_torva.jpg",
              "alt": "Detailed Planaria Anatomy Diagram",
              "className": "anatomy-img"
             },
@@ -5756,7 +5756,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%235b21b6%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23a78bfa%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2247%22%20cy%3D%2223%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2262%22%20cy%3D%2273%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EDR%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/CelegansGoldsteinLabUNC.jpg",
              "alt": "Detailed Roundworm Visual",
              "className": "hero-main-img"
             },
@@ -5826,7 +5826,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23b45309%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23f59e0b%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2249%22%20cy%3D%2248%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2278%22%20cy%3D%2289%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EAD%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Ascaris_lumbricoides.jpeg",
              "alt": "Ascaris Dimorphism and Life Cycle",
              "className": "anatomy-img"
             },
@@ -6530,7 +6530,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230f766e%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%232dd4bf%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2224%22%20cy%3D%2240%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2286%22%20cy%3D%2279%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EDV%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Annelida_collage_%282%29.png",
              "alt": "Detailed view of an annelid",
              "className": "hero-main-img"
             },
@@ -6600,7 +6600,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%233f6212%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23a3e635%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2242%22%20cy%3D%2242%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2276%22%20cy%3D%2284%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EDE%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eisenia_foetida_R.H._%288%29.JPG/3840px-Eisenia_foetida_R.H._%288%29.JPG",
              "alt": "Detailed Earthworm Anatomy Diagram",
              "className": "anatomy-img"
             },
@@ -7360,7 +7360,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23155e75%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2322d3ee%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2257%22%20cy%3D%2249%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2268%22%20cy%3D%2277%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EDB%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fesoj_-_Papilio_machaon_%28by%29.jpg",
              "alt": "Detailed Butterfly Anatomy",
              "className": "hero-main-img"
             },
@@ -7430,7 +7430,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230f766e%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%232dd4bf%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2246%22%20cy%3D%2248%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2268%22%20cy%3D%2272%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EDI%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Insect_anatomy_diagram.svg/3840px-Insect_anatomy_diagram.svg.png",
              "alt": "Detailed Insect Anatomy Diagram",
              "className": "anatomy-img"
             },
@@ -8270,7 +8270,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23b45309%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23f59e0b%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2227%22%20cy%3D%2245%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2287%22%20cy%3D%2269%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EDO%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Octopus2.jpg",
              "alt": "Detailed Octopus Visual",
              "className": "hero-main-img"
             },
@@ -8340,7 +8340,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%233f6212%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23a3e635%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2242%22%20cy%3D%2247%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2268%22%20cy%3D%2287%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EDS%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Snail.jpg",
              "alt": "Detailed Snail Anatomy Diagram",
              "className": "anatomy-img"
             },
@@ -9074,7 +9074,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%239d174d%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23f472b6%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2252%22%20cy%3D%2239%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2266%22%20cy%3D%2274%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EDS%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Starfish_montage.png",
              "alt": "Detailed Starfish View",
              "className": "hero-main-img"
             },
@@ -9144,7 +9144,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23155e75%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2322d3ee%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2237%22%20cy%3D%2222%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2281%22%20cy%3D%2270%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EDW%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Starfish_montage.png",
              "alt": "Detailed Water Vascular System Diagram",
              "className": "anatomy-img"
             },
@@ -9864,7 +9864,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231e40af%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2360a5fa%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2238%22%20cy%3D%2222%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2261%22%20cy%3D%2265%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EBA%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Enteropneusta.png",
              "alt": "Balanoglossus and Marine Life",
              "className": "hero-main-img"
             },
@@ -9934,7 +9934,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%234338ca%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%236366f1%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2237%22%20cy%3D%2222%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2271%22%20cy%3D%2265%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EDB%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Enteropneusta.png",
              "alt": "Detailed Balanoglossus Anatomy Diagram",
              "className": "anatomy-img"
             },
@@ -10643,7 +10643,7 @@
              {
               "tag": "img",
               "props": {
-               "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231e40af%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2360a5fa%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2224%22%20cy%3D%2240%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2286%22%20cy%3D%2279%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3ERC%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+               "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bird_Diversity_2013.png",
                "alt": "Representative Chordate (Bird)",
                "className": "hero-main-img"
               },
@@ -10715,7 +10715,7 @@
            {
             "tag": "img",
             "props": {
-             "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%239a3412%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23fb923c%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2258%22%20cy%3D%2254%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2269%22%20cy%3D%2274%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EFC%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+             "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Diversity-13-00462-g001.png",
              "alt": "Fundamental Chordate Features Diagram",
              "className": "anatomy-img"
             },
@@ -11380,7 +11380,7 @@
                {
                 "tag": "img",
                 "props": {
-                 "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%233f6212%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23a3e635%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2222%22%20cy%3D%2215%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2280%22%20cy%3D%2270%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EA(%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+                 "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg",
                  "alt": "Aristotle (Ancient Greece): The Beginning",
                  "loading": "lazy"
                 },
@@ -11513,7 +11513,7 @@
                {
                 "tag": "img",
                 "props": {
-                 "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%239f1239%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23fb7185%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2227%22%20cy%3D%2230%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2263%22%20cy%3D%2273%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3ETA%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+                 "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg",
                  "alt": "The Age of Exploration: The Expansion",
                  "loading": "lazy"
                 },
@@ -11578,7 +11578,7 @@
                {
                 "tag": "img",
                 "props": {
-                 "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%235b21b6%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23a78bfa%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2243%22%20cy%3D%2237%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2285%22%20cy%3D%2271%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3ELT%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+                 "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg",
                  "alt": "Linnaeus: The Revolution",
                  "loading": "lazy"
                 },
@@ -11711,7 +11711,7 @@
                {
                 "tag": "img",
                 "props": {
-                 "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23155e75%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2322d3ee%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2223%22%20cy%3D%2235%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2285%22%20cy%3D%2276%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EDT%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+                 "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg",
                  "alt": "Darwin to Today: Shift to Evolution",
                  "loading": "lazy"
                 },
@@ -11776,7 +11776,7 @@
                {
                 "tag": "img",
                 "props": {
-                 "src": "data:image/svg+xml;utf8,%0A%20%20%20%20%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20100%20100%22%3E%0A%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231e40af%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2360a5fa%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2242%22%20cy%3D%2247%22%20r%3D%2222%22%20fill%3D%22%23ffffff22%22%2F%3E%0A%20%20%20%20%20%20%3Ccircle%20cx%3D%2268%22%20cy%3D%2289%22%20r%3D%2216%22%20fill%3D%22%2300000022%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%0A%20%20%20%20%20%20%20%20%20%20%20%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%20opacity%3D%220.95%22%3EMC%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E%0A%20%20",
+                 "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg",
                  "alt": "Modern Cladistics: DNA-Based Classification",
                  "loading": "lazy"
                 },

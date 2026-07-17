@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { generatedArt } from '../utils/generatedArt';
+import wikiImages from '../data/livingWorldWikiImages.json';
 
 const KINGDOMS = [
   {
@@ -7,7 +8,7 @@ const KINGDOMS = [
     title: 'Kingdom Monera',
     label: 'BACTERIA',
     color: '#A8DADC',
-    icon: generatedArt('kingdom-monera', 'Kingdom Monera'),
+    icon: wikiImages['kingdom-monera'] || generatedArt('kingdom-monera', 'Kingdom Monera'),
     short: 'Prokaryotic, unicellular organisms',
     characteristics: ['Prokaryotic cells', 'No true nucleus', 'Binary fission', 'Cell wall present', 'Oldest life forms'],
     examples: ['Bacteria', 'Cyanobacteria', 'Archaebacteria'],
@@ -17,7 +18,7 @@ const KINGDOMS = [
     title: 'Kingdom Protista',
     label: 'PROTISTS',
     color: '#F4A261',
-    icon: generatedArt('kingdom-protista', 'Kingdom Protista'),
+    icon: wikiImages['kingdom-protista'] || generatedArt('kingdom-protista', 'Kingdom Protista'),
     short: 'Eukaryotic, mostly unicellular',
     characteristics: ['True nucleus', 'Flagella/cilia for movement', 'Autotrophic or heterotrophic', 'Sexual & asexual reproduction'],
     examples: ['Amoeba', 'Paramecium', 'Euglena'],
@@ -27,7 +28,7 @@ const KINGDOMS = [
     title: 'Kingdom Fungi',
     label: 'FUNGI',
     color: '#B7E4C7',
-    icon: generatedArt('kingdom-fungi', 'Kingdom Fungi'),
+    icon: wikiImages['kingdom-fungi'] || generatedArt('kingdom-fungi', 'Kingdom Fungi'),
     short: 'Saprophytic, spore-forming',
     characteristics: ['Cell wall made of chitin', 'Absorptive nutrition', 'No chlorophyll', 'Mostly multicellular'],
     examples: ['Mushrooms', 'Yeast', 'Rhizopus'],
@@ -37,7 +38,7 @@ const KINGDOMS = [
     title: 'Kingdom Plantae',
     label: 'PLANTS',
     color: '#F9C6D3',
-    icon: generatedArt('kingdom-plantae', 'Kingdom Plantae'),
+    icon: wikiImages['kingdom-plantae'] || generatedArt('kingdom-plantae', 'Kingdom Plantae'),
     short: 'Photosynthetic, multicellular',
     characteristics: ['Chloroplast present', 'Cell wall of cellulose', 'Autotrophic', 'Alternation of generations'],
     examples: ['Ferns', 'Gymnosperms', 'Angiosperms'],
@@ -47,7 +48,7 @@ const KINGDOMS = [
     title: 'Kingdom Animalia',
     label: 'ANIMALS',
     color: '#CDB4DB',
-    icon: generatedArt('kingdom-animalia', 'Kingdom Animalia'),
+    icon: wikiImages['kingdom-animalia'] || generatedArt('kingdom-animalia', 'Kingdom Animalia'),
     short: 'Multicellular, ingestive heterotrophs',
     characteristics: ['No cell wall', 'Nervous system developed', 'Sexual reproduction', 'High specialization'],
     examples: ['Insects', 'Birds', 'Mammals (Humans)'],
@@ -224,7 +225,7 @@ function WhatIsLife() {
 
 function BinomialNomenclature() {
   const [modalOpen, setModalOpen] = useState(false);
-  const tigerImg = generatedArt('binomial-nomenclature-tiger', 'Panthera Tigris');
+  const tigerImg = wikiImages['binomial-nomenclature-tiger'] || generatedArt('binomial-nomenclature-tiger', 'Panthera Tigris');
   return (
     <section className="binomial-section">
       <div className="binomial-wrapper">
@@ -469,7 +470,7 @@ function TaxonomyAndSystematics() {
         <div className="ts-concept-grid">
           <div className="ts-concept-card ts-card-taxonomy">
             <div className="ts-card-icon">
-              <img src={generatedArt('taxonomy-icon', 'Taxonomy')} alt="Taxonomy Icon" />
+              <img src={wikiImages['taxonomy-icon'] || generatedArt('taxonomy-icon', 'Taxonomy')} alt="Taxonomy Icon" />
             </div>
             <h3>Taxonomy</h3>
             <p>
@@ -479,7 +480,7 @@ function TaxonomyAndSystematics() {
           <div className="ts-concept-card ts-card-systematics">
             <div className="ts-card-icon">
               <img
-                src={generatedArt('systematics-illustration', 'Systematics')}
+                src={wikiImages['systematics-illustration'] || generatedArt('systematics-illustration', 'Systematics')}
                 alt="Systematics Illustration"
                 style={{ filter: 'hue-rotate(260deg)' }}
               />
@@ -530,7 +531,7 @@ function LivingWorldHero() {
           </p>
         </div>
         <div className="lwi-hero-image-wrapper">
-          <img src={generatedArt('living-world-hero', 'The Living World')} alt="The Living World Illustration" />
+          <img src={wikiImages['living-world-hero'] || generatedArt('living-world-hero', 'The Living World')} alt="The Living World Illustration" />
           <div className="lwi-image-decoration"></div>
         </div>
       </div>

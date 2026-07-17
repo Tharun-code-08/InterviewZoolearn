@@ -17,6 +17,7 @@ import {
 } from 'lucide-react';
 import leechTaxonomy from '../data/leechTaxonomy.json';
 import { generatedArt } from '../utils/generatedArt';
+import leechWikiImages from '../data/leechWikiImages.json';
 
 /* ------------------------------------------------------------------ */
 /* Shared data (extracted from the live site's compiled bundle)        */
@@ -110,7 +111,7 @@ function segmentRange(id) {
   return '27-33';
 }
 
-const ANATOMY_IMAGE = generatedArt('leech-anatomy', 'Interactive Anatomy');
+const ANATOMY_IMAGE = leechWikiImages['leech-anatomy'] || generatedArt('leech-anatomy', 'Interactive Anatomy');
 
 const DIGESTIVE_FLOW = [
   { num: '1', label: 'Mouth & Buccal Cavity', badge: 'Entry', text: 'Triradiate (Y-shaped) aperture containing three muscular jaws, each bearing around 60–100 minute teeth. Located within segments 1–5.' },
@@ -160,8 +161,8 @@ const PARASITIC_ADAPTATIONS = [
 ];
 
 const PARASITIC_GALLERY = [
-  { id: 1, src: generatedArt('leech-parasitic-mode', 'Parasitic Adaptations'), alt: 'Parasitic Adaptations', caption: 'Parasitic Mode' },
-  { id: 2, src: generatedArt('leech-digestive-gallery', 'Digestive System of Leech'), alt: 'Digestive System of Leech', caption: 'Digestive System' },
+  { id: 1, src: leechWikiImages['leech-parasitic-mode'] || generatedArt('leech-parasitic-mode', 'Parasitic Adaptations'), alt: 'Parasitic Adaptations', caption: 'Parasitic Mode' },
+  { id: 2, src: leechWikiImages['leech-digestive-gallery'] || generatedArt('leech-digestive-gallery', 'Digestive System of Leech'), alt: 'Digestive System of Leech', caption: 'Digestive System' },
 ];
 
 /* ------------------------------------------------------------------ */
@@ -227,7 +228,7 @@ function MorphologySection() {
           <div className="em-morphology-card em-image-card">
             <div className="em-image-wrapper">
               <img
-                src={generatedArt('leech-morphology', 'External Morphology of Leech')}
+                src={leechWikiImages['leech-morphology'] || generatedArt('leech-morphology', 'External Morphology of Leech')}
                 alt="External Morphology of Leech"
                 className="em-morphology-img"
               />
@@ -279,7 +280,7 @@ function MorphologySection() {
                 <li>Used for feeding & attachment</li>
               </ul>
               <img
-                src={generatedArt('leech-anterior-sucker', 'Anterior Sucker')}
+                src={leechWikiImages['leech-anterior-sucker'] || generatedArt('leech-anterior-sucker', 'Anterior Sucker')}
                 alt="anterior sucker"
                 className="em-sucker-img"
               />
@@ -292,7 +293,7 @@ function MorphologySection() {
                 <li>Firm attachment & locomotion</li>
               </ul>
               <img
-                src={generatedArt('leech-posterior-sucker', 'Posterior Sucker')}
+                src={leechWikiImages['leech-posterior-sucker'] || generatedArt('leech-posterior-sucker', 'Posterior Sucker')}
                 alt="posterior sucker"
                 className="em-sucker-img"
               />
@@ -657,9 +658,9 @@ function BodyWallSection() {
 function LocomotionSection() {
   const [mode, setMode] = useState('image');
   const media = {
-    looping: generatedArt('leech-locomotion-looping', 'Looping Movement'),
-    swimming: generatedArt('leech-locomotion-swimming', 'Swimming Movement'),
-    defaultImage: generatedArt('leech-locomotion-default', 'Leech Movement'),
+    looping: leechWikiImages['leech-locomotion-looping'] || generatedArt('leech-locomotion-looping', 'Looping Movement'),
+    swimming: leechWikiImages['leech-locomotion-swimming'] || generatedArt('leech-locomotion-swimming', 'Swimming Movement'),
+    defaultImage: leechWikiImages['leech-locomotion-default'] || generatedArt('leech-locomotion-default', 'Leech Movement'),
   };
   return (
     <section className="locomotion-section" id="locomotion">
@@ -743,7 +744,7 @@ function DigestiveSection() {
           <div className="dig-right-col">
             <div className="dig-image-frame">
               <img
-                src={generatedArt('leech-digestive', 'Digestive System of Leech')}
+                src={leechWikiImages['leech-digestive'] || generatedArt('leech-digestive', 'Digestive System of Leech')}
                 alt="Digestive System of Leech"
                 className="dig-img"
               />
@@ -838,7 +839,7 @@ function RespiratorySection() {
           <div className="rs-respiratory-image-col">
             <div className="rs-image-frame">
               <img
-                src={generatedArt('leech-respiratory', 'Leech Respiration')}
+                src={leechWikiImages['leech-respiratory'] || generatedArt('leech-respiratory', 'Leech Respiration')}
                 alt="Leech Respiration"
                 className="rs-respiratory-img"
               />
@@ -896,7 +897,7 @@ function CirculatorySection() {
           <div className="cs-circulatory-image-col">
             <div className="cs-image-frame">
               <img
-                src={generatedArt('leech-circulatory', 'Circulatory System of Leech')}
+                src={leechWikiImages['leech-circulatory'] || generatedArt('leech-circulatory', 'Circulatory System of Leech')}
                 alt="Circulatory System of Leech"
                 className="cs-circulatory-img"
               />
@@ -942,7 +943,7 @@ function NervousSection() {
           <div className="nerv-nervous-image-col">
             <div className="nerv-image-frame">
               <img
-                src={generatedArt('leech-nervous', 'Nervous System of Leech')}
+                src={leechWikiImages['leech-nervous'] || generatedArt('leech-nervous', 'Nervous System of Leech')}
                 alt="Nervous System of Leech"
                 className="nerv-nervous-img"
               />
@@ -995,7 +996,7 @@ function ExcretorySection() {
           <div className="es-excretory-image-col">
             <div className="es-image-frame">
               <img
-                src={generatedArt('leech-excretory', 'Excretory System of Leech')}
+                src={leechWikiImages['leech-excretory'] || generatedArt('leech-excretory', 'Excretory System of Leech')}
                 alt="Excretory System of Leech"
                 className="es-excretory-img"
               />
@@ -1050,7 +1051,7 @@ function ReproductiveSection() {
           <div className="reproductive-image-col">
             <div className="image-frame">
               <img
-                src={generatedArt('leech-reproductive', 'Reproductive System of Leech')}
+                src={leechWikiImages['leech-reproductive'] || generatedArt('leech-reproductive', 'Reproductive System of Leech')}
                 alt="Reproductive System of Leech"
                 className="reproductive-img"
               />
@@ -1226,7 +1227,7 @@ export default function LeechLayout() {
           <div className="leech-hero-visual">
             <div className="leech-hero-image-wrapper">
               <img
-                src={generatedArt('leech-hero', 'Indian Cattle Leech')}
+                src={leechWikiImages['leech-hero'] || generatedArt('leech-hero', 'Indian Cattle Leech')}
                 alt="Indian Cattle Leech - Hirudinaria granulosa"
                 className="leech-hero-img"
               />

@@ -3,6 +3,7 @@ import { Menu, X } from 'lucide-react';
 import VNode from '../components/VNodeRenderer';
 import content from '../data/kingdomAnimaliaContent.json';
 import { generatedArt } from '../utils/generatedArt';
+import wikiImages from '../data/basicFeaturesWikiImages.json';
 
 const { sidebar, timeline, ...phyla } = content;
 
@@ -46,7 +47,7 @@ function BasicFeatures() {
           <div className="intro-hero-image">
             <img
               alt="Basic Features of Classification"
-              src={generatedArt('basic-features-classification', 'Basic Features of Classification')}
+              src={wikiImages['basic-features-classification'] || generatedArt('basic-features-classification', 'Basic Features of Classification')}
             />
           </div>
         </div>
@@ -70,7 +71,7 @@ function BasicFeatures() {
           </div>
           <div className="nutrition-image-container">
             <img
-              src={generatedArt('holozoic-nutrition-amoeba', 'Holozoic Nutrition Amoeba')}
+              src={wikiImages['holozoic-nutrition-amoeba'] || generatedArt('holozoic-nutrition-amoeba', 'Holozoic Nutrition Amoeba')}
               alt="Holozoic nutrition in Amoeba"
               title="Click to zoom"
             />
