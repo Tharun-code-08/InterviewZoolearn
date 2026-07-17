@@ -92,24 +92,27 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
 }
 
 /* Fix: hero carousel photos are real (opaque) images, not the original
-   transparent PNG cutouts this layout assumed — clip them to their own
-   card so they can never visually spill over the stats row below. */
+   transparent PNG cutouts this 3D card-stack carousel assumed — showing
+   several overlapping opaque rectangles peeking at angles reads as a messy
+   collage rather than the intended layered depth effect. Keep a single
+   photo visible at a time, presented as a tilted "3D" card (perspective +
+   rotateY, restoring the perspective this section already declared),
+   clipped to its own rounded card so it can never spill over the stats. */
 .banner-slider.carousel-container {
-  position: relative;
   overflow: hidden;
   border-radius: 22px;
-  box-shadow: 0 20px 45px -18px rgba(67, 56, 202, 0.35);
 }
 .banner-slider.carousel-container .carousel-img {
-  position: absolute;
-  inset: 0;
-  margin: auto;
-  width: 100% !important;
-  height: 100% !important;
-  max-width: 100%;
-  max-height: 100%;
   object-fit: cover;
-  border-radius: 22px;
+  transform-style: preserve-3d;
+}
+.banner-slider.carousel-container .carousel-img.active {
+  transform: perspective(1200px) rotateY(-10deg) rotateX(2deg) scale(1.05) !important;
+}
+.banner-slider.carousel-container .carousel-img:not(.active) {
+  opacity: 0 !important;
+  transform: perspective(1200px) rotateY(-10deg) scale(0.95) !important;
+  filter: none !important;
 }
 .banner-slider .banner-stats {
   position: relative;
@@ -121,6 +124,13 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   margin-top: 1.5rem;
   box-shadow: 0 10px 30px -12px rgba(15, 23, 42, 0.18);
 }
-@media (max-width: 900px) {
-  .banner-slider.carousel-container { height: 280px !important; }
+
+/* Deep Dive organism badges: these now hold real photos, not small flat
+   icons — fill the circle cleanly instead of letterboxing a tiny image
+   inside a mostly-empty ring. */
+.learn-org-icon img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  border-radius: 50%;
 }
