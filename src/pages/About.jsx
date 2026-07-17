@@ -1,11 +1,9 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
 import { useLocation } from 'react-router-dom';
-import { generatedArt } from '../utils/generatedArt';
-
 const CAROUSEL_IMAGES = [
-  generatedArt('luminary-award-2026-1', 'Luminary Award 2026'),
-  generatedArt('luminary-award-2026-2', 'Luminary Award 2026'),
-  generatedArt('luminary-award-2026-ceo', 'ZooLearn CEO'),
+  'https://res.cloudinary.com/duibfmcw1/image/upload/v1783550009/WhatsApp_Image_2026-07-07_at_4.29.38_PM_jq9dqp.jpg',
+  'https://res.cloudinary.com/duibfmcw1/image/upload/v1783550031/WhatsApp_Image_2026-07-07_at_4.29.38_PM_1_myxskv.jpg',
+  'https://res.cloudinary.com/duibfmcw1/image/upload/v1783743848/ceo_image_boralg.jpg',
 ];
 
 export default function About() {
@@ -181,7 +179,7 @@ export default function About() {
             <div className="director-image-wrap">
               <img
                 loading="lazy"
-                src={generatedArt('Amirtharaj Natarajan', 'Amirtharaj Natarajan')}
+                src="https://res.cloudinary.com/duibfmcw1/image/upload/v1770016570/amirtharaj-removebg-preview_nhyhyp.png"
                 alt="Amirtharaj Natarajan"
               />
             </div>
@@ -198,7 +196,7 @@ export default function About() {
             <div className="director-image-wrap">
               <img
                 loading="lazy"
-                src={generatedArt('Dr. R. Krishnamoorthy', 'Dr. R. Krishnamoorthy')}
+                src="https://res.cloudinary.com/duibfmcw1/image/upload/v1783748019/krishnamoorthy_d8wy5s.png"
                 alt="Dr. R. Krishnamoorthy"
               />
             </div>

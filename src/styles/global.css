@@ -90,3 +90,37 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: .001ms !important; transition-duration: .001ms !important; }
 }
+
+/* Fix: hero carousel photos are real (opaque) images, not the original
+   transparent PNG cutouts this layout assumed — clip them to their own
+   card so they can never visually spill over the stats row below. */
+.banner-slider.carousel-container {
+  position: relative;
+  overflow: hidden;
+  border-radius: 22px;
+  box-shadow: 0 20px 45px -18px rgba(67, 56, 202, 0.35);
+}
+.banner-slider.carousel-container .carousel-img {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: 100% !important;
+  height: 100% !important;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  border-radius: 22px;
+}
+.banner-slider .banner-stats {
+  position: relative;
+  z-index: 3;
+  background: #ffffffee;
+  backdrop-filter: blur(6px);
+  border-radius: 16px;
+  padding: 1rem 1.25rem;
+  margin-top: 1.5rem;
+  box-shadow: 0 10px 30px -12px rgba(15, 23, 42, 0.18);
+}
+@media (max-width: 900px) {
+  .banner-slider.carousel-container { height: 280px !important; }
+}
