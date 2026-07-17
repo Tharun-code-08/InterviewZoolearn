@@ -156,7 +156,7 @@ function KingdomCircleChart() {
           <div className="kc-glass-card">
             <div className="kc-card-header">
               <div className="kc-card-bg-icon">
-                <img src={active.icon} alt="" style={{ width: '100%', height: '100%', objectFit: 'contain', opacity: 0.2 }} />
+                <img src={active.icon} alt="" style={{ width: '100%', height: '100%', objectFit: 'contain', opacity: 0.2 }} loading="lazy" decoding="async" />
               </div>
               <span className="kc-badge">{selected ? 'Selected' : 'Preview'}</span>
               <h2 className="kc-title" style={{ color: active.color }}>
@@ -236,7 +236,7 @@ function BinomialNomenclature() {
             system of naming organisms to ensure universal identification.
           </p>
         </div>
-        <img src={tigerImg} alt="Tiger Thumbnail" className="binomial-modal-img" onClick={() => setModalOpen(true)} />
+        <img src={tigerImg} alt="Tiger Thumbnail" className="binomial-modal-img" onClick={() => setModalOpen(true)} loading="lazy" decoding="async" />
         <p>
           Every organism is given <strong>two Latin names</strong>:
         </p>
@@ -285,7 +285,7 @@ function BinomialNomenclature() {
             <button className="binomial-close-btn" onClick={() => setModalOpen(false)}>
               ✕
             </button>
-            <img src={tigerImg} alt="Enlarged Tiger" className="binomial-modal-full-img" />
+            <img src={tigerImg} alt="Enlarged Tiger" className="binomial-modal-full-img" loading="lazy" decoding="async" />
           </div>
         </div>
       )}
@@ -470,7 +470,7 @@ function TaxonomyAndSystematics() {
         <div className="ts-concept-grid">
           <div className="ts-concept-card ts-card-taxonomy">
             <div className="ts-card-icon">
-              <img src={wikiImages['taxonomy-icon'] || generatedArt('taxonomy-icon', 'Taxonomy')} alt="Taxonomy Icon" />
+              <img src={wikiImages['taxonomy-icon'] || generatedArt('taxonomy-icon', 'Taxonomy')} alt="Taxonomy Icon" loading="lazy" decoding="async" />
             </div>
             <h3>Taxonomy</h3>
             <p>
@@ -483,7 +483,7 @@ function TaxonomyAndSystematics() {
                 src={wikiImages['systematics-illustration'] || generatedArt('systematics-illustration', 'Systematics')}
                 alt="Systematics Illustration"
                 style={{ filter: 'hue-rotate(260deg)' }}
-              />
+              loading="lazy" decoding="async" />
             </div>
             <h3>Systematics</h3>
             <p>
@@ -531,7 +531,7 @@ function LivingWorldHero() {
           </p>
         </div>
         <div className="lwi-hero-image-wrapper">
-          <img src={wikiImages['living-world-hero'] || generatedArt('living-world-hero', 'The Living World')} alt="The Living World Illustration" />
+          <img src={wikiImages['living-world-hero'] || generatedArt('living-world-hero', 'The Living World')} alt="The Living World Illustration" loading="lazy" decoding="async" />
           <div className="lwi-image-decoration"></div>
         </div>
       </div>

@@ -229,7 +229,7 @@ export default function HorseEvolution() {
             </button>
             <div className="horse-detail-top">
               <div className="horse-detail-img-wrap">
-                <img src={selected.img} alt={selected.name} />
+                <img src={selected.img} alt={selected.name} loading="lazy" decoding="async" />
               </div>
               <div className="horse-detail-header">
                 <span className="horse-detail-era">{selected.era}</span>
@@ -282,7 +282,7 @@ export default function HorseEvolution() {
           <button className="horse-zoomed-close" onClick={() => setZoomed(null)}>
             ✕
           </button>
-          <img src={zoomed} alt="Zoomed detailed view" className="horse-zoomed-img" onClick={(e) => e.stopPropagation()} />
+          <img src={zoomed} alt="Zoomed detailed view" className="horse-zoomed-img" onClick={(e) => e.stopPropagation()} loading="lazy" decoding="async" />
         </div>
       )}
     </>

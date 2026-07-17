@@ -28,7 +28,7 @@ export default function PhylumSection({ meta }) {
                     to={sp.path || `/zoohub/${slug}/${sp.slug}`}
                     style={{ textDecoration: 'none' }}
                   >
-                    <img alt={sp.name} className={`${prefix}-species-image`} src={sp.image} />
+                    <img alt={sp.name} className={`${prefix}-species-image`} src={sp.image} loading="lazy" decoding="async" />
                     <div className={`${prefix}-species-info`}>
                       <div>
                         <div className={`${prefix}-species-name`}>{sp.name}</div>

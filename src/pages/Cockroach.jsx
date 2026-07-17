@@ -88,7 +88,7 @@ export default function Cockroach() {
                 src={cockroachWikiImages['cockroach-hero'] || generatedArt('cockroach-hero', 'American Cockroach')}
                 alt="Cockroach"
                 className="coc-hero-img"
-              />
+              loading="lazy" decoding="async" />
             </div>
           </div>
         </div>

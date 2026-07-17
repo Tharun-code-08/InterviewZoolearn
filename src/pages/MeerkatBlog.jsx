@@ -362,7 +362,7 @@ function StripesSection() {
         </div>
         <div className="gir-coat-main-display">
           <div className="gir-coat-large-image">
-            <img src={active.image} alt={active.name} />
+            <img src={active.image} alt={active.name} loading="lazy" decoding="async" />
             <div className="gir-coat-overlay">
               <div className="gir-coat-info">
                 <div className="gir-coat-header" style={{ borderLeftColor: active.color }}>
@@ -437,7 +437,7 @@ function RoutineSection() {
             if (i === active && active < prev) cls += ' wipe-backward';
             return (
               <div className={cls} key={r.id}>
-                <img src={r.image} alt={r.name} />
+                <img src={r.image} alt={r.name} loading="lazy" decoding="async" />
                 <div className="meer-routine-overlay">
                   <div className="meer-routine-data-box">
                     <div className="meer-routine-era">{r.time}</div>
@@ -803,7 +803,7 @@ export default function MeerkatBlog() {
                 src={wikiImages['hero-meerkat-banner'] || generatedArt('hero-meerkat-banner', 'Meerkat')}
                 alt="Meerkat Hero"
                 className="meer-hero-img"
-              />
+              loading="lazy" decoding="async" />
             </div>
           </div>
         </div>
@@ -844,7 +844,7 @@ export default function MeerkatBlog() {
               <h2 className="meer-section-heading">Why World Meerkat Day?</h2>
               <div className="meer-section-box">
                 <div className="meer-section-banner-wrapper">
-                  <img src={wikiImages['world-meerkat-day-banner'] || generatedArt('world-meerkat-day-banner', 'World Meerkat Day')} alt="World Meerkat Day Banner" />
+                  <img src={wikiImages['world-meerkat-day-banner'] || generatedArt('world-meerkat-day-banner', 'World Meerkat Day')} alt="World Meerkat Day Banner" loading="lazy" decoding="async" />
                 </div>
                 <h3 className="meer-section-title">July 3rd — Celebrating the Desert's Cooperators</h3>
                 <p className="meer-section-text">
@@ -857,10 +857,10 @@ export default function MeerkatBlog() {
                 </p>
                 <div className="meer-day-gallery">
                   <div className="meer-gallery-item">
-                    <img src={wikiImages['gallery-meerkat-family'] || generatedArt('gallery-meerkat-family', 'Meerkat Family')} alt="Meerkat Family" />
+                    <img src={wikiImages['gallery-meerkat-family'] || generatedArt('gallery-meerkat-family', 'Meerkat Family')} alt="Meerkat Family" loading="lazy" decoding="async" />
                   </div>
                   <div className="meer-gallery-item">
-                    <img src={wikiImages['gallery-meerkat-lookout'] || generatedArt('gallery-meerkat-lookout', 'Meerkat Lookout')} alt="Meerkat Lookout" />
+                    <img src={wikiImages['gallery-meerkat-lookout'] || generatedArt('gallery-meerkat-lookout', 'Meerkat Lookout')} alt="Meerkat Lookout" loading="lazy" decoding="async" />
                   </div>
                 </div>
                 <div className="meer-day-highlights" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '20px', marginTop: '30px' }}>
@@ -919,13 +919,13 @@ export default function MeerkatBlog() {
                     alt="Meet the Meerkat"
                     className="meer-horizontal-image"
                     style={{ height: 'auto', maxHeight: '230px', objectFit: 'contain', objectPosition: 'center', width: '100%', border: '2px solid var(--meer-primary)', padding: '4px', background: '#ffffff', borderRadius: '12px' }}
-                  />
+                  loading="lazy" decoding="async" />
                   <img
                     src={wikiImages['meet-the-meerkat-2'] || generatedArt('meet-the-meerkat-2', 'Meerkat Scene')}
                     alt="Meet the Meerkat Scene"
                     className="meer-horizontal-image"
                     style={{ height: 'auto', maxHeight: '230px', objectFit: 'contain', objectPosition: 'center', width: '100%', border: '2px solid var(--meer-primary)', padding: '4px', background: '#ffffff', borderRadius: '12px' }}
-                  />
+                  loading="lazy" decoding="async" />
                 </div>
               </div>
               <div className="meer-meet-stats">

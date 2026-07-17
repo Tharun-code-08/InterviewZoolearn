@@ -75,7 +75,7 @@ export default function SpeciesDetail() {
             <p>{species.description}</p>
           </div>
           <div className="phyl-hero-image">
-            <img alt={species.name} src={species.image} />
+            <img alt={species.name} src={species.image} loading="lazy" decoding="async" />
           </div>
         </div>
       </div>
