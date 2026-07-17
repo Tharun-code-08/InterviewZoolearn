@@ -164,7 +164,7 @@ export default function Rabbit() {
           </div>
           <div className="rab-hero-visual">
             <div className="rab-hero-image-wrapper">
-              <img src={rabbitWikiImages['rabbit-hero'] || generatedArt('rabbit-hero', hero.title)} alt="Rabbit" className="rab-hero-img" />
+              <img src={rabbitWikiImages['rabbit-hero'] || generatedArt('rabbit-hero', hero.title)} alt="Rabbit" className="rab-hero-img" loading="lazy" decoding="async" />
             </div>
           </div>
         </div>

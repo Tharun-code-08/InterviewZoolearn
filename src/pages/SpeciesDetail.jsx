@@ -75,7 +75,7 @@ export default function SpeciesDetail() {
             <p>{species.description}</p>
           </div>
           <div className="phyl-hero-image">
-            <img alt={species.name} src={species.image} />
+            <img alt={species.name} src={species.image} loading="lazy" decoding="async" />
           </div>
         </div>
       </div>
@@ -127,7 +127,6 @@ export default function SpeciesDetail() {
                       src={species['3d']}
                       frameBorder="0"
                       allow="autoplay; fullscreen; xr-spatial-tracking"
-                      allowFullScreen
                     />
                   </div>
                 )}

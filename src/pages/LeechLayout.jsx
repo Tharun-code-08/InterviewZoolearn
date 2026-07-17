@@ -231,7 +231,7 @@ function MorphologySection() {
                 src={leechWikiImages['leech-morphology'] || generatedArt('leech-morphology', 'External Morphology of Leech')}
                 alt="External Morphology of Leech"
                 className="em-morphology-img"
-              />
+              loading="lazy" decoding="async" />
               <span className="em-image-caption">External Morphology</span>
             </div>
           </div>
@@ -283,7 +283,7 @@ function MorphologySection() {
                 src={leechWikiImages['leech-anterior-sucker'] || generatedArt('leech-anterior-sucker', 'Anterior Sucker')}
                 alt="anterior sucker"
                 className="em-sucker-img"
-              />
+              loading="lazy" decoding="async" />
             </div>
             <div className="em-sucker-item">
               <div className="em-sucker-badge">2</div>
@@ -296,7 +296,7 @@ function MorphologySection() {
                 src={leechWikiImages['leech-posterior-sucker'] || generatedArt('leech-posterior-sucker', 'Posterior Sucker')}
                 alt="posterior sucker"
                 className="em-sucker-img"
-              />
+              loading="lazy" decoding="async" />
             </div>
           </div>
         </div>
@@ -460,7 +460,7 @@ function InteractiveAnatomySection() {
               ))}
             </div>
             <div className="leech-image-wrapper">
-              <img src={ANATOMY_IMAGE} alt="Leech Anatomy" className="leech-img" />
+              <img src={ANATOMY_IMAGE} alt="Leech Anatomy" className="leech-img" loading="lazy" decoding="async" />
               {SEGMENTS.map((s) => {
                 const inRange = active && segmentRange(active) === segmentRange(s.id);
                 const isActive = active === s.id;
@@ -701,7 +701,7 @@ function LocomotionSection() {
                 src={mode === 'image' ? media.defaultImage : media[mode]}
                 alt="Leech"
                 className="locomotion-img"
-              />
+              loading="lazy" decoding="async" />
               <span className="img-label">{mode === 'image' ? 'Leech Movement' : `Video: ${mode} Mode`}</span>
               {mode !== 'image' && (
                 <button className="reset-btn" onClick={() => setMode('image')}>
@@ -747,7 +747,7 @@ function DigestiveSection() {
                 src={leechWikiImages['leech-digestive'] || generatedArt('leech-digestive', 'Digestive System of Leech')}
                 alt="Digestive System of Leech"
                 className="dig-img"
-              />
+              loading="lazy" decoding="async" />
               <p className="dig-img-caption">Detailed Alimentary Anatomy</p>
             </div>
             <div className="dig-facts-card">
@@ -842,7 +842,7 @@ function RespiratorySection() {
                 src={leechWikiImages['leech-respiratory'] || generatedArt('leech-respiratory', 'Leech Respiration')}
                 alt="Leech Respiration"
                 className="rs-respiratory-img"
-              />
+              loading="lazy" decoding="async" />
               <span className="rs-img-caption">Cutaneous Respiration</span>
             </div>
           </div>
@@ -900,7 +900,7 @@ function CirculatorySection() {
                 src={leechWikiImages['leech-circulatory'] || generatedArt('leech-circulatory', 'Circulatory System of Leech')}
                 alt="Circulatory System of Leech"
                 className="cs-circulatory-img"
-              />
+              loading="lazy" decoding="async" />
               <span className="cs-img-caption">Haemocoelic Channels</span>
             </div>
           </div>
@@ -946,7 +946,7 @@ function NervousSection() {
                 src={leechWikiImages['leech-nervous'] || generatedArt('leech-nervous', 'Nervous System of Leech')}
                 alt="Nervous System of Leech"
                 className="nerv-nervous-img"
-              />
+              loading="lazy" decoding="async" />
               <span className="nerv-img-caption">Nervous System</span>
             </div>
           </div>
@@ -999,7 +999,7 @@ function ExcretorySection() {
                 src={leechWikiImages['leech-excretory'] || generatedArt('leech-excretory', 'Excretory System of Leech')}
                 alt="Excretory System of Leech"
                 className="es-excretory-img"
-              />
+              loading="lazy" decoding="async" />
               <span className="es-img-caption">Nephridium Structure</span>
             </div>
           </div>
@@ -1054,7 +1054,7 @@ function ReproductiveSection() {
                 src={leechWikiImages['leech-reproductive'] || generatedArt('leech-reproductive', 'Reproductive System of Leech')}
                 alt="Reproductive System of Leech"
                 className="reproductive-img"
-              />
+              loading="lazy" decoding="async" />
               <span className="img-caption">Reproductive System</span>
             </div>
           </div>
@@ -1109,7 +1109,7 @@ function ParasiticSection() {
                 <button className="slider-btn next-btn" onClick={next}>
                   ❯
                 </button>
-                <img src={current.src} alt={current.alt} className="parasitic-img" />
+                <img src={current.src} alt={current.alt} className="parasitic-img" loading="lazy" decoding="async" />
               </div>
               <span className="img-caption">{current.caption}</span>
               <div className="slider-dots">
@@ -1230,7 +1230,7 @@ export default function LeechLayout() {
                 src={leechWikiImages['leech-hero'] || generatedArt('leech-hero', 'Indian Cattle Leech')}
                 alt="Indian Cattle Leech - Hirudinaria granulosa"
                 className="leech-hero-img"
-              />
+              loading="lazy" decoding="async" />
             </div>
           </div>
         </div>

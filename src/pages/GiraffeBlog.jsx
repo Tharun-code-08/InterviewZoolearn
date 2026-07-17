@@ -295,7 +295,7 @@ function CoatPatternsSection() {
               style={{ '--coat-color': s.color }}
             >
               <div className="gir-coat-thumb-img-wrapper">
-                <img src={s.image} alt={`${s.name} pattern`} />
+                <img src={s.image} alt={`${s.name} pattern`} loading="lazy" decoding="async" />
               </div>
               <span className="gir-coat-thumb-label">{s.name}</span>
             </button>
@@ -303,7 +303,7 @@ function CoatPatternsSection() {
         </div>
         <div className="gir-coat-main-display">
           <div className="gir-coat-large-image">
-            <img src={active.image} alt={active.name} />
+            <img src={active.image} alt={active.name} loading="lazy" decoding="async" />
             <div className="gir-coat-overlay">
               <div className="gir-coat-info">
                 <div className="gir-coat-header" style={{ borderLeftColor: active.color }}>
@@ -378,7 +378,7 @@ function TransformationSection() {
             if (i === active && active < prev) cls += ' wipe-backward';
             return (
               <div className={cls} key={t.id}>
-                <img src={t.image} alt={t.name} />
+                <img src={t.image} alt={t.name} loading="lazy" decoding="async" />
                 <div className="gir-evo-overlay">
                   <div className="gir-evo-data-box">
                     <div className="gir-evo-era">{t.era}</div>
@@ -752,7 +752,7 @@ export default function GiraffeBlog() {
                 src={wikiImages['hero-modern-giraffe'] || generatedArt('hero-modern-giraffe', 'Giraffa camelopardalis')}
                 alt="Giraffa camelopardalis — Modern Giraffe"
                 className="gir-hero-img"
-              />
+              loading="lazy" decoding="async" />
             </div>
           </div>
         </div>

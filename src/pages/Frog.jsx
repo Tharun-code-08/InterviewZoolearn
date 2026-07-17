@@ -152,7 +152,7 @@ function FigureImage({ src, label, className = '', style = {} }) {
   return (
     <div className={`frog-image-card ${className}`} style={style}>
       <div className="frog-image-container">
-        <img src={src} alt={label} className="frog-content-img" />
+        <img src={src} alt={label} className="frog-content-img" loading="lazy" decoding="async" />
       </div>
       <div className="frog-image-caption">
         <span className="frog-image-caption-prefix">Figure: </span>
@@ -166,7 +166,7 @@ function CardImage({ src, alt }) {
   if (!src) return null;
   return (
     <div className="frog-card-image-container">
-      <img src={src} alt={alt} className="frog-card-content-img" />
+      <img src={src} alt={alt} className="frog-card-content-img" loading="lazy" decoding="async" />
       <div className="frog-card-image-caption">
         <span className="frog-card-image-caption-prefix">Figure: </span>
         <span className="frog-card-image-caption-text">{alt}</span>
@@ -885,7 +885,7 @@ export default function Frog() {
           </div>
           <div className="frog-hero-visual">
             <div className="frog-hero-image-wrapper">
-              <img src={HERO.image} alt="Frog" className="frog-hero-img" />
+              <img src={HERO.image} alt="Frog" className="frog-hero-img" loading="lazy" decoding="async" />
             </div>
           </div>
         </div>

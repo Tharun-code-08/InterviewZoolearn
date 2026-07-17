@@ -123,7 +123,7 @@ export default function BlogIndex() {
                 style={{ '--bl-accent': post.accentColor, '--bl-accent-light': post.accentLight }}
               >
                 <div className="bl-card-image-wrap">
-                  <img src={post.image} alt={post.title} className="bl-card-img" />
+                  <img src={post.image} alt={post.title} className="bl-card-img" loading="lazy" decoding="async" />
                   <div className="bl-card-image-overlay"></div>
                   {post.featured && <span className="bl-card-featured-badge">⭐ Featured</span>}
                 </div>

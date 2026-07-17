@@ -48,7 +48,7 @@ function BasicFeatures() {
             <img
               alt="Basic Features of Classification"
               src={wikiImages['basic-features-classification'] || generatedArt('basic-features-classification', 'Basic Features of Classification')}
-            />
+            loading="lazy" decoding="async" />
           </div>
         </div>
       </section>
@@ -74,7 +74,7 @@ function BasicFeatures() {
               src={wikiImages['holozoic-nutrition-amoeba'] || generatedArt('holozoic-nutrition-amoeba', 'Holozoic Nutrition Amoeba')}
               alt="Holozoic nutrition in Amoeba"
               title="Click to zoom"
-            />
+            loading="lazy" decoding="async" />
           </div>
         </div>
       </section>

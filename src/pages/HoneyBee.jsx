@@ -33,7 +33,7 @@ export default function HoneyBee() {
               src={honeyBeeWikiImages['honeybee-hero'] || generatedArt('honeybee-hero', 'Honey Bee')}
               alt="Honey Bee"
               className="honey-hero-img"
-            />
+            loading="lazy" decoding="async" />
           </div>
         </div>
         <div
@@ -72,7 +72,7 @@ export default function HoneyBee() {
                       src={honeyBeeWikiImages['honeybee-queen'] || generatedArt('honeybee-queen', 'Queen Bee')}
                       alt="Queen Bee"
                       className="card-img"
-                    />
+                    loading="lazy" decoding="async" />
                   </div>
                   <h3 className="card-front-title">Queen Bee</h3>
                   <span className="tap-hint">Hover/Tap to Flip</span>
@@ -97,7 +97,7 @@ export default function HoneyBee() {
                       src={honeyBeeWikiImages['honeybee-worker'] || generatedArt('honeybee-worker', 'Worker Bee')}
                       alt="Worker Bee"
                       className="card-img"
-                    />
+                    loading="lazy" decoding="async" />
                   </div>
                   <h3 className="card-front-title">Worker Bees</h3>
                   <span className="tap-hint">Hover/Tap to Flip</span>
@@ -130,7 +130,7 @@ export default function HoneyBee() {
                       src={honeyBeeWikiImages['honeybee-drone'] || generatedArt('honeybee-drone', 'Drone Bee')}
                       alt="Drone Bee"
                       className="card-img"
-                    />
+                    loading="lazy" decoding="async" />
                   </div>
                   <h3 className="card-front-title">Drone Bees</h3>
                   <span className="tap-hint">Hover/Tap to Flip</span>

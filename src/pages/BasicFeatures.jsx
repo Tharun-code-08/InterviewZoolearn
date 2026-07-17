@@ -33,7 +33,7 @@ function IntroHero() {
           <img
             alt="Basic Features of Classification"
             src={wikiImages['basic-features-classification'] || generatedArt('basic-features-classification', 'Basic Features of Classification')}
-          />
+          loading="lazy" decoding="async" />
         </div>
       </div>
     </section>
@@ -64,7 +64,7 @@ function NutritionSection() {
             </p>
           </div>
           <div className="nutrition-image-container">
-            <img src={imgSrc} alt="Holozoic nutrition in Amoeba" onClick={() => setZoomed(true)} title="Click to zoom" />
+            <img src={imgSrc} alt="Holozoic nutrition in Amoeba" onClick={() => setZoomed(true)} title="Click to zoom" loading="lazy" decoding="async" />
           </div>
         </div>
       </section>
@@ -74,7 +74,7 @@ function NutritionSection() {
             <span className="nutrition-close-btn" onClick={() => setZoomed(false)}>
               ×
             </span>
-            <img src={imgSrc} alt="Expanded nutrition diagram" className="nutrition-full-img" />
+            <img src={imgSrc} alt="Expanded nutrition diagram" className="nutrition-full-img" loading="lazy" decoding="async" />
           </div>
         </div>
       )}
@@ -184,7 +184,7 @@ function HoverCard({ label, title, imageUrl, alt, description, examples }) {
             <p>{label}</p>
           </div>
           <figure className="loo-visual-figure">
-            <img src={imageUrl} alt={alt} className="loo-visual-img" />
+            <img src={imageUrl} alt={alt} className="loo-visual-img" loading="lazy" decoding="async" />
           </figure>
           <footer className="loo-visual-footer">{title}</footer>
         </div>
@@ -277,7 +277,7 @@ function BodySymmetry() {
             <div className="bs-flip-card" key={item.id} onClick={() => setFlippedId(flippedId === item.id ? null : item.id)}>
               <div className={`bs-card-inner ${flippedId === item.id ? 'is-flipped' : ''}`}>
                 <div className="bs-card-front">
-                  <img src={item.img} alt={item.title} className="bs-card-img" />
+                  <img src={item.img} alt={item.title} className="bs-card-img" loading="lazy" decoding="async" />
                   <div className="bs-card-label">{item.title}</div>
                 </div>
                 <div className="bs-card-back">
@@ -542,7 +542,7 @@ function CoelomCard({ title, description, image }) {
   return (
     <article className="coelom-card">
       <div className="coelom-visual-box">
-        <img src={image || COELOM_FALLBACK_IMG} alt={title} className="coelom-img" onError={(e) => { e.target.src = COELOM_FALLBACK_IMG; }} />
+        <img src={image || COELOM_FALLBACK_IMG} alt={title} className="coelom-img" onError={(e) => { e.target.src = COELOM_FALLBACK_IMG; }} loading="lazy" decoding="async" />
       </div>
       <div className="coelom-content">
         <h3 className="coelom-card-title">{title}</h3>
@@ -562,7 +562,7 @@ function FormationCard({ title, summary, image, points, extraNote }) {
       <div className="coelom-formation-body">
         <div className="coelom-formation-visual">
           <figure className="coelom-formation-figure">
-            <img src={image || COELOM_FALLBACK_IMG} alt={title} className="coelom-formation-img" onError={(e) => { e.target.src = COELOM_FALLBACK_IMG; }} />
+            <img src={image || COELOM_FALLBACK_IMG} alt={title} className="coelom-formation-img" onError={(e) => { e.target.src = COELOM_FALLBACK_IMG; }} loading="lazy" decoding="async" />
           </figure>
         </div>
         <div className="coelom-formation-details">

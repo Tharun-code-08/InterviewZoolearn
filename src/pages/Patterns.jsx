@@ -54,7 +54,7 @@ function OpenClosedComparison({ data }) {
         </div>
       </div>
       <figure className="patt-section-image-wrapper patt-comparison-image-large">
-        <img src={data.image} alt="Visual comparison of Open vs Closed systems" className="patt-section-image" />
+        <img src={data.image} alt="Visual comparison of Open vs Closed systems" className="patt-section-image" loading="lazy" decoding="async" />
         <figcaption className="patt-comparison-caption">{data.caption}</figcaption>
       </figure>
     </>
@@ -82,7 +82,7 @@ function TwoColComparison({ data }) {
             src={col.image}
             alt={col.title}
             style={{ width: '100%', height: 'auto', border: 'none', boxShadow: 'none', marginTop: 'auto', objectFit: 'contain' }}
-          />
+          loading="lazy" decoding="async" />
         </div>
       ))}
     </div>
@@ -415,7 +415,7 @@ export default function Patterns() {
             <X size={28} />
           </button>
           <div className="patt-lightbox-content" onClick={(e) => e.stopPropagation()}>
-            <img src={lightbox.src} alt={lightbox.alt} className="patt-lightbox-image" />
+            <img src={lightbox.src} alt={lightbox.alt} className="patt-lightbox-image" loading="lazy" decoding="async" />
             {lightbox.caption && <p className="patt-lightbox-caption">{lightbox.caption}</p>}
           </div>
         </div>
