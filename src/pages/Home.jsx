@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { Microscope, Layers, PawPrint, Dna } from 'lucide-react';
 import CountUp from '../components/CountUp';
 import Logo from '../components/Logo';
 import scientists from '../data/scientists.json';
@@ -8,6 +9,13 @@ import deepDive from '../data/deepDive.json';
 import { generatedArt } from '../utils/generatedArt';
 import wikiImages from '../data/miscWikiImages.json';
 import scientistsWiki from '../data/scientistsWikiImages.json';
+
+const LEARN_ICONS = {
+  'LIving World': Microscope,
+  'Patterns of complexities': Layers,
+  'Kingdom Animalia': PawPrint,
+  Evolution: Dna,
+};
 
 const CAROUSEL_NAMES = ['Pleurobrachia', 'Dugesia', 'Chalina', 'Tubifex', 'Naja naja', 'Ascaris', 'Hydra', 'Araneus', 'Unio'];
 const CAROUSEL_IMAGES = CAROUSEL_NAMES.map((n) => wikiImages[`carousel:${n}`] || generatedArt(n, n));
@@ -168,7 +176,9 @@ function LearningSection() {
             <p className="learn-section-subtitle">Build strong zoology foundations with concept-first modules.</p>
           </div>
           <div className="learn-conceptual-grid">
-            {learningPath.map((item) => (
+            {learningPath.map((item) => {
+              const Icon = LEARN_ICONS[item.title] || Layers;
+              return (
               <div
                 className="learn-conceptual-card"
                 key={item.title}
@@ -177,7 +187,7 @@ function LearningSection() {
               >
                 <div>
                   <div className="learn-icon-box">
-                    <img src={wikiImages[`learn:${item.title}`] || generatedArt(item.title, item.title)} alt={item.title} />
+                    <Icon size={32} strokeWidth={1.75} color="var(--zl-primary)" />
                   </div>
                   <h3>{item.title}</h3>
                   <p>{item.description}</p>
@@ -192,7 +202,8 @@ function LearningSection() {
                   Start Module →
                 </button>
               </div>
-            ))}
+              );
+            })}
           </div>
         </div>
       </section>
